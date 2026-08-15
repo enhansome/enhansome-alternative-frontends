@@ -21,10 +21,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Crystal",
-                "last_commit": "2026-08-14T20:47:04Z",
+                "last_commit": "2026-08-15T02:09:17Z",
                 "owner": "iv-org",
                 "repo": "invidious",
-                "stars": 22650
+                "stars": 22661
               }
             },
             {
@@ -59,7 +59,7 @@
                 "last_commit": "2026-08-14T17:45:48Z",
                 "owner": "TeamPiped",
                 "repo": "Piped",
-                "stars": 10179
+                "stars": 10183
               }
             },
             {
@@ -73,7 +73,7 @@
                 "last_commit": "2024-03-21T16:11:54Z",
                 "owner": "digitalblossom",
                 "repo": "alternative-frontends",
-                "stars": 2284
+                "stars": 2283
               }
             }
           ]
@@ -156,7 +156,7 @@
                 "last_commit": "2025-02-15T19:11:02Z",
                 "owner": "libreddit",
                 "repo": "libreddit",
-                "stars": 5200
+                "stars": 5198
               }
             },
             {
@@ -170,7 +170,7 @@
                 "last_commit": "2025-02-15T19:11:02Z",
                 "owner": "libreddit",
                 "repo": "libreddit",
-                "stars": 5200
+                "stars": 5198
               }
             },
             {
@@ -181,7 +181,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Shell",
-                "last_commit": "2026-08-13T01:51:21Z",
+                "last_commit": "2026-08-15T01:09:40Z",
                 "owner": "libreddit",
                 "repo": "libreddit-instances",
                 "stars": 108
@@ -241,7 +241,7 @@
               "description": null,
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "language": "Python",
                 "last_commit": "2026-08-14T14:12:30Z",
                 "owner": "benbusby",
@@ -255,7 +255,7 @@
               "description": null,
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "language": "Python",
                 "last_commit": "2026-08-14T14:12:30Z",
                 "owner": "benbusby",
@@ -269,7 +269,7 @@
               "description": null,
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "language": "Python",
                 "last_commit": "2026-08-14T14:12:30Z",
                 "owner": "benbusby",
@@ -379,7 +379,7 @@
                 "last_commit": "2026-08-14T08:21:53Z",
                 "owner": "searxng",
                 "repo": "searxng",
-                "stars": 35471
+                "stars": 35513
               }
             }
           ]
@@ -402,11 +402,11 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "Go",
-                "last_commit": "2026-08-14T01:30:50Z",
+                "language": "HTML",
+                "last_commit": "2026-08-15T17:04:19Z",
                 "owner": "benbusby",
                 "repo": "farside",
-                "stars": 952
+                "stars": 951
               }
             },
             {
@@ -416,11 +416,11 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "Go",
-                "last_commit": "2026-08-14T01:30:50Z",
+                "language": "HTML",
+                "last_commit": "2026-08-15T17:04:19Z",
                 "owner": "benbusby",
                 "repo": "farside",
-                "stars": 952
+                "stars": 951
               }
             }
           ]
@@ -462,7 +462,7 @@
                 "last_commit": "2026-08-12T08:51:36Z",
                 "owner": "libredirect",
                 "repo": "browser_extension",
-                "stars": 4001
+                "stars": 4003
               }
             }
           ]
@@ -514,7 +514,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T21:55:31.124Z",
+    "last_updated": "2026-08-15T21:53:46.365Z",
     "original_repository": "digitalblossom/alternative-frontends",
     "original_repository_sha": "9223e0e9c3a379314020ffd51e34eb5d7f6ad81e",
     "enhanced_repository": "enhansome/enhansome-alternative-frontends",
