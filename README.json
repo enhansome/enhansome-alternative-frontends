@@ -21,10 +21,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Crystal",
-                "last_commit": "2026-08-15T02:09:17Z",
+                "last_commit": "2026-08-17T05:49:17Z",
                 "owner": "iv-org",
                 "repo": "invidious",
-                "stars": 22674
+                "stars": 22681
               }
             },
             {
@@ -59,7 +59,7 @@
                 "last_commit": "2026-08-16T21:27:43Z",
                 "owner": "TeamPiped",
                 "repo": "Piped",
-                "stars": 10185
+                "stars": 10187
               }
             },
             {
@@ -73,7 +73,7 @@
                 "last_commit": "2024-03-21T16:11:54Z",
                 "owner": "digitalblossom",
                 "repo": "alternative-frontends",
-                "stars": 2286
+                "stars": 2285
               }
             }
           ]
@@ -181,7 +181,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Shell",
-                "last_commit": "2026-08-15T01:09:40Z",
+                "last_commit": "2026-08-17T01:10:37Z",
                 "owner": "libreddit",
                 "repo": "libreddit-instances",
                 "stars": 108
@@ -246,7 +246,7 @@
                 "last_commit": "2026-08-14T14:12:30Z",
                 "owner": "benbusby",
                 "repo": "whoogle-search",
-                "stars": 11599
+                "stars": 11597
               }
             },
             {
@@ -260,7 +260,7 @@
                 "last_commit": "2026-08-14T14:12:30Z",
                 "owner": "benbusby",
                 "repo": "whoogle-search",
-                "stars": 11599
+                "stars": 11597
               }
             },
             {
@@ -274,7 +274,7 @@
                 "last_commit": "2026-08-14T14:12:30Z",
                 "owner": "benbusby",
                 "repo": "whoogle-search",
-                "stars": 11599
+                "stars": 11597
               }
             }
           ]
@@ -358,7 +358,7 @@
                 "last_commit": "2026-05-14T10:02:22Z",
                 "owner": "searx",
                 "repo": "searx",
-                "stars": 13533
+                "stars": 13534
               }
             }
           ]
@@ -376,10 +376,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-16T09:13:59Z",
+                "last_commit": "2026-08-17T12:09:49Z",
                 "owner": "searxng",
                 "repo": "searxng",
-                "stars": 35559
+                "stars": 35635
               }
             }
           ]
@@ -403,7 +403,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "HTML",
-                "last_commit": "2026-08-16T01:54:43Z",
+                "last_commit": "2026-08-17T01:52:54Z",
                 "owner": "benbusby",
                 "repo": "farside",
                 "stars": 952
@@ -417,7 +417,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "HTML",
-                "last_commit": "2026-08-16T01:54:43Z",
+                "last_commit": "2026-08-17T01:52:54Z",
                 "owner": "benbusby",
                 "repo": "farside",
                 "stars": 952
@@ -462,7 +462,7 @@
                 "last_commit": "2026-08-12T08:51:36Z",
                 "owner": "libredirect",
                 "repo": "browser_extension",
-                "stars": 4000
+                "stars": 4003
               }
             }
           ]
@@ -483,7 +483,7 @@
                 "last_commit": "2025-07-27T19:04:51Z",
                 "owner": "einaregilsson",
                 "repo": "Redirector",
-                "stars": 2073
+                "stars": 2075
               }
             }
           ]
@@ -504,7 +504,7 @@
                 "last_commit": "2026-07-04T19:26:59Z",
                 "owner": "you-apps",
                 "repo": "TranslateYou",
-                "stars": 1525
+                "stars": 1526
               }
             }
           ]
@@ -514,7 +514,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T21:53:24.074Z",
+    "last_updated": "2026-08-17T21:56:24.599Z",
     "original_repository": "digitalblossom/alternative-frontends",
     "original_repository_sha": "9223e0e9c3a379314020ffd51e34eb5d7f6ad81e",
     "enhanced_repository": "enhansome/enhansome-alternative-frontends",
