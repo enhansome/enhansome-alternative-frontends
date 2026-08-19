@@ -2,520 +2,553 @@
   "items": [
     {
       "description": "This is a list of privacy-respecting frontends to popular services like social media. All of them are cross-plattform webapps and should work on your device no matter the OS and hardware.\nⓘ You can suggest new frontends and modifications to the list here.\nThanks to 3nprob, aaferrari, heartlog, NxOne14, ZekXtreme, TimDaub, privacytime101, HexagonCDN, Odyssey346, gi-yt, Solomon1732 and lolcatw for their contributions!\nYoutube • YT Music • Reddit • Twitter • Imgur • Tiktok • Medium • Quora • GitHub • StackOverflow • IMDb • Genius • XVideos • Fandom • Translate • Search Engines • Instagram • Odysee • Wikipedia • Tools\n☰ You can jump between sections via the little menu icon above to the left.\nⓘ Check out the tools section at the bottom to find out how to easily adopt and even self-host.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Invidious",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Homepage",
+                  "description": "Repo",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 120542434,
+                    "language": "Crystal",
+                    "last_commit": "2026-08-17T05:49:17Z",
+                    "owner": "iv-org",
+                    "repo": "invidious",
+                    "stars": 22693
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Decentralized Options | I2P",
+                  "description": "Onion | Loki",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 317291340,
+                    "language": "Dockerfile",
+                    "last_commit": "2026-08-09T19:53:58Z",
+                    "owner": "iv-org",
+                    "repo": "documentation",
+                    "stars": 797
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Piped",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Main Instance",
+                  "description": "Repo",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 311916226,
+                    "language": "Vue",
+                    "last_commit": "2026-08-16T21:27:43Z",
+                    "owner": "TeamPiped",
+                    "repo": "Piped",
+                    "stars": 10189
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Decentralized Options | IPNS",
+                  "description": "Onion",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 415553659,
+                    "language": null,
+                    "last_commit": "2024-03-21T16:11:54Z",
+                    "owner": "digitalblossom",
+                    "repo": "alternative-frontends",
+                    "stars": 2284
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Viewtube",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Main Instance",
+                  "description": "Repo",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 197559490,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-19T06:00:13Z",
+                    "owner": "ViewTube",
+                    "repo": "viewtube",
+                    "stars": 1476
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Self-Hostable | Guide",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 197559490,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-19T06:00:13Z",
+                    "owner": "ViewTube",
+                    "repo": "viewtube",
+                    "stars": 1476
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "YouTube"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Teddit",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Public Instances",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 314029920,
+                    "language": "JavaScript",
+                    "last_commit": "2023-07-31T05:05:18Z",
+                    "owner": "teddit-net",
+                    "repo": "teddit",
+                    "stars": 280
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Libreddit",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Main Instance n/a | Repo",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 286875790,
+                    "language": "Rust",
+                    "last_commit": "2025-02-15T19:11:02Z",
+                    "owner": "libreddit",
+                    "repo": "libreddit",
+                    "stars": 5198
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Self-Hostable | Guide",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 286875790,
+                    "language": "Rust",
+                    "last_commit": "2025-02-15T19:11:02Z",
+                    "owner": "libreddit",
+                    "repo": "libreddit",
+                    "stars": 5198
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Public Instances",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 539787351,
+                    "language": "Shell",
+                    "last_commit": "2026-08-19T01:11:25Z",
+                    "owner": "libreddit",
+                    "repo": "libreddit-instances",
+                    "stars": 108
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Troddit",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Main Instance",
+                  "description": "Repo",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 389229514,
+                    "language": "TypeScript",
+                    "last_commit": "2025-07-28T00:18:41Z",
+                    "owner": "burhan-syed",
+                    "repo": "troddit",
+                    "stars": 624
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Self-Hostable | Guide",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 389229514,
+                    "language": "TypeScript",
+                    "last_commit": "2025-07-28T00:18:41Z",
+                    "owner": "burhan-syed",
+                    "repo": "troddit",
+                    "stars": 624
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Reddit"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Whoogle",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Main Instance n/a | Repo",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 235434204,
+                    "language": "Python",
+                    "last_commit": "2026-08-14T14:12:30Z",
+                    "owner": "benbusby",
+                    "repo": "whoogle-search",
+                    "stars": 11595
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Public Instances",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 235434204,
+                    "language": "Python",
+                    "last_commit": "2026-08-14T14:12:30Z",
+                    "owner": "benbusby",
+                    "repo": "whoogle-search",
+                    "stars": 11595
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Self-Hostable | Guide",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 235434204,
+                    "language": "Python",
+                    "last_commit": "2026-08-14T14:12:30Z",
+                    "owner": "benbusby",
+                    "repo": "whoogle-search",
+                    "stars": 11595
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "LibreX",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Main Instance",
+                  "description": "Repo",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 460592324,
+                    "language": "PHP",
+                    "last_commit": "2024-08-01T09:31:27Z",
+                    "owner": "hnhx",
+                    "repo": "librex",
+                    "stars": 845
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Public Instances",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 460592324,
+                    "language": "PHP",
+                    "last_commit": "2024-08-01T09:31:27Z",
+                    "owner": "hnhx",
+                    "repo": "librex",
+                    "stars": 845
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Self-Hostable | Guide",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 460592324,
+                    "language": "PHP",
+                    "last_commit": "2024-08-01T09:31:27Z",
+                    "owner": "hnhx",
+                    "repo": "librex",
+                    "stars": 845
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Decentralized Options | I2P",
+                  "description": "Onion",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 460592324,
+                    "language": "PHP",
+                    "last_commit": "2024-08-01T09:31:27Z",
+                    "owner": "hnhx",
+                    "repo": "librex",
+                    "stars": 845
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "SearX",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Homepage",
+                  "description": "Repo",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 13595305,
+                    "language": "Python",
+                    "last_commit": "2026-05-14T10:02:22Z",
+                    "owner": "searx",
+                    "repo": "searx",
+                    "stars": 13536
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "SearxNG",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Homepage",
+                  "description": "Repo",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 357241735,
+                    "language": "Python",
+                    "last_commit": "2026-08-19T12:09:02Z",
+                    "owner": "searxng",
+                    "repo": "searxng",
+                    "stars": 35722
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Search Engines"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Farside",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Homepage",
+                  "description": "Repo",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 419886612,
+                    "language": "HTML",
+                    "last_commit": "2026-08-19T01:49:49Z",
+                    "owner": "benbusby",
+                    "repo": "farside",
+                    "stars": 952
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Self-Hostable | Guide",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 419886612,
+                    "language": "HTML",
+                    "last_commit": "2026-08-19T01:49:49Z",
+                    "owner": "benbusby",
+                    "repo": "farside",
+                    "stars": 952
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Privacy Redirect",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Download & Repo",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 209767110,
+                    "language": "JavaScript",
+                    "last_commit": "2023-09-05T18:05:25Z",
+                    "owner": "SimonBrazell",
+                    "repo": "privacy-redirect",
+                    "stars": 2190
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "LibRedirect",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Homepage & Download",
+                  "description": "Repo",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 434591591,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-12T08:51:36Z",
+                    "owner": "libredirect",
+                    "repo": "browser_extension",
+                    "stars": 4005
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Redirector",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Homepage & Download",
+                  "description": "Repo",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1620438,
+                    "language": "JavaScript",
+                    "last_commit": "2025-07-27T19:04:51Z",
+                    "owner": "einaregilsson",
+                    "repo": "Redirector",
+                    "stars": 2078
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Translate You Libre",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Download",
+                  "description": "Repo",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 535721285,
+                    "language": "Kotlin",
+                    "last_commit": "2026-07-04T19:26:59Z",
+                    "owner": "you-apps",
+                    "repo": "TranslateYou",
+                    "stars": 1527
+                  }
+                }
+              ]
+            }
+          ],
+          "description": "Legal addendum\nThis repository is not affiliated with any of the mentioned companies. Trademarks belong to their respective owners. YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC. Google is a trademark of Google LLC. Reddit is a trademark of Reddit Inc. Twitter is a trademark of Twitter Inc. Imgur is a trademark of MediaLab AI, Inc. Instagram is a trademark of Meta Platforms. Medium is a trademark of A Medium Corporation. Tiktok is a trademark of Bytedance Ltd. IMDb is a trademark of IMDb.com, Inc. Odysee is a trademark of Odysee, Inc. Quora is a trademark of Quora Inc. XVIDEOS is a trademark of WEBGROUP CZECH REPUBLIC, A.S. FANDOM is a trademark of Fandom, Inc. GitHub is a trademark of GitHub, Inc. StackOverflow is a trademark Stack Exchange, Inc. Genius is a trademark of ML Genius Holdings, LLC.\nThe creators of this repository assume no liability for the accuracy and timeliness of any information provided above. Trademark owner information was researched to the best of the author's knowledge at the time of curation and may be outdated or incorrect.",
+          "node_type": "group",
+          "title": "Tools"
+        }
+      ],
       "title": "Alternative Frontends"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Invidious",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Homepage",
-              "description": "Repo",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Crystal",
-                "last_commit": "2026-08-17T05:49:17Z",
-                "owner": "iv-org",
-                "repo": "invidious",
-                "stars": 22690
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Decentralized Options | I2P",
-              "description": "Onion | Loki",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Dockerfile",
-                "last_commit": "2026-08-09T19:53:58Z",
-                "owner": "iv-org",
-                "repo": "documentation",
-                "stars": 797
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Piped",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Main Instance",
-              "description": "Repo",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Vue",
-                "last_commit": "2026-08-16T21:27:43Z",
-                "owner": "TeamPiped",
-                "repo": "Piped",
-                "stars": 10185
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Decentralized Options | IPNS",
-              "description": "Onion",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": null,
-                "last_commit": "2024-03-21T16:11:54Z",
-                "owner": "digitalblossom",
-                "repo": "alternative-frontends",
-                "stars": 2284
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Viewtube",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Main Instance",
-              "description": "Repo",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "TypeScript",
-                "last_commit": "2026-08-14T21:12:19Z",
-                "owner": "ViewTube",
-                "repo": "viewtube",
-                "stars": 1476
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Self-Hostable | Guide",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "TypeScript",
-                "last_commit": "2026-08-14T21:12:19Z",
-                "owner": "ViewTube",
-                "repo": "viewtube",
-                "stars": 1476
-              }
-            }
-          ]
-        }
-      ],
-      "title": "YouTube"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Teddit",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Public Instances",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2023-07-31T05:05:18Z",
-                "owner": "teddit-net",
-                "repo": "teddit",
-                "stars": 280
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Libreddit",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Main Instance n/a | Repo",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Rust",
-                "last_commit": "2025-02-15T19:11:02Z",
-                "owner": "libreddit",
-                "repo": "libreddit",
-                "stars": 5198
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Self-Hostable | Guide",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Rust",
-                "last_commit": "2025-02-15T19:11:02Z",
-                "owner": "libreddit",
-                "repo": "libreddit",
-                "stars": 5198
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Public Instances",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Shell",
-                "last_commit": "2026-08-17T01:10:37Z",
-                "owner": "libreddit",
-                "repo": "libreddit-instances",
-                "stars": 108
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Troddit",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Main Instance",
-              "description": "Repo",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "TypeScript",
-                "last_commit": "2025-07-28T00:18:41Z",
-                "owner": "burhan-syed",
-                "repo": "troddit",
-                "stars": 624
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Self-Hostable | Guide",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "TypeScript",
-                "last_commit": "2025-07-28T00:18:41Z",
-                "owner": "burhan-syed",
-                "repo": "troddit",
-                "stars": 624
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Reddit"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Whoogle",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Main Instance n/a | Repo",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Python",
-                "last_commit": "2026-08-14T14:12:30Z",
-                "owner": "benbusby",
-                "repo": "whoogle-search",
-                "stars": 11595
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Public Instances",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Python",
-                "last_commit": "2026-08-14T14:12:30Z",
-                "owner": "benbusby",
-                "repo": "whoogle-search",
-                "stars": 11595
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Self-Hostable | Guide",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Python",
-                "last_commit": "2026-08-14T14:12:30Z",
-                "owner": "benbusby",
-                "repo": "whoogle-search",
-                "stars": 11595
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "LibreX",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Main Instance",
-              "description": "Repo",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "PHP",
-                "last_commit": "2024-08-01T09:31:27Z",
-                "owner": "hnhx",
-                "repo": "librex",
-                "stars": 844
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Public Instances",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "PHP",
-                "last_commit": "2024-08-01T09:31:27Z",
-                "owner": "hnhx",
-                "repo": "librex",
-                "stars": 844
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Self-Hostable | Guide",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "PHP",
-                "last_commit": "2024-08-01T09:31:27Z",
-                "owner": "hnhx",
-                "repo": "librex",
-                "stars": 844
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Decentralized Options | I2P",
-              "description": "Onion",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "PHP",
-                "last_commit": "2024-08-01T09:31:27Z",
-                "owner": "hnhx",
-                "repo": "librex",
-                "stars": 844
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "SearX",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Homepage",
-              "description": "Repo",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-05-14T10:02:22Z",
-                "owner": "searx",
-                "repo": "searx",
-                "stars": 13536
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "SearxNG",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Homepage",
-              "description": "Repo",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-08-17T12:09:49Z",
-                "owner": "searxng",
-                "repo": "searxng",
-                "stars": 35693
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Search Engines"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Farside",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Homepage",
-              "description": "Repo",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "HTML",
-                "last_commit": "2026-08-18T01:46:26Z",
-                "owner": "benbusby",
-                "repo": "farside",
-                "stars": 952
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Self-Hostable | Guide",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "HTML",
-                "last_commit": "2026-08-18T01:46:26Z",
-                "owner": "benbusby",
-                "repo": "farside",
-                "stars": 952
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Privacy Redirect",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Download & Repo",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "JavaScript",
-                "last_commit": "2023-09-05T18:05:25Z",
-                "owner": "SimonBrazell",
-                "repo": "privacy-redirect",
-                "stars": 2190
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "LibRedirect",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Homepage & Download",
-              "description": "Repo",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2026-08-12T08:51:36Z",
-                "owner": "libredirect",
-                "repo": "browser_extension",
-                "stars": 4003
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Redirector",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Homepage & Download",
-              "description": "Repo",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2025-07-27T19:04:51Z",
-                "owner": "einaregilsson",
-                "repo": "Redirector",
-                "stars": 2077
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Translate You Libre",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Download",
-              "description": "Repo",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Kotlin",
-                "last_commit": "2026-07-04T19:26:59Z",
-                "owner": "you-apps",
-                "repo": "TranslateYou",
-                "stars": 1526
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:54:54.912Z",
+    "last_updated": "2026-08-19T12:16:19.847Z",
     "original_repository": "digitalblossom/alternative-frontends",
+    "original_repository_id": 415553659,
     "original_repository_sha": "9223e0e9c3a379314020ffd51e34eb5d7f6ad81e",
     "enhanced_repository": "enhansome/enhansome-alternative-frontends",
     "enhanced_repository_description": null,
