@@ -22,7 +22,7 @@
                     "last_commit": "2026-08-17T05:49:17Z",
                     "owner": "iv-org",
                     "repo": "invidious",
-                    "stars": 22693
+                    "stars": 22695
                   }
                 },
                 {
@@ -59,7 +59,7 @@
                     "last_commit": "2026-08-16T21:27:43Z",
                     "owner": "TeamPiped",
                     "repo": "Piped",
-                    "stars": 10189
+                    "stars": 10190
                   }
                 },
                 {
@@ -93,10 +93,10 @@
                     "archived": false,
                     "id": 197559490,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-19T06:00:13Z",
+                    "last_commit": "2026-08-19T16:02:30Z",
                     "owner": "ViewTube",
                     "repo": "viewtube",
-                    "stars": 1476
+                    "stars": 1475
                   }
                 },
                 {
@@ -108,10 +108,10 @@
                     "archived": false,
                     "id": 197559490,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-19T06:00:13Z",
+                    "last_commit": "2026-08-19T16:02:30Z",
                     "owner": "ViewTube",
                     "repo": "viewtube",
-                    "stars": 1476
+                    "stars": 1475
                   }
                 }
               ]
@@ -258,7 +258,7 @@
                     "last_commit": "2026-08-14T14:12:30Z",
                     "owner": "benbusby",
                     "repo": "whoogle-search",
-                    "stars": 11595
+                    "stars": 11594
                   }
                 },
                 {
@@ -273,7 +273,7 @@
                     "last_commit": "2026-08-14T14:12:30Z",
                     "owner": "benbusby",
                     "repo": "whoogle-search",
-                    "stars": 11595
+                    "stars": 11594
                   }
                 },
                 {
@@ -288,7 +288,7 @@
                     "last_commit": "2026-08-14T14:12:30Z",
                     "owner": "benbusby",
                     "repo": "whoogle-search",
-                    "stars": 11595
+                    "stars": 11594
                   }
                 }
               ]
@@ -377,7 +377,7 @@
                     "last_commit": "2026-05-14T10:02:22Z",
                     "owner": "searx",
                     "repo": "searx",
-                    "stars": 13536
+                    "stars": 13537
                   }
                 }
               ]
@@ -396,10 +396,10 @@
                     "archived": false,
                     "id": 357241735,
                     "language": "Python",
-                    "last_commit": "2026-08-19T12:09:02Z",
+                    "last_commit": "2026-08-19T13:03:17Z",
                     "owner": "searxng",
                     "repo": "searxng",
-                    "stars": 35722
+                    "stars": 35747
                   }
                 }
               ]
@@ -422,7 +422,7 @@
                   "description": "Repo",
                   "children": [],
                   "repo_info": {
-                    "archived": false,
+                    "archived": true,
                     "id": 419886612,
                     "language": "HTML",
                     "last_commit": "2026-08-19T01:49:49Z",
@@ -437,7 +437,7 @@
                   "description": null,
                   "children": [],
                   "repo_info": {
-                    "archived": false,
+                    "archived": true,
                     "id": 419886612,
                     "language": "HTML",
                     "last_commit": "2026-08-19T01:49:49Z",
@@ -509,7 +509,7 @@
                     "last_commit": "2025-07-27T19:04:51Z",
                     "owner": "einaregilsson",
                     "repo": "Redirector",
-                    "stars": 2078
+                    "stars": 2080
                   }
                 }
               ]
@@ -546,7 +546,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:16:19.847Z",
+    "last_updated": "2026-08-19T21:57:22.925Z",
     "original_repository": "digitalblossom/alternative-frontends",
     "original_repository_id": 415553659,
     "original_repository_sha": "9223e0e9c3a379314020ffd51e34eb5d7f6ad81e",
