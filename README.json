@@ -22,7 +22,7 @@
                     "last_commit": "2026-08-17T05:49:17Z",
                     "owner": "iv-org",
                     "repo": "invidious",
-                    "stars": 22695
+                    "stars": 22702
                   }
                 },
                 {
@@ -37,7 +37,7 @@
                     "last_commit": "2026-08-09T19:53:58Z",
                     "owner": "iv-org",
                     "repo": "documentation",
-                    "stars": 797
+                    "stars": 798
                   }
                 }
               ]
@@ -74,7 +74,7 @@
                     "last_commit": "2024-03-21T16:11:54Z",
                     "owner": "digitalblossom",
                     "repo": "alternative-frontends",
-                    "stars": 2284
+                    "stars": 2286
                   }
                 }
               ]
@@ -93,7 +93,7 @@
                     "archived": false,
                     "id": 197559490,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-19T16:02:30Z",
+                    "last_commit": "2026-08-20T15:00:47Z",
                     "owner": "ViewTube",
                     "repo": "viewtube",
                     "stars": 1475
@@ -108,7 +108,7 @@
                     "archived": false,
                     "id": 197559490,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-19T16:02:30Z",
+                    "last_commit": "2026-08-20T15:00:47Z",
                     "owner": "ViewTube",
                     "repo": "viewtube",
                     "stars": 1475
@@ -140,7 +140,7 @@
                     "last_commit": "2023-07-31T05:05:18Z",
                     "owner": "teddit-net",
                     "repo": "teddit",
-                    "stars": 280
+                    "stars": 281
                   }
                 }
               ]
@@ -377,7 +377,7 @@
                     "last_commit": "2026-05-14T10:02:22Z",
                     "owner": "searx",
                     "repo": "searx",
-                    "stars": 13537
+                    "stars": 13536
                   }
                 }
               ]
@@ -396,10 +396,10 @@
                     "archived": false,
                     "id": 357241735,
                     "language": "Python",
-                    "last_commit": "2026-08-19T13:03:17Z",
+                    "last_commit": "2026-08-20T16:09:27Z",
                     "owner": "searxng",
                     "repo": "searxng",
-                    "stars": 35747
+                    "stars": 35815
                   }
                 }
               ]
@@ -428,7 +428,7 @@
                     "last_commit": "2026-08-19T01:49:49Z",
                     "owner": "benbusby",
                     "repo": "farside",
-                    "stars": 952
+                    "stars": 949
                   }
                 },
                 {
@@ -443,7 +443,7 @@
                     "last_commit": "2026-08-19T01:49:49Z",
                     "owner": "benbusby",
                     "repo": "farside",
-                    "stars": 952
+                    "stars": 949
                   }
                 }
               ]
@@ -487,7 +487,7 @@
                     "last_commit": "2026-08-12T08:51:36Z",
                     "owner": "libredirect",
                     "repo": "browser_extension",
-                    "stars": 4005
+                    "stars": 4008
                   }
                 }
               ]
@@ -531,7 +531,7 @@
                     "last_commit": "2026-07-04T19:26:59Z",
                     "owner": "you-apps",
                     "repo": "TranslateYou",
-                    "stars": 1527
+                    "stars": 1528
                   }
                 }
               ]
@@ -546,7 +546,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T21:57:22.925Z",
+    "last_updated": "2026-08-20T21:58:32.951Z",
     "original_repository": "digitalblossom/alternative-frontends",
     "original_repository_id": 415553659,
     "original_repository_sha": "9223e0e9c3a379314020ffd51e34eb5d7f6ad81e",
