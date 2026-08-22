@@ -19,10 +19,10 @@
                     "archived": false,
                     "id": 120542434,
                     "language": "Crystal",
-                    "last_commit": "2026-08-21T20:45:29Z",
+                    "last_commit": "2026-08-22T02:12:45Z",
                     "owner": "iv-org",
                     "repo": "invidious",
-                    "stars": 22710
+                    "stars": 22727
                   }
                 },
                 {
@@ -37,7 +37,7 @@
                     "last_commit": "2026-08-09T19:53:58Z",
                     "owner": "iv-org",
                     "repo": "documentation",
-                    "stars": 799
+                    "stars": 800
                   }
                 }
               ]
@@ -59,7 +59,7 @@
                     "last_commit": "2026-08-21T20:02:01Z",
                     "owner": "TeamPiped",
                     "repo": "Piped",
-                    "stars": 10192
+                    "stars": 10195
                   }
                 },
                 {
@@ -74,7 +74,7 @@
                     "last_commit": "2024-03-21T16:11:54Z",
                     "owner": "digitalblossom",
                     "repo": "alternative-frontends",
-                    "stars": 2287
+                    "stars": 2288
                   }
                 }
               ]
@@ -93,7 +93,7 @@
                     "archived": false,
                     "id": 197559490,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-21T14:34:50Z",
+                    "last_commit": "2026-08-21T22:16:31Z",
                     "owner": "ViewTube",
                     "repo": "viewtube",
                     "stars": 1475
@@ -108,7 +108,7 @@
                     "archived": false,
                     "id": 197559490,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-21T14:34:50Z",
+                    "last_commit": "2026-08-21T22:16:31Z",
                     "owner": "ViewTube",
                     "repo": "viewtube",
                     "stars": 1475
@@ -162,7 +162,7 @@
                     "last_commit": "2025-02-15T19:11:02Z",
                     "owner": "libreddit",
                     "repo": "libreddit",
-                    "stars": 5199
+                    "stars": 5200
                   }
                 },
                 {
@@ -177,7 +177,7 @@
                     "last_commit": "2025-02-15T19:11:02Z",
                     "owner": "libreddit",
                     "repo": "libreddit",
-                    "stars": 5199
+                    "stars": 5200
                   }
                 },
                 {
@@ -258,7 +258,7 @@
                     "last_commit": "2026-08-14T14:12:30Z",
                     "owner": "benbusby",
                     "repo": "whoogle-search",
-                    "stars": 11594
+                    "stars": 11592
                   }
                 },
                 {
@@ -273,7 +273,7 @@
                     "last_commit": "2026-08-14T14:12:30Z",
                     "owner": "benbusby",
                     "repo": "whoogle-search",
-                    "stars": 11594
+                    "stars": 11592
                   }
                 },
                 {
@@ -288,7 +288,7 @@
                     "last_commit": "2026-08-14T14:12:30Z",
                     "owner": "benbusby",
                     "repo": "whoogle-search",
-                    "stars": 11594
+                    "stars": 11592
                   }
                 }
               ]
@@ -377,7 +377,7 @@
                     "last_commit": "2026-05-14T10:02:22Z",
                     "owner": "searx",
                     "repo": "searx",
-                    "stars": 13536
+                    "stars": 13537
                   }
                 }
               ]
@@ -396,10 +396,10 @@
                     "archived": false,
                     "id": 357241735,
                     "language": "Python",
-                    "last_commit": "2026-08-21T21:43:57Z",
+                    "last_commit": "2026-08-22T05:35:24Z",
                     "owner": "searxng",
                     "repo": "searxng",
-                    "stars": 35884
+                    "stars": 35934
                   }
                 }
               ]
@@ -465,7 +465,7 @@
                     "last_commit": "2023-09-05T18:05:25Z",
                     "owner": "SimonBrazell",
                     "repo": "privacy-redirect",
-                    "stars": 2190
+                    "stars": 2191
                   }
                 }
               ]
@@ -487,7 +487,7 @@
                     "last_commit": "2026-08-12T08:51:36Z",
                     "owner": "libredirect",
                     "repo": "browser_extension",
-                    "stars": 4011
+                    "stars": 4013
                   }
                 }
               ]
@@ -509,7 +509,7 @@
                     "last_commit": "2025-07-27T19:04:51Z",
                     "owner": "einaregilsson",
                     "repo": "Redirector",
-                    "stars": 2080
+                    "stars": 2081
                   }
                 }
               ]
@@ -546,7 +546,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T21:57:14.824Z",
+    "last_updated": "2026-08-22T21:54:32.228Z",
     "original_repository": "digitalblossom/alternative-frontends",
     "original_repository_id": 415553659,
     "original_repository_sha": "9223e0e9c3a379314020ffd51e34eb5d7f6ad81e",
