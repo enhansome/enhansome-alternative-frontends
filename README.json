@@ -22,7 +22,7 @@
                     "last_commit": "2026-08-23T20:33:36Z",
                     "owner": "iv-org",
                     "repo": "invidious",
-                    "stars": 22744
+                    "stars": 22749
                   }
                 },
                 {
@@ -37,7 +37,7 @@
                     "last_commit": "2026-08-09T19:53:58Z",
                     "owner": "iv-org",
                     "repo": "documentation",
-                    "stars": 800
+                    "stars": 801
                   }
                 }
               ]
@@ -59,7 +59,7 @@
                     "last_commit": "2026-08-21T20:02:01Z",
                     "owner": "TeamPiped",
                     "repo": "Piped",
-                    "stars": 10197
+                    "stars": 10198
                   }
                 },
                 {
@@ -93,7 +93,7 @@
                     "archived": false,
                     "id": 197559490,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-21T22:16:31Z",
+                    "last_commit": "2026-08-24T10:11:26Z",
                     "owner": "ViewTube",
                     "repo": "viewtube",
                     "stars": 1475
@@ -108,7 +108,7 @@
                     "archived": false,
                     "id": 197559490,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-21T22:16:31Z",
+                    "last_commit": "2026-08-24T10:11:26Z",
                     "owner": "ViewTube",
                     "repo": "viewtube",
                     "stars": 1475
@@ -120,6 +120,35 @@
           "description": null,
           "node_type": "group",
           "title": "YouTube"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "BeatBump",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Main Instance",
+                  "description": "Repo",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 377928549,
+                    "language": "TypeScript",
+                    "last_commit": "2025-10-03T20:49:05Z",
+                    "owner": "snuffyDev",
+                    "repo": "Beatbump",
+                    "stars": 1133
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "YouTube Music"
         },
         {
           "children": [
@@ -242,6 +271,547 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "Nitter",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Main Instance",
+                  "description": "Repo",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 192928781,
+                    "language": "Nim",
+                    "last_commit": "2026-08-22T13:29:40Z",
+                    "owner": "zedeus",
+                    "repo": "nitter",
+                    "stars": 13482
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Public Instances",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 192928781,
+                    "language": "Nim",
+                    "last_commit": "2026-08-22T13:29:40Z",
+                    "owner": "zedeus",
+                    "repo": "nitter",
+                    "stars": 13482
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Self-Hostable | Guide",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 192928781,
+                    "language": "Nim",
+                    "last_commit": "2026-08-22T13:29:40Z",
+                    "owner": "zedeus",
+                    "repo": "nitter",
+                    "stars": 13482
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 192928781,
+                "language": "Nim",
+                "last_commit": "2026-08-22T13:29:40Z",
+                "owner": "zedeus",
+                "repo": "nitter",
+                "stars": 13482
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Twitter"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "ProxiTok",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Main Instance",
+                  "description": "Repo",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 443605948,
+                    "language": "PHP",
+                    "last_commit": "2025-05-31T18:56:17Z",
+                    "owner": "pablouser1",
+                    "repo": "ProxiTok",
+                    "stars": 2134
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Public Instances",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 443605948,
+                    "language": "PHP",
+                    "last_commit": "2025-05-31T18:56:17Z",
+                    "owner": "pablouser1",
+                    "repo": "ProxiTok",
+                    "stars": 2134
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Self-Hostable | Guide",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 443605948,
+                    "language": "PHP",
+                    "last_commit": "2025-05-31T18:56:17Z",
+                    "owner": "pablouser1",
+                    "repo": "ProxiTok",
+                    "stars": 2134
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Decentralized Options | Onion",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 443605948,
+                    "language": "PHP",
+                    "last_commit": "2025-05-31T18:56:17Z",
+                    "owner": "pablouser1",
+                    "repo": "ProxiTok",
+                    "stars": 2134
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tiktok"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "LibMedium",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Main Instance",
+                  "description": "Repo",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 423214699,
+                    "language": "HTML",
+                    "last_commit": "2024-06-07T09:33:20Z",
+                    "owner": "realaravinth",
+                    "repo": "libmedium",
+                    "stars": 95
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Public Instances",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 423214699,
+                    "language": "HTML",
+                    "last_commit": "2024-06-07T09:33:20Z",
+                    "owner": "realaravinth",
+                    "repo": "libmedium",
+                    "stars": 95
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Self-Hostable | Guide",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 423214699,
+                    "language": "HTML",
+                    "last_commit": "2024-06-07T09:33:20Z",
+                    "owner": "realaravinth",
+                    "repo": "libmedium",
+                    "stars": 95
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Decentralized Options | Onion",
+                  "description": "I2P",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 423214699,
+                    "language": "HTML",
+                    "last_commit": "2024-06-07T09:33:20Z",
+                    "owner": "realaravinth",
+                    "repo": "libmedium",
+                    "stars": 95
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Medium"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Quetre",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Main Instance",
+                  "description": "Repo",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 482524094,
+                    "language": "JavaScript",
+                    "last_commit": "2025-11-06T23:02:00Z",
+                    "owner": "zyachel",
+                    "repo": "quetre",
+                    "stars": 498
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Public Instances",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 482524094,
+                    "language": "JavaScript",
+                    "last_commit": "2025-11-06T23:02:00Z",
+                    "owner": "zyachel",
+                    "repo": "quetre",
+                    "stars": 498
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Self-Hostable | Guide",
+                  "description": "Heroku Deploy",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 482524094,
+                    "language": "JavaScript",
+                    "last_commit": "2025-11-06T23:02:00Z",
+                    "owner": "zyachel",
+                    "repo": "quetre",
+                    "stars": 498
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Quora"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "AnonymousOverflow",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Main Instance",
+                  "description": "Repo",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 582843633,
+                    "language": "Go",
+                    "last_commit": "2026-08-18T23:45:03Z",
+                    "owner": "httpjamesm",
+                    "repo": "AnonymousOverflow",
+                    "stars": 376
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Public Instances",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 582843633,
+                    "language": "Go",
+                    "last_commit": "2026-08-18T23:45:03Z",
+                    "owner": "httpjamesm",
+                    "repo": "AnonymousOverflow",
+                    "stars": 376
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Self-Hostable | Guide",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 582843633,
+                    "language": "Go",
+                    "last_commit": "2026-08-18T23:45:03Z",
+                    "owner": "httpjamesm",
+                    "repo": "AnonymousOverflow",
+                    "stars": 376
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Decentralized Options | I2P",
+                  "description": "Onion",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 582843633,
+                    "language": "Go",
+                    "last_commit": "2026-08-18T23:45:03Z",
+                    "owner": "httpjamesm",
+                    "repo": "AnonymousOverflow",
+                    "stars": 376
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "StackOverflow"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Libremdb",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Main Instance",
+                  "description": "Repo",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 471680442,
+                    "language": "TypeScript",
+                    "last_commit": "2026-04-19T15:27:58Z",
+                    "owner": "zyachel",
+                    "repo": "libremdb",
+                    "stars": 436
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Public Instances",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 471680442,
+                    "language": "TypeScript",
+                    "last_commit": "2026-04-19T15:27:58Z",
+                    "owner": "zyachel",
+                    "repo": "libremdb",
+                    "stars": 436
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Self-Hostable | Guide",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 471680442,
+                    "language": "TypeScript",
+                    "last_commit": "2026-04-19T15:27:58Z",
+                    "owner": "zyachel",
+                    "repo": "libremdb",
+                    "stars": 436
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IMDb"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Dumb",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Main Instance n/a | Repo",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 509225805,
+                    "language": "Go",
+                    "last_commit": "2026-04-01T04:17:45Z",
+                    "owner": "rramiachraf",
+                    "repo": "dumb",
+                    "stars": 406
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Public Instances",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 509225805,
+                    "language": "Go",
+                    "last_commit": "2026-04-01T04:17:45Z",
+                    "owner": "rramiachraf",
+                    "repo": "dumb",
+                    "stars": 406
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Self-Hostable | Guide",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 509225805,
+                    "language": "Go",
+                    "last_commit": "2026-04-01T04:17:45Z",
+                    "owner": "rramiachraf",
+                    "repo": "dumb",
+                    "stars": 406
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Decentralized Options | I2P",
+                  "description": "Onion",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 509225805,
+                    "language": "Go",
+                    "last_commit": "2026-04-01T04:17:45Z",
+                    "owner": "rramiachraf",
+                    "repo": "dumb",
+                    "stars": 406
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Genius"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Lingva",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Main Instance",
+                  "description": "Repo",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 346112697,
+                    "language": "TypeScript",
+                    "last_commit": "2023-08-01T10:39:09Z",
+                    "owner": "thedaviddelta",
+                    "repo": "lingva-translate",
+                    "stars": 1838
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Public Instances",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 346112697,
+                    "language": "TypeScript",
+                    "last_commit": "2023-08-01T10:39:09Z",
+                    "owner": "thedaviddelta",
+                    "repo": "lingva-translate",
+                    "stars": 1838
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Self-Hostable | Guide",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 346112697,
+                    "language": "TypeScript",
+                    "last_commit": "2023-08-01T10:39:09Z",
+                    "owner": "thedaviddelta",
+                    "repo": "lingva-translate",
+                    "stars": 1838
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Translate"
+        },
+        {
+          "children": [
+            {
               "node_type": "group",
               "title": "Whoogle",
               "description": null,
@@ -258,7 +828,7 @@
                     "last_commit": "2026-08-14T14:12:30Z",
                     "owner": "benbusby",
                     "repo": "whoogle-search",
-                    "stars": 11592
+                    "stars": 11593
                   }
                 },
                 {
@@ -273,7 +843,7 @@
                     "last_commit": "2026-08-14T14:12:30Z",
                     "owner": "benbusby",
                     "repo": "whoogle-search",
-                    "stars": 11592
+                    "stars": 11593
                   }
                 },
                 {
@@ -288,7 +858,7 @@
                     "last_commit": "2026-08-14T14:12:30Z",
                     "owner": "benbusby",
                     "repo": "whoogle-search",
-                    "stars": 11592
+                    "stars": 11593
                   }
                 }
               ]
@@ -399,7 +969,7 @@
                     "last_commit": "2026-08-22T05:35:24Z",
                     "owner": "searxng",
                     "repo": "searxng",
-                    "stars": 35989
+                    "stars": 36036
                   }
                 }
               ]
@@ -487,7 +1057,7 @@
                     "last_commit": "2026-08-12T08:51:36Z",
                     "owner": "libredirect",
                     "repo": "browser_extension",
-                    "stars": 4015
+                    "stars": 4016
                   }
                 }
               ]
@@ -546,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:54:25.535Z",
+    "last_updated": "2026-08-24T14:03:53.314Z",
     "original_repository": "digitalblossom/alternative-frontends",
     "original_repository_id": 415553659,
     "original_repository_sha": "9223e0e9c3a379314020ffd51e34eb5d7f6ad81e",

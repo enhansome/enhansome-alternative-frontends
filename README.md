@@ -26,15 +26,15 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ### YouTube
 
 * **Invidious**
-  * [Homepage](https://invidious.io) | [Repo](https://github.com/iv-org/invidious) ⭐ 22,744 | 🐛 476 | 🌐 Crystal | 📅 2026-08-23
-  * [x] Decentralized Options | [I2P](http://tube.i2p) | [Onion](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md#tor-onion-services) ⭐ 800 | 🐛 37 | 🌐 Dockerfile | 📅 2026-08-09 | [Loki](http://invidious.loki)
+  * [Homepage](https://invidious.io) | [Repo](https://github.com/iv-org/invidious) ⭐ 22,749 | 🐛 479 | 🌐 Crystal | 📅 2026-08-23
+  * [x] Decentralized Options | [I2P](http://tube.i2p) | [Onion](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md#tor-onion-services) ⭐ 801 | 🐛 37 | 🌐 Dockerfile | 📅 2026-08-09 | [Loki](http://invidious.loki)
   * Lightweight YouTube frontend - no tracking, no ads and Javascript is optional.
   * [Public Instances](https://docs.invidious.io/instances)
   * [x] Open-Source
   * [x] Self-Hostable | [Guide](https://docs.invidious.io/Installation.md)
 
 * **Piped**
-  * [Main Instance](https://piped.video) | [Repo](https://github.com/TeamPiped/Piped) ⭐ 10,197 | 🐛 316 | 🌐 Vue | 📅 2026-08-21
+  * [Main Instance](https://piped.video) | [Repo](https://github.com/TeamPiped/Piped) ⭐ 10,198 | 🐛 316 | 🌐 Vue | 📅 2026-08-21
   * [x] Decentralized Options | [IPNS](https://github.com/digitalblossom/alternative-frontends/issues/25#issuecomment-1002261657) ⭐ 2,288 | 🐛 28 | 📅 2024-03-21 | [Onion](http://piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion)
   * Alternative privacy-friendly YouTube frontend. Lightweight, no ads (Sponsorblock integrated), no tracking, 4K support and more.
   * [Public Instances](https://piped.kavin.rocks/preferences) (scroll down)
@@ -49,8 +49,8 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   * [x] Self-Hostable | [Guide](https://git.sr.ht/~cadence/tube-docs/tree/main/item/docs/cloudtube/Installing%20CloudTube.md)
 
 * **Viewtube**
-  * [Main Instance](https://viewtube.io/) | [Repo](https://github.com/ViewTube/viewtube-vue) ⭐ 1,475 | 🐛 86 | 🌐 TypeScript | 📅 2026-08-21
-  * [x] Self-Hostable | [Guide](https://github.com/ViewTube/viewtube-vue#host-it-yourself) ⭐ 1,475 | 🐛 86 | 🌐 TypeScript | 📅 2026-08-21
+  * [Main Instance](https://viewtube.io/) | [Repo](https://github.com/ViewTube/viewtube-vue) ⭐ 1,475 | 🐛 68 | 🌐 TypeScript | 📅 2026-08-24
+  * [x] Self-Hostable | [Guide](https://github.com/ViewTube/viewtube-vue#host-it-yourself) ⭐ 1,475 | 🐛 68 | 🌐 TypeScript | 📅 2026-08-24
   * Privacy-respecting frontend with subscription, watch-progress and recommendation features.
   * Public Instances n/a
   * [x] Open-Source
@@ -58,8 +58,8 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ### YouTube Music
 
 * **BeatBump**
-  * Privacy-friendly YouTube Music frontend built with Svelte. Supports device sync.
   * [Main Instance](https://beatbump.ml) | [Repo](https://github.com/snuffyDev/Beatbump) ⚠️ Archived
+  * Privacy-friendly YouTube Music frontend built with Svelte. Supports device sync.
   * Public Instances n/a
   * [x] Open-Source
   * [x] Self-Hostable | [Guide](https://snuffydev.github.io/Beatbump/index.html#/docs/introduction/deploying)
@@ -103,13 +103,13 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 
 * **Nitter**
 
+  * [Main Instance](https://nitter.net/) | [Repo](https://github.com/zedeus/nitter) ⭐ 13,482 | 🐛 156 | 🌐 Nim | 📅 2026-08-22
+  * [Public Instances](https://github.com/zedeus/nitter/wiki/Instances) ⭐ 13,482 | 🐛 156 | 🌐 Nim | 📅 2026-08-22
+  * [x] Self-Hostable | [Guide](https://github.com/zedeus/nitter#installation) ⭐ 13,482 | 🐛 156 | 🌐 Nim | 📅 2026-08-22
   * Lightweight Twitter frontend. No ads, no Javascript, no tracking. RSS support.
-  * [Main Instance](https://nitter.net/) | [Repo](https://github.com/zedeus/nitter) ⭐ 13,479 | 🐛 156 | 🌐 Nim | 📅 2026-08-22
-  * [Public Instances](https://github.com/zedeus/nitter/wiki/Instances) ⭐ 13,479 | 🐛 156 | 🌐 Nim | 📅 2026-08-22
   * [x] Open-Source
-  * [x] Self-Hostable | [Guide](https://github.com/zedeus/nitter#installation) ⭐ 13,479 | 🐛 156 | 🌐 Nim | 📅 2026-08-22
 
-  ⓘ The maintainer has [declared Nitter abandoned](https://github.com/zedeus/nitter/issues/1155) ⭐ 13,479 | 🐛 156 | 🌐 Nim | 📅 2026-08-22 because of X's/Twitter's actions, but it still works most of the time.
+  ⓘ The maintainer has [declared Nitter abandoned](https://github.com/zedeus/nitter/issues/1155) ⭐ 13,482 | 🐛 156 | 🌐 Nim | 📅 2026-08-22 because of X's/Twitter's actions, but it still works most of the time.
 
 ### Imgur
 
@@ -142,12 +142,12 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ### Tiktok
 
 * **ProxiTok**
+  * [Main Instance](https://proxitok.pabloferreiro.es) | [Repo](https://github.com/pablouser1/ProxiTok) ⭐ 2,134 | 🐛 51 | 🌐 PHP | 📅 2025-05-31
+  * [Public Instances](https://github.com/pablouser1/ProxiTok/wiki/Public-instances#clearnet) ⭐ 2,134 | 🐛 51 | 🌐 PHP | 📅 2025-05-31
+  * [x] Self-Hostable | [Guide](https://github.com/pablouser1/ProxiTok#installation) ⭐ 2,134 | 🐛 51 | 🌐 PHP | 📅 2025-05-31
+  * [x] Decentralized Options | [Onion](https://github.com/pablouser1/ProxiTok/wiki/Public-instances#tor) ⭐ 2,134 | 🐛 51 | 🌐 PHP | 📅 2025-05-31
   * Open-Source frontend for Tiktok that proxies users requests.
-  * [Main Instance](https://proxitok.pabloferreiro.es) | [Repo](https://github.com/pablouser1/ProxiTok) ⭐ 2,133 | 🐛 51 | 🌐 PHP | 📅 2025-05-31
-  * [Public Instances](https://github.com/pablouser1/ProxiTok/wiki/Public-instances#clearnet) ⭐ 2,133 | 🐛 51 | 🌐 PHP | 📅 2025-05-31
   * [x] Open-Source
-  * [x] Self-Hostable | [Guide](https://github.com/pablouser1/ProxiTok#installation) ⭐ 2,133 | 🐛 51 | 🌐 PHP | 📅 2025-05-31
-  * [x] Decentralized Options | [Onion](https://github.com/pablouser1/ProxiTok/wiki/Public-instances#tor) ⭐ 2,133 | 🐛 51 | 🌐 PHP | 📅 2025-05-31
 
 ### Medium
 
@@ -160,24 +160,24 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 
 * **LibMedium**
 
-  * Minimalist proxy for Medium written in Rust
   * [Main Instance](https://libmedium.batsense.net) | [Repo](https://github.com/realaravinth/libmedium) ⭐ 95 | 🐛 12 | 🌐 HTML | 📅 2024-06-07
   * [Public Instances](https://github.com/realaravinth/libmedium#instances) ⭐ 95 | 🐛 12 | 🌐 HTML | 📅 2024-06-07
-  * [x] Open-Source
   * [x] Self-Hostable | [Guide](https://github.com/realaravinth/libmedium#deploy) ⭐ 95 | 🐛 12 | 🌐 HTML | 📅 2024-06-07
   * [x] Decentralized Options | [Onion](https://github.com/realaravinth/libmedium#instances) ⭐ 95 | 🐛 12 | 🌐 HTML | 📅 2024-06-07 | [I2P](https://github.com/realaravinth/libmedium#instances) ⭐ 95 | 🐛 12 | 🌐 HTML | 📅 2024-06-07
+  * Minimalist proxy for Medium written in Rust
+  * [x] Open-Source
 
   ⓘ LibMedium is in early development
 
 ### Quora
 
 * **Quetre**
-  * Alternative front-end to Quora. It enables you to see answers without ads, trackers, and popups. Has an unofficial API.
   * [Main Instance](https://quetre.herokuapp.com/) | [Repo](https://github.com/zyachel/quetre#instances) ⭐ 498 | 🐛 17 | 🌐 JavaScript | 📅 2025-11-06
   * [Public Instances](https://github.com/zyachel/quetre#instances) ⭐ 498 | 🐛 17 | 🌐 JavaScript | 📅 2025-11-06
+  * [x] Self-Hostable | [Guide](https://github.com/zyachel/quetre#instances) ⭐ 498 | 🐛 17 | 🌐 JavaScript | 📅 2025-11-06 | [Heroku Deploy](https://heroku.com/deploy?template=https://github.com/zyachel/quetre)
+  * Alternative front-end to Quora. It enables you to see answers without ads, trackers, and popups. Has an unofficial API.
   * Pattern for Redirector: `*quora.com/*` to `https://quetre.herokuapp.com/$2`
   * [x] Open-Source
-  * [x] Self-Hostable | [Guide](https://github.com/zyachel/quetre#instances) ⭐ 498 | 🐛 17 | 🌐 JavaScript | 📅 2025-11-06 | [Heroku Deploy](https://heroku.com/deploy?template=https://github.com/zyachel/quetre)
 
 ### GitHub
 
@@ -194,32 +194,32 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ### StackOverflow
 
 * **AnonymousOverflow**
-  * View StackOverflow in privacy and without the clutter
   * [Main Instance](https://code.whatever.social) | [Repo](https://github.com/httpjamesm/AnonymousOverflow) ⭐ 376 | 🐛 17 | 🌐 Go | 📅 2026-08-18
   * [Public Instances](https://github.com/httpjamesm/AnonymousOverflow#clearnet-instances) ⭐ 376 | 🐛 17 | 🌐 Go | 📅 2026-08-18
-  * [x] Open-Source
   * [x] Self-Hostable | [Guide](https://github.com/httpjamesm/AnonymousOverflow/wiki/Deployment) ⭐ 376 | 🐛 17 | 🌐 Go | 📅 2026-08-18
   * [x] Decentralized Options | [I2P](https://github.com/httpjamesm/AnonymousOverflow#other-instances) ⭐ 376 | 🐛 17 | 🌐 Go | 📅 2026-08-18 | [Onion](https://github.com/httpjamesm/AnonymousOverflow#other-instances) ⭐ 376 | 🐛 17 | 🌐 Go | 📅 2026-08-18
+  * View StackOverflow in privacy and without the clutter
+  * [x] Open-Source
 
 ### IMDb
 
 * **Libremdb**
-  * A lightweight, ad-free and js-free alternative front-end to IMDb
   * [Main Instance](https://libremdb.iket.me) | [Repo](https://github.com/zyachel/libremdb) ⭐ 436 | 🐛 22 | 🌐 TypeScript | 📅 2026-04-19
   * [Public Instances](https://github.com/zyachel/libremdb#instances) ⭐ 436 | 🐛 22 | 🌐 TypeScript | 📅 2026-04-19
+  * [x] Self-Hostable | [Guide](https://github.com/zyachel/libremdb#installation) ⭐ 436 | 🐛 22 | 🌐 TypeScript | 📅 2026-04-19
+  * A lightweight, ad-free and js-free alternative front-end to IMDb
   * Pattern for Redirector: `https://www.imdb.com/*` to `https://libremd.herokuapp.com/$1`
   * [x] Open-Source
-  * [x] Self-Hostable | [Guide](https://github.com/zyachel/libremdb#installation) ⭐ 436 | 🐛 22 | 🌐 TypeScript | 📅 2026-04-19
 
 ### Genius
 
 * **Dumb**
-  * Dumb tries to make reading lyrics from Genius a pleasant experience and as lightweight as possible
   * Main Instance n/a | [Repo](https://github.com/rramiachraf/dumb) ⭐ 406 | 🐛 16 | 🌐 Go | 📅 2026-04-01
   * [Public Instances](https://github.com/rramiachraf/dumb#public-instances) ⭐ 406 | 🐛 16 | 🌐 Go | 📅 2026-04-01
-  * [x] Open-Source
   * [x] Self-Hostable | [Guide](https://github.com/rramiachraf/dumb#installation--usage) ⭐ 406 | 🐛 16 | 🌐 Go | 📅 2026-04-01
   * [x] Decentralized Options | [I2P](https://github.com/rramiachraf/dumb#i2p) ⭐ 406 | 🐛 16 | 🌐 Go | 📅 2026-04-01 | [Onion](https://github.com/rramiachraf/dumb#tor) ⭐ 406 | 🐛 16 | 🌐 Go | 📅 2026-04-01
+  * Dumb tries to make reading lyrics from Genius a pleasant experience and as lightweight as possible
+  * [x] Open-Source
 
 ### XVideos
 
@@ -244,11 +244,11 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ### Translate
 
 * **Lingva**
+  * [Main Instance](https://lingva.ml/) | [Repo](https://github.com/TheDavidDelta/lingva-translate) ⭐ 1,838 | 🐛 45 | 🌐 TypeScript | 📅 2023-08-01
+  * [Public Instances](https://github.com/TheDavidDelta/lingva-translate#instances) ⭐ 1,838 | 🐛 45 | 🌐 TypeScript | 📅 2023-08-01
+  * [x] Self-Hostable | [Guide](https://github.com/TheDavidDelta/lingva-translate#deployment) ⭐ 1,838 | 🐛 45 | 🌐 TypeScript | 📅 2023-08-01
   * Tracking-free Google Translate frontend
-  * [Main Instance](https://lingva.ml/) | [Repo](https://github.com/TheDavidDelta/lingva-translate) ⭐ 1,837 | 🐛 45 | 🌐 TypeScript | 📅 2023-08-01
-  * [Public Instances](https://github.com/TheDavidDelta/lingva-translate#instances) ⭐ 1,837 | 🐛 45 | 🌐 TypeScript | 📅 2023-08-01
   * [x] Open-Source
-  * [x] Self-Hostable | [Guide](https://github.com/TheDavidDelta/lingva-translate#deployment) ⭐ 1,837 | 🐛 45 | 🌐 TypeScript | 📅 2023-08-01
 
 * **SimplyTranslate**
   * FOSS Javascript-free frontend for multiple translators, including Google Translate and DeepL
@@ -283,7 +283,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   * [x] Decentralized Options | [Onion](https://searx.space)
 
 * **SearxNG**
-  * [Homepage](https://searxng.org) | [Repo](https://github.com/searxng/searxng) ⭐ 35,989 | 🐛 216 | 🌐 Python | 📅 2026-08-22
+  * [Homepage](https://searxng.org) | [Repo](https://github.com/searxng/searxng) ⭐ 36,036 | 🐛 216 | 🌐 Python | 📅 2026-08-22
   * Fork of SearX with UI improvements (including to the settings page) and updates to the selfhosting procedure.
   * [Public Instances](https://searx.space)
   * [x] Open-Source
@@ -351,7 +351,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   ⓘ Developement of Privacy Redirect has ended/paused, consider using LibRedirect instead
 
 * **LibRedirect**
-  * [Homepage & Download](https://libredirect.github.io) | [Repo](https://github.com/libredirect/libredirect) ⭐ 4,015 | 🐛 43 | 🌐 JavaScript | 📅 2026-08-12
+  * [Homepage & Download](https://libredirect.github.io) | [Repo](https://github.com/libredirect/libredirect) ⭐ 4,016 | 🐛 43 | 🌐 JavaScript | 📅 2026-08-12
   * Maintained fork of Privacy Redirect with new services added and a refreshed UI.
   * [x] Open-Source
 
@@ -395,4 +395,4 @@ YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
