@@ -22,7 +22,7 @@
                     "last_commit": "2026-08-23T20:33:36Z",
                     "owner": "iv-org",
                     "repo": "invidious",
-                    "stars": 22749
+                    "stars": 22756
                   }
                 },
                 {
@@ -59,7 +59,7 @@
                     "last_commit": "2026-08-21T20:02:01Z",
                     "owner": "TeamPiped",
                     "repo": "Piped",
-                    "stars": 10198
+                    "stars": 10201
                   }
                 },
                 {
@@ -74,7 +74,7 @@
                     "last_commit": "2024-03-21T16:11:54Z",
                     "owner": "digitalblossom",
                     "repo": "alternative-frontends",
-                    "stars": 2288
+                    "stars": 2289
                   }
                 }
               ]
@@ -93,7 +93,7 @@
                     "archived": false,
                     "id": 197559490,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T10:11:26Z",
+                    "last_commit": "2026-08-24T21:22:20Z",
                     "owner": "ViewTube",
                     "repo": "viewtube",
                     "stars": 1475
@@ -108,7 +108,7 @@
                     "archived": false,
                     "id": 197559490,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T10:11:26Z",
+                    "last_commit": "2026-08-24T21:22:20Z",
                     "owner": "ViewTube",
                     "repo": "viewtube",
                     "stars": 1475
@@ -140,7 +140,7 @@
                     "last_commit": "2025-10-03T20:49:05Z",
                     "owner": "snuffyDev",
                     "repo": "Beatbump",
-                    "stars": 1133
+                    "stars": 1132
                   }
                 }
               ]
@@ -284,10 +284,10 @@
                     "archived": false,
                     "id": 192928781,
                     "language": "Nim",
-                    "last_commit": "2026-08-22T13:29:40Z",
+                    "last_commit": "2026-08-24T16:33:36Z",
                     "owner": "zedeus",
                     "repo": "nitter",
-                    "stars": 13482
+                    "stars": 13484
                   }
                 },
                 {
@@ -299,10 +299,10 @@
                     "archived": false,
                     "id": 192928781,
                     "language": "Nim",
-                    "last_commit": "2026-08-22T13:29:40Z",
+                    "last_commit": "2026-08-24T16:33:36Z",
                     "owner": "zedeus",
                     "repo": "nitter",
-                    "stars": 13482
+                    "stars": 13484
                   }
                 },
                 {
@@ -314,10 +314,10 @@
                     "archived": false,
                     "id": 192928781,
                     "language": "Nim",
-                    "last_commit": "2026-08-22T13:29:40Z",
+                    "last_commit": "2026-08-24T16:33:36Z",
                     "owner": "zedeus",
                     "repo": "nitter",
-                    "stars": 13482
+                    "stars": 13484
                   }
                 }
               ],
@@ -325,10 +325,10 @@
                 "archived": false,
                 "id": 192928781,
                 "language": "Nim",
-                "last_commit": "2026-08-22T13:29:40Z",
+                "last_commit": "2026-08-24T16:33:36Z",
                 "owner": "zedeus",
                 "repo": "nitter",
-                "stars": 13482
+                "stars": 13484
               }
             }
           ],
@@ -969,7 +969,7 @@
                     "last_commit": "2026-08-22T05:35:24Z",
                     "owner": "searxng",
                     "repo": "searxng",
-                    "stars": 36036
+                    "stars": 36055
                   }
                 }
               ]
@@ -1057,7 +1057,7 @@
                     "last_commit": "2026-08-12T08:51:36Z",
                     "owner": "libredirect",
                     "repo": "browser_extension",
-                    "stars": 4016
+                    "stars": 4017
                   }
                 }
               ]
@@ -1101,7 +1101,7 @@
                     "last_commit": "2026-07-04T19:26:59Z",
                     "owner": "you-apps",
                     "repo": "TranslateYou",
-                    "stars": 1530
+                    "stars": 1529
                   }
                 }
               ]
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:03:53.314Z",
+    "last_updated": "2026-08-24T21:58:32.389Z",
     "original_repository": "digitalblossom/alternative-frontends",
     "original_repository_id": 415553659,
     "original_repository_sha": "9223e0e9c3a379314020ffd51e34eb5d7f6ad81e",
