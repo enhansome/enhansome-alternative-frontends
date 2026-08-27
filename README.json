@@ -22,7 +22,7 @@
                     "last_commit": "2026-08-23T20:33:36Z",
                     "owner": "iv-org",
                     "repo": "invidious",
-                    "stars": 22772
+                    "stars": 22865
                   }
                 },
                 {
@@ -56,10 +56,10 @@
                     "archived": false,
                     "id": 311916226,
                     "language": "Vue",
-                    "last_commit": "2026-08-25T18:06:18Z",
+                    "last_commit": "2026-08-26T11:06:13Z",
                     "owner": "TeamPiped",
                     "repo": "Piped",
-                    "stars": 10203
+                    "stars": 10206
                   }
                 },
                 {
@@ -74,7 +74,7 @@
                     "last_commit": "2024-03-21T16:11:54Z",
                     "owner": "digitalblossom",
                     "repo": "alternative-frontends",
-                    "stars": 2288
+                    "stars": 2290
                   }
                 }
               ]
@@ -93,7 +93,7 @@
                     "archived": false,
                     "id": 197559490,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-25T12:42:55Z",
+                    "last_commit": "2026-08-27T00:22:42Z",
                     "owner": "ViewTube",
                     "repo": "viewtube",
                     "stars": 1473
@@ -108,7 +108,7 @@
                     "archived": false,
                     "id": 197559490,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-25T12:42:55Z",
+                    "last_commit": "2026-08-27T00:22:42Z",
                     "owner": "ViewTube",
                     "repo": "viewtube",
                     "stars": 1473
@@ -140,7 +140,7 @@
                     "last_commit": "2025-10-03T20:49:05Z",
                     "owner": "snuffyDev",
                     "repo": "Beatbump",
-                    "stars": 1131
+                    "stars": 1132
                   }
                 }
               ]
@@ -191,7 +191,7 @@
                     "last_commit": "2025-02-15T19:11:02Z",
                     "owner": "libreddit",
                     "repo": "libreddit",
-                    "stars": 5199
+                    "stars": 5201
                   }
                 },
                 {
@@ -206,7 +206,7 @@
                     "last_commit": "2025-02-15T19:11:02Z",
                     "owner": "libreddit",
                     "repo": "libreddit",
-                    "stars": 5199
+                    "stars": 5201
                   }
                 },
                 {
@@ -284,10 +284,10 @@
                     "archived": true,
                     "id": 192928781,
                     "language": "Nim",
-                    "last_commit": "2026-08-25T20:33:30Z",
+                    "last_commit": "2026-08-26T11:19:23Z",
                     "owner": "zedeus",
                     "repo": "nitter",
-                    "stars": 13521
+                    "stars": 13586
                   }
                 },
                 {
@@ -299,10 +299,10 @@
                     "archived": true,
                     "id": 192928781,
                     "language": "Nim",
-                    "last_commit": "2026-08-25T20:33:30Z",
+                    "last_commit": "2026-08-26T11:19:23Z",
                     "owner": "zedeus",
                     "repo": "nitter",
-                    "stars": 13521
+                    "stars": 13586
                   }
                 },
                 {
@@ -314,10 +314,10 @@
                     "archived": true,
                     "id": 192928781,
                     "language": "Nim",
-                    "last_commit": "2026-08-25T20:33:30Z",
+                    "last_commit": "2026-08-26T11:19:23Z",
                     "owner": "zedeus",
                     "repo": "nitter",
-                    "stars": 13521
+                    "stars": 13586
                   }
                 }
               ],
@@ -325,10 +325,10 @@
                 "archived": true,
                 "id": 192928781,
                 "language": "Nim",
-                "last_commit": "2026-08-25T20:33:30Z",
+                "last_commit": "2026-08-26T11:19:23Z",
                 "owner": "zedeus",
                 "repo": "nitter",
-                "stars": 13521
+                "stars": 13586
               }
             }
           ],
@@ -562,7 +562,7 @@
                     "last_commit": "2026-08-25T21:09:31Z",
                     "owner": "httpjamesm",
                     "repo": "AnonymousOverflow",
-                    "stars": 376
+                    "stars": 377
                   }
                 },
                 {
@@ -577,7 +577,7 @@
                     "last_commit": "2026-08-25T21:09:31Z",
                     "owner": "httpjamesm",
                     "repo": "AnonymousOverflow",
-                    "stars": 376
+                    "stars": 377
                   }
                 },
                 {
@@ -592,7 +592,7 @@
                     "last_commit": "2026-08-25T21:09:31Z",
                     "owner": "httpjamesm",
                     "repo": "AnonymousOverflow",
-                    "stars": 376
+                    "stars": 377
                   }
                 },
                 {
@@ -607,7 +607,7 @@
                     "last_commit": "2026-08-25T21:09:31Z",
                     "owner": "httpjamesm",
                     "repo": "AnonymousOverflow",
-                    "stars": 376
+                    "stars": 377
                   }
                 }
               ]
@@ -636,7 +636,7 @@
                     "last_commit": "2026-04-19T15:27:58Z",
                     "owner": "zyachel",
                     "repo": "libremdb",
-                    "stars": 436
+                    "stars": 437
                   }
                 },
                 {
@@ -651,7 +651,7 @@
                     "last_commit": "2026-04-19T15:27:58Z",
                     "owner": "zyachel",
                     "repo": "libremdb",
-                    "stars": 436
+                    "stars": 437
                   }
                 },
                 {
@@ -666,7 +666,7 @@
                     "last_commit": "2026-04-19T15:27:58Z",
                     "owner": "zyachel",
                     "repo": "libremdb",
-                    "stars": 436
+                    "stars": 437
                   }
                 }
               ]
@@ -695,7 +695,7 @@
                     "last_commit": "2026-04-01T04:17:45Z",
                     "owner": "rramiachraf",
                     "repo": "dumb",
-                    "stars": 405
+                    "stars": 406
                   }
                 },
                 {
@@ -710,7 +710,7 @@
                     "last_commit": "2026-04-01T04:17:45Z",
                     "owner": "rramiachraf",
                     "repo": "dumb",
-                    "stars": 405
+                    "stars": 406
                   }
                 },
                 {
@@ -725,7 +725,7 @@
                     "last_commit": "2026-04-01T04:17:45Z",
                     "owner": "rramiachraf",
                     "repo": "dumb",
-                    "stars": 405
+                    "stars": 406
                   }
                 },
                 {
@@ -740,7 +740,7 @@
                     "last_commit": "2026-04-01T04:17:45Z",
                     "owner": "rramiachraf",
                     "repo": "dumb",
-                    "stars": 405
+                    "stars": 406
                   }
                 }
               ]
@@ -769,7 +769,7 @@
                     "last_commit": "2023-08-01T10:39:09Z",
                     "owner": "thedaviddelta",
                     "repo": "lingva-translate",
-                    "stars": 1839
+                    "stars": 1840
                   }
                 },
                 {
@@ -784,7 +784,7 @@
                     "last_commit": "2023-08-01T10:39:09Z",
                     "owner": "thedaviddelta",
                     "repo": "lingva-translate",
-                    "stars": 1839
+                    "stars": 1840
                   }
                 },
                 {
@@ -799,7 +799,7 @@
                     "last_commit": "2023-08-01T10:39:09Z",
                     "owner": "thedaviddelta",
                     "repo": "lingva-translate",
-                    "stars": 1839
+                    "stars": 1840
                   }
                 }
               ]
@@ -828,7 +828,7 @@
                     "last_commit": "2026-08-14T14:12:30Z",
                     "owner": "benbusby",
                     "repo": "whoogle-search",
-                    "stars": 11592
+                    "stars": 11591
                   }
                 },
                 {
@@ -843,7 +843,7 @@
                     "last_commit": "2026-08-14T14:12:30Z",
                     "owner": "benbusby",
                     "repo": "whoogle-search",
-                    "stars": 11592
+                    "stars": 11591
                   }
                 },
                 {
@@ -858,7 +858,7 @@
                     "last_commit": "2026-08-14T14:12:30Z",
                     "owner": "benbusby",
                     "repo": "whoogle-search",
-                    "stars": 11592
+                    "stars": 11591
                   }
                 }
               ]
@@ -947,7 +947,7 @@
                     "last_commit": "2026-05-14T10:02:22Z",
                     "owner": "searx",
                     "repo": "searx",
-                    "stars": 13538
+                    "stars": 13540
                   }
                 }
               ]
@@ -969,7 +969,7 @@
                     "last_commit": "2026-08-22T05:35:24Z",
                     "owner": "searxng",
                     "repo": "searxng",
-                    "stars": 36110
+                    "stars": 36135
                   }
                 }
               ]
@@ -1057,7 +1057,7 @@
                     "last_commit": "2026-08-12T08:51:36Z",
                     "owner": "libredirect",
                     "repo": "browser_extension",
-                    "stars": 4017
+                    "stars": 4024
                   }
                 }
               ]
@@ -1101,7 +1101,7 @@
                     "last_commit": "2026-07-04T19:26:59Z",
                     "owner": "you-apps",
                     "repo": "TranslateYou",
-                    "stars": 1528
+                    "stars": 1527
                   }
                 }
               ]
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T21:57:34.915Z",
+    "last_updated": "2026-08-27T01:02:34.771Z",
     "original_repository": "digitalblossom/alternative-frontends",
     "original_repository_id": 415553659,
     "original_repository_sha": "9223e0e9c3a379314020ffd51e34eb5d7f6ad81e",
