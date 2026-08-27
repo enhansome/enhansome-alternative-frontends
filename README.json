@@ -22,7 +22,7 @@
                     "last_commit": "2026-08-23T20:33:36Z",
                     "owner": "iv-org",
                     "repo": "invidious",
-                    "stars": 22865
+                    "stars": 22885
                   }
                 },
                 {
@@ -93,7 +93,7 @@
                     "archived": false,
                     "id": 197559490,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T00:22:42Z",
+                    "last_commit": "2026-08-27T10:18:17Z",
                     "owner": "ViewTube",
                     "repo": "viewtube",
                     "stars": 1473
@@ -108,7 +108,7 @@
                     "archived": false,
                     "id": 197559490,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T00:22:42Z",
+                    "last_commit": "2026-08-27T10:18:17Z",
                     "owner": "ViewTube",
                     "repo": "viewtube",
                     "stars": 1473
@@ -218,7 +218,7 @@
                     "archived": false,
                     "id": 539787351,
                     "language": "Shell",
-                    "last_commit": "2026-08-25T01:11:39Z",
+                    "last_commit": "2026-08-27T07:10:57Z",
                     "owner": "libreddit",
                     "repo": "libreddit-instances",
                     "stars": 108
@@ -287,7 +287,7 @@
                     "last_commit": "2026-08-26T11:19:23Z",
                     "owner": "zedeus",
                     "repo": "nitter",
-                    "stars": 13586
+                    "stars": 13610
                   }
                 },
                 {
@@ -302,7 +302,7 @@
                     "last_commit": "2026-08-26T11:19:23Z",
                     "owner": "zedeus",
                     "repo": "nitter",
-                    "stars": 13586
+                    "stars": 13610
                   }
                 },
                 {
@@ -317,7 +317,7 @@
                     "last_commit": "2026-08-26T11:19:23Z",
                     "owner": "zedeus",
                     "repo": "nitter",
-                    "stars": 13586
+                    "stars": 13610
                   }
                 }
               ],
@@ -328,7 +328,7 @@
                 "last_commit": "2026-08-26T11:19:23Z",
                 "owner": "zedeus",
                 "repo": "nitter",
-                "stars": 13586
+                "stars": 13610
               }
             }
           ],
@@ -355,7 +355,7 @@
                     "last_commit": "2025-05-31T18:56:17Z",
                     "owner": "pablouser1",
                     "repo": "ProxiTok",
-                    "stars": 2134
+                    "stars": 2135
                   }
                 },
                 {
@@ -370,7 +370,7 @@
                     "last_commit": "2025-05-31T18:56:17Z",
                     "owner": "pablouser1",
                     "repo": "ProxiTok",
-                    "stars": 2134
+                    "stars": 2135
                   }
                 },
                 {
@@ -385,7 +385,7 @@
                     "last_commit": "2025-05-31T18:56:17Z",
                     "owner": "pablouser1",
                     "repo": "ProxiTok",
-                    "stars": 2134
+                    "stars": 2135
                   }
                 },
                 {
@@ -400,7 +400,7 @@
                     "last_commit": "2025-05-31T18:56:17Z",
                     "owner": "pablouser1",
                     "repo": "ProxiTok",
-                    "stars": 2134
+                    "stars": 2135
                   }
                 }
               ]
@@ -636,7 +636,7 @@
                     "last_commit": "2026-04-19T15:27:58Z",
                     "owner": "zyachel",
                     "repo": "libremdb",
-                    "stars": 437
+                    "stars": 438
                   }
                 },
                 {
@@ -651,7 +651,7 @@
                     "last_commit": "2026-04-19T15:27:58Z",
                     "owner": "zyachel",
                     "repo": "libremdb",
-                    "stars": 437
+                    "stars": 438
                   }
                 },
                 {
@@ -666,7 +666,7 @@
                     "last_commit": "2026-04-19T15:27:58Z",
                     "owner": "zyachel",
                     "repo": "libremdb",
-                    "stars": 437
+                    "stars": 438
                   }
                 }
               ]
@@ -828,7 +828,7 @@
                     "last_commit": "2026-08-14T14:12:30Z",
                     "owner": "benbusby",
                     "repo": "whoogle-search",
-                    "stars": 11591
+                    "stars": 11590
                   }
                 },
                 {
@@ -843,7 +843,7 @@
                     "last_commit": "2026-08-14T14:12:30Z",
                     "owner": "benbusby",
                     "repo": "whoogle-search",
-                    "stars": 11591
+                    "stars": 11590
                   }
                 },
                 {
@@ -858,7 +858,7 @@
                     "last_commit": "2026-08-14T14:12:30Z",
                     "owner": "benbusby",
                     "repo": "whoogle-search",
-                    "stars": 11591
+                    "stars": 11590
                   }
                 }
               ]
@@ -969,7 +969,7 @@
                     "last_commit": "2026-08-22T05:35:24Z",
                     "owner": "searxng",
                     "repo": "searxng",
-                    "stars": 36135
+                    "stars": 36154
                   }
                 }
               ]
@@ -1116,9 +1116,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T01:02:34.771Z",
-    "original_repository": "digitalblossom/alternative-frontends",
-    "original_repository_id": 415553659,
+    "last_updated": "2026-08-27T11:20:22.414Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 415553659,
+      "language": null,
+      "last_commit": "2024-03-21T16:11:54Z",
+      "owner": "digitalblossom",
+      "repo": "alternative-frontends",
+      "stars": 2290
+    },
     "original_repository_sha": "9223e0e9c3a379314020ffd51e34eb5d7f6ad81e",
     "enhanced_repository": "enhansome/enhansome-alternative-frontends",
     "enhanced_repository_description": null,
