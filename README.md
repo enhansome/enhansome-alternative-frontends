@@ -26,7 +26,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ### YouTube
 
 * **Invidious**
-  * [Homepage](https://invidious.io) | [Repo](https://github.com/iv-org/invidious) ⭐ 22,952 | 🐛 480 | 🌐 Crystal | 📅 2026-08-28
+  * [Homepage](https://invidious.io) | [Repo](https://github.com/iv-org/invidious) ⭐ 22,967 | 🐛 476 | 🌐 Crystal | 📅 2026-08-28
   * [x] Decentralized Options | [I2P](http://tube.i2p) | [Onion](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md#tor-onion-services) ⭐ 801 | 🐛 37 | 🌐 Dockerfile | 📅 2026-08-09 | [Loki](http://invidious.loki)
   * Lightweight YouTube frontend - no tracking, no ads and Javascript is optional.
   * [Public Instances](https://docs.invidious.io/instances)
@@ -34,7 +34,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   * [x] Self-Hostable | [Guide](https://docs.invidious.io/Installation.md)
 
 * **Piped**
-  * [Main Instance](https://piped.video) | [Repo](https://github.com/TeamPiped/Piped) ⭐ 10,208 | 🐛 317 | 🌐 Vue | 📅 2026-08-28
+  * [Main Instance](https://piped.video) | [Repo](https://github.com/TeamPiped/Piped) ⭐ 10,209 | 🐛 317 | 🌐 Vue | 📅 2026-08-28
   * [x] Decentralized Options | [IPNS](https://github.com/digitalblossom/alternative-frontends/issues/25#issuecomment-1002261657) ⭐ 2,293 | 🐛 28 | 📅 2024-03-21 | [Onion](http://piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion)
   * Alternative privacy-friendly YouTube frontend. Lightweight, no ads (Sponsorblock integrated), no tracking, 4K support and more.
   * [Public Instances](https://piped.kavin.rocks/preferences) (scroll down)
@@ -83,9 +83,9 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   * [x] Decentralized Options | [I2P](http://teddit.i2p)
 
 * **Libreddit**
-  * Main Instance n/a | [Repo](https://github.com/spikecodes/libreddit) ⭐ 5,201 | 🐛 196 | 🌐 Rust | 📅 2025-02-15
-  * [x] Self-Hostable | [Guide](https://github.com/spikecodes/libreddit#installation) ⭐ 5,201 | 🐛 196 | 🌐 Rust | 📅 2025-02-15
-  * [Public Instances](https://github.com/libreddit/libreddit-instances/blob/master/instances.md) ⭐ 108 | 🐛 40 | 🌐 Shell | 📅 2026-08-27
+  * Main Instance n/a | [Repo](https://github.com/spikecodes/libreddit) ⭐ 5,202 | 🐛 196 | 🌐 Rust | 📅 2025-02-15
+  * [x] Self-Hostable | [Guide](https://github.com/spikecodes/libreddit#installation) ⭐ 5,202 | 🐛 196 | 🌐 Rust | 📅 2025-02-15
+  * [Public Instances](https://github.com/libreddit/libreddit-instances/blob/master/instances.md) ⭐ 108 | 🐛 40 | 🌐 Shell | 📅 2026-08-29
   * Privacy-focused fast Reddit frontend without ads, javascript and tracking. All requests are proxied through the server.
   * [x] Open-Source
 
@@ -142,10 +142,10 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ### Tiktok
 
 * **ProxiTok**
-  * [Main Instance](https://proxitok.pabloferreiro.es) | [Repo](https://github.com/pablouser1/ProxiTok) ⭐ 2,137 | 🐛 51 | 🌐 PHP | 📅 2025-05-31
-  * [Public Instances](https://github.com/pablouser1/ProxiTok/wiki/Public-instances#clearnet) ⭐ 2,137 | 🐛 51 | 🌐 PHP | 📅 2025-05-31
-  * [x] Self-Hostable | [Guide](https://github.com/pablouser1/ProxiTok#installation) ⭐ 2,137 | 🐛 51 | 🌐 PHP | 📅 2025-05-31
-  * [x] Decentralized Options | [Onion](https://github.com/pablouser1/ProxiTok/wiki/Public-instances#tor) ⭐ 2,137 | 🐛 51 | 🌐 PHP | 📅 2025-05-31
+  * [Main Instance](https://proxitok.pabloferreiro.es) | [Repo](https://github.com/pablouser1/ProxiTok) ⭐ 2,136 | 🐛 51 | 🌐 PHP | 📅 2025-05-31
+  * [Public Instances](https://github.com/pablouser1/ProxiTok/wiki/Public-instances#clearnet) ⭐ 2,136 | 🐛 51 | 🌐 PHP | 📅 2025-05-31
+  * [x] Self-Hostable | [Guide](https://github.com/pablouser1/ProxiTok#installation) ⭐ 2,136 | 🐛 51 | 🌐 PHP | 📅 2025-05-31
+  * [x] Decentralized Options | [Onion](https://github.com/pablouser1/ProxiTok/wiki/Public-instances#tor) ⭐ 2,136 | 🐛 51 | 🌐 PHP | 📅 2025-05-31
   * Open-Source frontend for Tiktok that proxies users requests.
   * [x] Open-Source
 
@@ -194,10 +194,10 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ### StackOverflow
 
 * **AnonymousOverflow**
-  * [Main Instance](https://code.whatever.social) | [Repo](https://github.com/httpjamesm/AnonymousOverflow) ⭐ 378 | 🐛 15 | 🌐 Go | 📅 2026-08-25
-  * [Public Instances](https://github.com/httpjamesm/AnonymousOverflow#clearnet-instances) ⭐ 378 | 🐛 15 | 🌐 Go | 📅 2026-08-25
-  * [x] Self-Hostable | [Guide](https://github.com/httpjamesm/AnonymousOverflow/wiki/Deployment) ⭐ 378 | 🐛 15 | 🌐 Go | 📅 2026-08-25
-  * [x] Decentralized Options | [I2P](https://github.com/httpjamesm/AnonymousOverflow#other-instances) ⭐ 378 | 🐛 15 | 🌐 Go | 📅 2026-08-25 | [Onion](https://github.com/httpjamesm/AnonymousOverflow#other-instances) ⭐ 378 | 🐛 15 | 🌐 Go | 📅 2026-08-25
+  * [Main Instance](https://code.whatever.social) | [Repo](https://github.com/httpjamesm/AnonymousOverflow) ⭐ 379 | 🐛 15 | 🌐 Go | 📅 2026-08-25
+  * [Public Instances](https://github.com/httpjamesm/AnonymousOverflow#clearnet-instances) ⭐ 379 | 🐛 15 | 🌐 Go | 📅 2026-08-25
+  * [x] Self-Hostable | [Guide](https://github.com/httpjamesm/AnonymousOverflow/wiki/Deployment) ⭐ 379 | 🐛 15 | 🌐 Go | 📅 2026-08-25
+  * [x] Decentralized Options | [I2P](https://github.com/httpjamesm/AnonymousOverflow#other-instances) ⭐ 379 | 🐛 15 | 🌐 Go | 📅 2026-08-25 | [Onion](https://github.com/httpjamesm/AnonymousOverflow#other-instances) ⭐ 379 | 🐛 15 | 🌐 Go | 📅 2026-08-25
   * View StackOverflow in privacy and without the clutter
   * [x] Open-Source
 
@@ -275,7 +275,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   * [x] Open-Source
 
 * **SearX**
-  * [Homepage](https://searx.github.io/searx) | [Repo](https://github.com/searx/searx) ⭐ 13,541 | 🐛 337 | 🌐 Python | 📅 2026-05-14
+  * [Homepage](https://searx.github.io/searx) | [Repo](https://github.com/searx/searx) ⭐ 13,542 | 🐛 337 | 🌐 Python | 📅 2026-05-14
   * Privacy-respecting, self-hostable metasearch engine. Acts as frontend for more than 70 search services.
   * [Public Instances](https://searx.space)
   * [x] Open-Source
@@ -283,7 +283,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   * [x] Decentralized Options | [Onion](https://searx.space)
 
 * **SearxNG**
-  * [Homepage](https://searxng.org) | [Repo](https://github.com/searxng/searxng) ⭐ 36,219 | 🐛 222 | 🌐 Python | 📅 2026-08-29
+  * [Homepage](https://searxng.org) | [Repo](https://github.com/searxng/searxng) ⭐ 36,243 | 🐛 219 | 🌐 Python | 📅 2026-08-29
   * Fork of SearX with UI improvements (including to the settings page) and updates to the selfhosting procedure.
   * [Public Instances](https://searx.space)
   * [x] Open-Source
@@ -351,7 +351,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   ⓘ Developement of Privacy Redirect has ended/paused, consider using LibRedirect instead
 
 * **LibRedirect**
-  * [Homepage & Download](https://libredirect.github.io) | [Repo](https://github.com/libredirect/libredirect) ⭐ 4,026 | 🐛 47 | 🌐 JavaScript | 📅 2026-08-12
+  * [Homepage & Download](https://libredirect.github.io) | [Repo](https://github.com/libredirect/libredirect) ⭐ 4,028 | 🐛 47 | 🌐 JavaScript | 📅 2026-08-12
   * Maintained fork of Privacy Redirect with new services added and a refreshed UI.
   * [x] Open-Source
 
@@ -369,7 +369,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   ⓘ Not Open Source, but made by a trustworthy company and operates with a [good privacy policy](https://www.ssllabs.com/downloads/Qualys_SSL_Labs_Terms_of_Use.pdf).
 
 * **Translate You Libre**
-  * [Download](https://github.com/bnyro/translateyou/releases) ⭐ 1,527 | 🐛 24 | 🌐 Kotlin | 📅 2026-07-04 | [Repo](https://github.com/Bnyro/TranslateYou) ⭐ 1,527 | 🐛 24 | 🌐 Kotlin | 📅 2026-07-04
+  * [Download](https://github.com/bnyro/translateyou/releases) ⭐ 1,528 | 🐛 24 | 🌐 Kotlin | 📅 2026-07-04 | [Repo](https://github.com/Bnyro/TranslateYou) ⭐ 1,528 | 🐛 24 | 🌐 Kotlin | 📅 2026-07-04
   * FOSS Android frontend for LibreTranslate and Lingva. Uses Material You
   * [x] Open-Source
 
