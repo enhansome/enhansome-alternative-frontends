@@ -17,12 +17,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Invidious is an alternative front-end to YouTube",
+                    "homepage": "https://invidious.io",
                     "id": 120542434,
                     "language": "Crystal",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-08-28T21:50:40Z",
+                    "open_issues": 480,
                     "owner": "iv-org",
                     "repo": "invidious",
-                    "stars": 22951
+                    "stars": 22952,
+                    "topics": [
+                      "agplv3",
+                      "hacktoberfest",
+                      "invidious",
+                      "libre",
+                      "video",
+                      "watch",
+                      "youtube",
+                      "youtube-video"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 },
@@ -33,12 +47,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The official Invidious documentation",
+                    "homepage": "https://docs.invidious.io",
                     "id": 317291340,
                     "language": "Dockerfile",
+                    "license": "CC0-1.0",
                     "last_commit": "2026-08-09T19:53:58Z",
+                    "open_issues": 37,
                     "owner": "iv-org",
                     "repo": "documentation",
-                    "stars": 801
+                    "stars": 801,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 }
@@ -56,12 +75,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An alternative privacy-friendly YouTube frontend which is efficient by design.",
+                    "homepage": "https://piped.video",
                     "id": 311916226,
                     "language": "Vue",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-08-28T16:43:39Z",
+                    "open_issues": 317,
                     "owner": "TeamPiped",
                     "repo": "Piped",
-                    "stars": 10208
+                    "stars": 10208,
+                    "topics": [
+                      "activej",
+                      "dearrow",
+                      "hacktoberfest",
+                      "ipfs",
+                      "java",
+                      "newpipe",
+                      "privacy",
+                      "sponsorblock",
+                      "videos",
+                      "vuejs",
+                      "youtube"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 },
@@ -72,12 +108,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🔐🌐 Privacy-respecting web frontends for popular services ",
+                    "homepage": null,
                     "id": 415553659,
                     "language": null,
+                    "license": "GPL-3.0",
                     "last_commit": "2024-03-21T16:11:54Z",
+                    "open_issues": 28,
                     "owner": "digitalblossom",
                     "repo": "alternative-frontends",
-                    "stars": 2293
+                    "stars": 2293,
+                    "topics": [
+                      "adblock",
+                      "ads",
+                      "anonymity",
+                      "awesome",
+                      "awesome-list",
+                      "decentralization",
+                      "decentralized",
+                      "ethics",
+                      "privacy",
+                      "privacy-tools",
+                      "reddit",
+                      "security",
+                      "security-tools",
+                      "self-hosted",
+                      "selfhosted",
+                      "social-network",
+                      "tor",
+                      "tracking",
+                      "twitter",
+                      "youtube"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 }
@@ -95,12 +157,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content. Docs: https://viewtube.wiki",
+                    "homepage": "https://viewtube.io",
                     "id": 197559490,
                     "language": "TypeScript",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-08-28T20:06:11Z",
+                    "open_issues": 75,
                     "owner": "ViewTube",
                     "repo": "viewtube",
-                    "stars": 1473
+                    "stars": 1473,
+                    "topics": [
+                      "docker",
+                      "nuxt",
+                      "streaming",
+                      "subscriptions",
+                      "typescript",
+                      "video",
+                      "viewtube",
+                      "vuejs",
+                      "youtube",
+                      "youtube-player"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 },
@@ -111,12 +189,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content. Docs: https://viewtube.wiki",
+                    "homepage": "https://viewtube.io",
                     "id": 197559490,
                     "language": "TypeScript",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-08-28T20:06:11Z",
+                    "open_issues": 75,
                     "owner": "ViewTube",
                     "repo": "viewtube",
-                    "stars": 1473
+                    "stars": 1473,
+                    "topics": [
+                      "docker",
+                      "nuxt",
+                      "streaming",
+                      "subscriptions",
+                      "typescript",
+                      "video",
+                      "viewtube",
+                      "vuejs",
+                      "youtube",
+                      "youtube-player"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 }
@@ -141,12 +235,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Alternative YouTube Music frontend built with Svelte/SvelteKit 🎧",
+                    "homepage": "https://beatbump.io/",
                     "id": 377928549,
                     "language": "TypeScript",
+                    "license": "AGPL-3.0",
                     "last_commit": "2025-10-03T20:49:05Z",
+                    "open_issues": 96,
                     "owner": "snuffyDev",
                     "repo": "Beatbump",
-                    "stars": 1133
+                    "stars": 1133,
+                    "topics": [
+                      "alternative-frontends",
+                      "cloudflare-workers",
+                      "docker-compose",
+                      "frontend",
+                      "javascript",
+                      "music",
+                      "privacy",
+                      "pwa",
+                      "self-hosted",
+                      "svelte",
+                      "sveltekit",
+                      "webapp",
+                      "youtube",
+                      "youtube-music",
+                      "youtube-music-api"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 }
@@ -171,12 +286,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " alternative Reddit front-end focused on privacy https://teddit.net",
+                    "homepage": null,
                     "id": 314029920,
                     "language": "JavaScript",
+                    "license": "AGPL-3.0",
                     "last_commit": "2023-07-31T05:05:18Z",
+                    "open_issues": 1,
                     "owner": "teddit-net",
                     "repo": "teddit",
-                    "stars": 283
+                    "stars": 283,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 }
@@ -194,12 +314,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Private front-end for Reddit",
+                    "homepage": "https://github.com/libreddit/libreddit/issues/840",
                     "id": 286875790,
                     "language": "Rust",
+                    "license": "AGPL-3.0",
                     "last_commit": "2025-02-15T19:11:02Z",
+                    "open_issues": 196,
                     "owner": "libreddit",
                     "repo": "libreddit",
-                    "stars": 5201
+                    "stars": 5201,
+                    "topics": [
+                      "docker",
+                      "front-end",
+                      "privacy",
+                      "reddit",
+                      "rust",
+                      "security",
+                      "self-hosted"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 },
@@ -210,12 +343,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Private front-end for Reddit",
+                    "homepage": "https://github.com/libreddit/libreddit/issues/840",
                     "id": 286875790,
                     "language": "Rust",
+                    "license": "AGPL-3.0",
                     "last_commit": "2025-02-15T19:11:02Z",
+                    "open_issues": 196,
                     "owner": "libreddit",
                     "repo": "libreddit",
-                    "stars": 5201
+                    "stars": 5201,
+                    "topics": [
+                      "docker",
+                      "front-end",
+                      "privacy",
+                      "reddit",
+                      "rust",
+                      "security",
+                      "self-hosted"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 },
@@ -226,12 +372,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "List of Libreddit instances.",
+                    "homepage": null,
                     "id": 539787351,
                     "language": "Shell",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-27T07:10:57Z",
+                    "open_issues": 40,
                     "owner": "libreddit",
                     "repo": "libreddit-instances",
-                    "stars": 108
+                    "stars": 108,
+                    "topics": [
+                      "csv",
+                      "json"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 }
@@ -249,12 +403,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A web client for Reddit with authenticated logins and a variety of browsing options",
+                    "homepage": "https://www.troddit.com",
                     "id": 389229514,
                     "language": "TypeScript",
+                    "license": "AGPL-3.0",
                     "last_commit": "2025-07-28T00:18:41Z",
+                    "open_issues": 0,
                     "owner": "burhan-syed",
                     "repo": "troddit",
-                    "stars": 624
+                    "stars": 624,
+                    "topics": [
+                      "nextjs",
+                      "react",
+                      "reddit",
+                      "tailwindcss"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 },
@@ -265,12 +429,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A web client for Reddit with authenticated logins and a variety of browsing options",
+                    "homepage": "https://www.troddit.com",
                     "id": 389229514,
                     "language": "TypeScript",
+                    "license": "AGPL-3.0",
                     "last_commit": "2025-07-28T00:18:41Z",
+                    "open_issues": 0,
                     "owner": "burhan-syed",
                     "repo": "troddit",
-                    "stars": 624
+                    "stars": 624,
+                    "topics": [
+                      "nextjs",
+                      "react",
+                      "reddit",
+                      "tailwindcss"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 }
@@ -295,12 +469,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Alternative Twitter front-end",
+                    "homepage": "https://nitter.net",
                     "id": 192928781,
                     "language": "Nim",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-08-26T11:19:23Z",
+                    "open_issues": 156,
                     "owner": "zedeus",
                     "repo": "nitter",
-                    "stars": 14048
+                    "stars": 14049,
+                    "topics": [
+                      "nim",
+                      "privacy",
+                      "self-hosted",
+                      "twitter",
+                      "x"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 },
@@ -311,12 +496,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Alternative Twitter front-end",
+                    "homepage": "https://nitter.net",
                     "id": 192928781,
                     "language": "Nim",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-08-26T11:19:23Z",
+                    "open_issues": 156,
                     "owner": "zedeus",
                     "repo": "nitter",
-                    "stars": 14048
+                    "stars": 14049,
+                    "topics": [
+                      "nim",
+                      "privacy",
+                      "self-hosted",
+                      "twitter",
+                      "x"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 },
@@ -327,24 +523,46 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Alternative Twitter front-end",
+                    "homepage": "https://nitter.net",
                     "id": 192928781,
                     "language": "Nim",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-08-26T11:19:23Z",
+                    "open_issues": 156,
                     "owner": "zedeus",
                     "repo": "nitter",
-                    "stars": 14048
+                    "stars": 14049,
+                    "topics": [
+                      "nim",
+                      "privacy",
+                      "self-hosted",
+                      "twitter",
+                      "x"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 }
               ],
               "repo_info": {
                 "archived": true,
+                "description": "Alternative Twitter front-end",
+                "homepage": "https://nitter.net",
                 "id": 192928781,
                 "language": "Nim",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-26T11:19:23Z",
+                "open_issues": 156,
                 "owner": "zedeus",
                 "repo": "nitter",
-                "stars": 14048
+                "stars": 14049,
+                "topics": [
+                  "nim",
+                  "privacy",
+                  "self-hosted",
+                  "twitter",
+                  "x"
+                ]
               },
               "first_seen": "2026-08-28T05:36:10.557Z"
             }
@@ -367,12 +585,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Open source alternative frontend for TikTok made using PHP",
+                    "homepage": "https://github.com/pablouser1/ProxiTok/wiki/Public-instances",
                     "id": 443605948,
                     "language": "PHP",
+                    "license": "AGPL-3.0",
                     "last_commit": "2025-05-31T18:56:17Z",
+                    "open_issues": 51,
                     "owner": "pablouser1",
                     "repo": "ProxiTok",
-                    "stars": 2137
+                    "stars": 2137,
+                    "topics": [
+                      "alternative-frontends",
+                      "php",
+                      "proxitok",
+                      "tiktok",
+                      "tiktok-scraper"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 },
@@ -383,12 +612,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Open source alternative frontend for TikTok made using PHP",
+                    "homepage": "https://github.com/pablouser1/ProxiTok/wiki/Public-instances",
                     "id": 443605948,
                     "language": "PHP",
+                    "license": "AGPL-3.0",
                     "last_commit": "2025-05-31T18:56:17Z",
+                    "open_issues": 51,
                     "owner": "pablouser1",
                     "repo": "ProxiTok",
-                    "stars": 2137
+                    "stars": 2137,
+                    "topics": [
+                      "alternative-frontends",
+                      "php",
+                      "proxitok",
+                      "tiktok",
+                      "tiktok-scraper"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 },
@@ -399,12 +639,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Open source alternative frontend for TikTok made using PHP",
+                    "homepage": "https://github.com/pablouser1/ProxiTok/wiki/Public-instances",
                     "id": 443605948,
                     "language": "PHP",
+                    "license": "AGPL-3.0",
                     "last_commit": "2025-05-31T18:56:17Z",
+                    "open_issues": 51,
                     "owner": "pablouser1",
                     "repo": "ProxiTok",
-                    "stars": 2137
+                    "stars": 2137,
+                    "topics": [
+                      "alternative-frontends",
+                      "php",
+                      "proxitok",
+                      "tiktok",
+                      "tiktok-scraper"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 },
@@ -415,12 +666,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Open source alternative frontend for TikTok made using PHP",
+                    "homepage": "https://github.com/pablouser1/ProxiTok/wiki/Public-instances",
                     "id": 443605948,
                     "language": "PHP",
+                    "license": "AGPL-3.0",
                     "last_commit": "2025-05-31T18:56:17Z",
+                    "open_issues": 51,
                     "owner": "pablouser1",
                     "repo": "ProxiTok",
-                    "stars": 2137
+                    "stars": 2137,
+                    "topics": [
+                      "alternative-frontends",
+                      "php",
+                      "proxitok",
+                      "tiktok",
+                      "tiktok-scraper"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 }
@@ -445,12 +707,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An Alternative Medium Frontend | Development continues at: https://git.batsense.net/realaravinth/libmedium",
+                    "homepage": "https://libmedium.batsense.net",
                     "id": 423214699,
                     "language": "HTML",
+                    "license": "AGPL-3.0",
                     "last_commit": "2024-06-07T09:33:20Z",
+                    "open_issues": 12,
                     "owner": "realaravinth",
                     "repo": "libmedium",
-                    "stars": 95
+                    "stars": 95,
+                    "topics": [
+                      "medium",
+                      "medium-com",
+                      "privacy",
+                      "self-hosted"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 },
@@ -461,12 +733,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An Alternative Medium Frontend | Development continues at: https://git.batsense.net/realaravinth/libmedium",
+                    "homepage": "https://libmedium.batsense.net",
                     "id": 423214699,
                     "language": "HTML",
+                    "license": "AGPL-3.0",
                     "last_commit": "2024-06-07T09:33:20Z",
+                    "open_issues": 12,
                     "owner": "realaravinth",
                     "repo": "libmedium",
-                    "stars": 95
+                    "stars": 95,
+                    "topics": [
+                      "medium",
+                      "medium-com",
+                      "privacy",
+                      "self-hosted"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 },
@@ -477,12 +759,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An Alternative Medium Frontend | Development continues at: https://git.batsense.net/realaravinth/libmedium",
+                    "homepage": "https://libmedium.batsense.net",
                     "id": 423214699,
                     "language": "HTML",
+                    "license": "AGPL-3.0",
                     "last_commit": "2024-06-07T09:33:20Z",
+                    "open_issues": 12,
                     "owner": "realaravinth",
                     "repo": "libmedium",
-                    "stars": 95
+                    "stars": 95,
+                    "topics": [
+                      "medium",
+                      "medium-com",
+                      "privacy",
+                      "self-hosted"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 },
@@ -493,12 +785,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An Alternative Medium Frontend | Development continues at: https://git.batsense.net/realaravinth/libmedium",
+                    "homepage": "https://libmedium.batsense.net",
                     "id": 423214699,
                     "language": "HTML",
+                    "license": "AGPL-3.0",
                     "last_commit": "2024-06-07T09:33:20Z",
+                    "open_issues": 12,
                     "owner": "realaravinth",
                     "repo": "libmedium",
-                    "stars": 95
+                    "stars": 95,
+                    "topics": [
+                      "medium",
+                      "medium-com",
+                      "privacy",
+                      "self-hosted"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 }
@@ -523,12 +825,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A libre front-end for Quora",
+                    "homepage": "https://quetre.iket.me",
                     "id": 482524094,
                     "language": "JavaScript",
+                    "license": "AGPL-3.0",
                     "last_commit": "2025-11-06T23:02:00Z",
+                    "open_issues": 17,
                     "owner": "zyachel",
                     "repo": "quetre",
-                    "stars": 498
+                    "stars": 498,
+                    "topics": [
+                      "alternative-frontends",
+                      "foss",
+                      "front-end",
+                      "javascript",
+                      "privacy",
+                      "pug",
+                      "quora",
+                      "sass",
+                      "scraping"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 },
@@ -539,12 +856,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A libre front-end for Quora",
+                    "homepage": "https://quetre.iket.me",
                     "id": 482524094,
                     "language": "JavaScript",
+                    "license": "AGPL-3.0",
                     "last_commit": "2025-11-06T23:02:00Z",
+                    "open_issues": 17,
                     "owner": "zyachel",
                     "repo": "quetre",
-                    "stars": 498
+                    "stars": 498,
+                    "topics": [
+                      "alternative-frontends",
+                      "foss",
+                      "front-end",
+                      "javascript",
+                      "privacy",
+                      "pug",
+                      "quora",
+                      "sass",
+                      "scraping"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 },
@@ -555,12 +887,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A libre front-end for Quora",
+                    "homepage": "https://quetre.iket.me",
                     "id": 482524094,
                     "language": "JavaScript",
+                    "license": "AGPL-3.0",
                     "last_commit": "2025-11-06T23:02:00Z",
+                    "open_issues": 17,
                     "owner": "zyachel",
                     "repo": "quetre",
-                    "stars": 498
+                    "stars": 498,
+                    "topics": [
+                      "alternative-frontends",
+                      "foss",
+                      "front-end",
+                      "javascript",
+                      "privacy",
+                      "pug",
+                      "quora",
+                      "sass",
+                      "scraping"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 }
@@ -585,12 +932,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "View StackOverflow in privacy and without the clutter.",
+                    "homepage": "https://aohub.httpjames.space",
                     "id": 582843633,
                     "language": "Go",
+                    "license": "MPL-2.0",
                     "last_commit": "2026-08-25T21:09:31Z",
+                    "open_issues": 15,
                     "owner": "httpjamesm",
                     "repo": "AnonymousOverflow",
-                    "stars": 378
+                    "stars": 378,
+                    "topics": [
+                      "frontend",
+                      "go",
+                      "privacy"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 },
@@ -601,12 +957,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "View StackOverflow in privacy and without the clutter.",
+                    "homepage": "https://aohub.httpjames.space",
                     "id": 582843633,
                     "language": "Go",
+                    "license": "MPL-2.0",
                     "last_commit": "2026-08-25T21:09:31Z",
+                    "open_issues": 15,
                     "owner": "httpjamesm",
                     "repo": "AnonymousOverflow",
-                    "stars": 378
+                    "stars": 378,
+                    "topics": [
+                      "frontend",
+                      "go",
+                      "privacy"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 },
@@ -617,12 +982,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "View StackOverflow in privacy and without the clutter.",
+                    "homepage": "https://aohub.httpjames.space",
                     "id": 582843633,
                     "language": "Go",
+                    "license": "MPL-2.0",
                     "last_commit": "2026-08-25T21:09:31Z",
+                    "open_issues": 15,
                     "owner": "httpjamesm",
                     "repo": "AnonymousOverflow",
-                    "stars": 378
+                    "stars": 378,
+                    "topics": [
+                      "frontend",
+                      "go",
+                      "privacy"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 },
@@ -633,12 +1007,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "View StackOverflow in privacy and without the clutter.",
+                    "homepage": "https://aohub.httpjames.space",
                     "id": 582843633,
                     "language": "Go",
+                    "license": "MPL-2.0",
                     "last_commit": "2026-08-25T21:09:31Z",
+                    "open_issues": 15,
                     "owner": "httpjamesm",
                     "repo": "AnonymousOverflow",
-                    "stars": 378
+                    "stars": 378,
+                    "topics": [
+                      "frontend",
+                      "go",
+                      "privacy"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 }
@@ -663,12 +1046,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A free & open source IMDb front-end.",
+                    "homepage": "https://libremdb.iket.me",
                     "id": 471680442,
                     "language": "TypeScript",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-04-19T15:27:58Z",
+                    "open_issues": 23,
                     "owner": "zyachel",
                     "repo": "libremdb",
-                    "stars": 438
+                    "stars": 438,
+                    "topics": [
+                      "alternative-frontends",
+                      "foss",
+                      "front-end",
+                      "imdb",
+                      "privacy",
+                      "sass",
+                      "scraping",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 },
@@ -679,12 +1076,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A free & open source IMDb front-end.",
+                    "homepage": "https://libremdb.iket.me",
                     "id": 471680442,
                     "language": "TypeScript",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-04-19T15:27:58Z",
+                    "open_issues": 23,
                     "owner": "zyachel",
                     "repo": "libremdb",
-                    "stars": 438
+                    "stars": 438,
+                    "topics": [
+                      "alternative-frontends",
+                      "foss",
+                      "front-end",
+                      "imdb",
+                      "privacy",
+                      "sass",
+                      "scraping",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 },
@@ -695,12 +1106,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A free & open source IMDb front-end.",
+                    "homepage": "https://libremdb.iket.me",
                     "id": 471680442,
                     "language": "TypeScript",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-04-19T15:27:58Z",
+                    "open_issues": 23,
                     "owner": "zyachel",
                     "repo": "libremdb",
-                    "stars": 438
+                    "stars": 438,
+                    "topics": [
+                      "alternative-frontends",
+                      "foss",
+                      "front-end",
+                      "imdb",
+                      "privacy",
+                      "sass",
+                      "scraping",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 }
@@ -725,12 +1150,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Private alternative front-end for Genius.",
+                    "homepage": null,
                     "id": 509225805,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2026-04-01T04:17:45Z",
+                    "open_issues": 16,
                     "owner": "rramiachraf",
                     "repo": "dumb",
-                    "stars": 406
+                    "stars": 406,
+                    "topics": [
+                      "alternative",
+                      "alternative-frontends",
+                      "privacy",
+                      "tracking-protection"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 },
@@ -741,12 +1176,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Private alternative front-end for Genius.",
+                    "homepage": null,
                     "id": 509225805,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2026-04-01T04:17:45Z",
+                    "open_issues": 16,
                     "owner": "rramiachraf",
                     "repo": "dumb",
-                    "stars": 406
+                    "stars": 406,
+                    "topics": [
+                      "alternative",
+                      "alternative-frontends",
+                      "privacy",
+                      "tracking-protection"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 },
@@ -757,12 +1202,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Private alternative front-end for Genius.",
+                    "homepage": null,
                     "id": 509225805,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2026-04-01T04:17:45Z",
+                    "open_issues": 16,
                     "owner": "rramiachraf",
                     "repo": "dumb",
-                    "stars": 406
+                    "stars": 406,
+                    "topics": [
+                      "alternative",
+                      "alternative-frontends",
+                      "privacy",
+                      "tracking-protection"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 },
@@ -773,12 +1228,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Private alternative front-end for Genius.",
+                    "homepage": null,
                     "id": 509225805,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2026-04-01T04:17:45Z",
+                    "open_issues": 16,
                     "owner": "rramiachraf",
                     "repo": "dumb",
-                    "stars": 406
+                    "stars": 406,
+                    "topics": [
+                      "alternative",
+                      "alternative-frontends",
+                      "privacy",
+                      "tracking-protection"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 }
@@ -803,12 +1268,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Alternative front-end for Google Translate",
+                    "homepage": "https://lingva.thedaviddelta.com",
                     "id": 346112697,
                     "language": "TypeScript",
+                    "license": "AGPL-3.0",
                     "last_commit": "2023-08-01T10:39:09Z",
+                    "open_issues": 45,
                     "owner": "thedaviddelta",
                     "repo": "lingva-translate",
-                    "stars": 1840
+                    "stars": 1840,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 },
@@ -819,12 +1289,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Alternative front-end for Google Translate",
+                    "homepage": "https://lingva.thedaviddelta.com",
                     "id": 346112697,
                     "language": "TypeScript",
+                    "license": "AGPL-3.0",
                     "last_commit": "2023-08-01T10:39:09Z",
+                    "open_issues": 45,
                     "owner": "thedaviddelta",
                     "repo": "lingva-translate",
-                    "stars": 1840
+                    "stars": 1840,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 },
@@ -835,12 +1310,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Alternative front-end for Google Translate",
+                    "homepage": "https://lingva.thedaviddelta.com",
                     "id": 346112697,
                     "language": "TypeScript",
+                    "license": "AGPL-3.0",
                     "last_commit": "2023-08-01T10:39:09Z",
+                    "open_issues": 45,
                     "owner": "thedaviddelta",
                     "repo": "lingva-translate",
-                    "stars": 1840
+                    "stars": 1840,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 }
@@ -865,12 +1345,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A self-hosted, ad-free, privacy-respecting metasearch engine",
+                    "homepage": "https://pypi.org/project/whoogle-search/",
                     "id": 235434204,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-14T14:12:30Z",
+                    "open_issues": 1,
                     "owner": "benbusby",
                     "repo": "whoogle-search",
-                    "stars": 11589
+                    "stars": 11589,
+                    "topics": [
+                      "adblock",
+                      "docker",
+                      "easy-deploy",
+                      "flask",
+                      "heroku",
+                      "metasearch",
+                      "metasearch-engine",
+                      "privacy",
+                      "python",
+                      "search",
+                      "search-engine"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 },
@@ -881,12 +1378,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A self-hosted, ad-free, privacy-respecting metasearch engine",
+                    "homepage": "https://pypi.org/project/whoogle-search/",
                     "id": 235434204,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-14T14:12:30Z",
+                    "open_issues": 1,
                     "owner": "benbusby",
                     "repo": "whoogle-search",
-                    "stars": 11589
+                    "stars": 11589,
+                    "topics": [
+                      "adblock",
+                      "docker",
+                      "easy-deploy",
+                      "flask",
+                      "heroku",
+                      "metasearch",
+                      "metasearch-engine",
+                      "privacy",
+                      "python",
+                      "search",
+                      "search-engine"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 },
@@ -897,12 +1411,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A self-hosted, ad-free, privacy-respecting metasearch engine",
+                    "homepage": "https://pypi.org/project/whoogle-search/",
                     "id": 235434204,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-14T14:12:30Z",
+                    "open_issues": 1,
                     "owner": "benbusby",
                     "repo": "whoogle-search",
-                    "stars": 11589
+                    "stars": 11589,
+                    "topics": [
+                      "adblock",
+                      "docker",
+                      "easy-deploy",
+                      "flask",
+                      "heroku",
+                      "metasearch",
+                      "metasearch-engine",
+                      "privacy",
+                      "python",
+                      "search",
+                      "search-engine"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 }
@@ -920,12 +1451,35 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Framework and javascript free privacy respecting meta search engine",
+                    "homepage": null,
                     "id": 460592324,
                     "language": "PHP",
+                    "license": "AGPL-3.0",
                     "last_commit": "2024-08-01T09:31:27Z",
+                    "open_issues": 23,
                     "owner": "hnhx",
                     "repo": "librex",
-                    "stars": 846
+                    "stars": 846,
+                    "topics": [
+                      "1337x-api",
+                      "ahmia-api",
+                      "google",
+                      "google-api",
+                      "metasearch-engine",
+                      "nyaa-api",
+                      "onion-service",
+                      "php",
+                      "privacy",
+                      "privacy-frontend",
+                      "rutor-api",
+                      "search",
+                      "search-engine",
+                      "self-hosted",
+                      "thepiratebay-api",
+                      "tor",
+                      "torrent"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 },
@@ -936,12 +1490,35 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Framework and javascript free privacy respecting meta search engine",
+                    "homepage": null,
                     "id": 460592324,
                     "language": "PHP",
+                    "license": "AGPL-3.0",
                     "last_commit": "2024-08-01T09:31:27Z",
+                    "open_issues": 23,
                     "owner": "hnhx",
                     "repo": "librex",
-                    "stars": 846
+                    "stars": 846,
+                    "topics": [
+                      "1337x-api",
+                      "ahmia-api",
+                      "google",
+                      "google-api",
+                      "metasearch-engine",
+                      "nyaa-api",
+                      "onion-service",
+                      "php",
+                      "privacy",
+                      "privacy-frontend",
+                      "rutor-api",
+                      "search",
+                      "search-engine",
+                      "self-hosted",
+                      "thepiratebay-api",
+                      "tor",
+                      "torrent"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 },
@@ -952,12 +1529,35 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Framework and javascript free privacy respecting meta search engine",
+                    "homepage": null,
                     "id": 460592324,
                     "language": "PHP",
+                    "license": "AGPL-3.0",
                     "last_commit": "2024-08-01T09:31:27Z",
+                    "open_issues": 23,
                     "owner": "hnhx",
                     "repo": "librex",
-                    "stars": 846
+                    "stars": 846,
+                    "topics": [
+                      "1337x-api",
+                      "ahmia-api",
+                      "google",
+                      "google-api",
+                      "metasearch-engine",
+                      "nyaa-api",
+                      "onion-service",
+                      "php",
+                      "privacy",
+                      "privacy-frontend",
+                      "rutor-api",
+                      "search",
+                      "search-engine",
+                      "self-hosted",
+                      "thepiratebay-api",
+                      "tor",
+                      "torrent"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 },
@@ -968,12 +1568,35 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Framework and javascript free privacy respecting meta search engine",
+                    "homepage": null,
                     "id": 460592324,
                     "language": "PHP",
+                    "license": "AGPL-3.0",
                     "last_commit": "2024-08-01T09:31:27Z",
+                    "open_issues": 23,
                     "owner": "hnhx",
                     "repo": "librex",
-                    "stars": 846
+                    "stars": 846,
+                    "topics": [
+                      "1337x-api",
+                      "ahmia-api",
+                      "google",
+                      "google-api",
+                      "metasearch-engine",
+                      "nyaa-api",
+                      "onion-service",
+                      "php",
+                      "privacy",
+                      "privacy-frontend",
+                      "rutor-api",
+                      "search",
+                      "search-engine",
+                      "self-hosted",
+                      "thepiratebay-api",
+                      "tor",
+                      "torrent"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 }
@@ -991,12 +1614,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Privacy-respecting metasearch engine",
+                    "homepage": "https://hister.org/",
                     "id": 13595305,
                     "language": "Python",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-05-14T10:02:22Z",
+                    "open_issues": 337,
                     "owner": "searx",
                     "repo": "searx",
-                    "stars": 13541
+                    "stars": 13541,
+                    "topics": [
+                      "metasearch",
+                      "metasearch-engine",
+                      "python",
+                      "search",
+                      "search-engine"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 }
@@ -1014,12 +1648,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.",
+                    "homepage": "https://docs.searxng.org",
                     "id": 357241735,
                     "language": "Python",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-08-29T00:20:18Z",
+                    "open_issues": 222,
                     "owner": "searxng",
                     "repo": "searxng",
-                    "stars": 36217
+                    "stars": 36219,
+                    "topics": [
+                      "bing",
+                      "brave",
+                      "degoogle",
+                      "duckduckgo",
+                      "google",
+                      "metasearch",
+                      "privacy",
+                      "python",
+                      "qwant",
+                      "search",
+                      "search-engine",
+                      "searx",
+                      "searxng",
+                      "startpage",
+                      "yahoo"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 }
@@ -1044,12 +1699,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A smart redirecting gateway for various frontend services",
+                    "homepage": "https://farside.link",
                     "id": 419886612,
                     "language": "HTML",
+                    "license": "MIT",
                     "last_commit": "2026-08-19T01:49:49Z",
+                    "open_issues": 52,
                     "owner": "benbusby",
                     "repo": "farside",
-                    "stars": 948
+                    "stars": 948,
+                    "topics": [
+                      "badgerdb",
+                      "go",
+                      "golang",
+                      "privacy",
+                      "redirect"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 },
@@ -1060,12 +1726,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A smart redirecting gateway for various frontend services",
+                    "homepage": "https://farside.link",
                     "id": 419886612,
                     "language": "HTML",
+                    "license": "MIT",
                     "last_commit": "2026-08-19T01:49:49Z",
+                    "open_issues": 52,
                     "owner": "benbusby",
                     "repo": "farside",
-                    "stars": 948
+                    "stars": 948,
+                    "topics": [
+                      "badgerdb",
+                      "go",
+                      "golang",
+                      "privacy",
+                      "redirect"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 }
@@ -1083,12 +1760,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives.",
+                    "homepage": null,
                     "id": 209767110,
                     "language": "JavaScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-09-05T18:05:25Z",
+                    "open_issues": 217,
                     "owner": "SimonBrazell",
                     "repo": "privacy-redirect",
-                    "stars": 2192
+                    "stars": 2192,
+                    "topics": [
+                      "bibliogram",
+                      "chromium",
+                      "firefox",
+                      "google-maps",
+                      "instagram",
+                      "invidious",
+                      "nitter",
+                      "openstreetmap",
+                      "privacy",
+                      "privacy-friendly-alternatives",
+                      "privacy-redirect",
+                      "twitter",
+                      "webextension",
+                      "youtube"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 }
@@ -1106,12 +1803,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A browser extension that redirects popular sites to alternative privacy friendly frontends",
+                    "homepage": "https://libredirect.manerakai.com",
                     "id": 434591591,
                     "language": "JavaScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-12T08:51:36Z",
+                    "open_issues": 47,
                     "owner": "libredirect",
                     "repo": "browser_extension",
-                    "stars": 4026
+                    "stars": 4026,
+                    "topics": [
+                      "bibliogram",
+                      "chrome-extension",
+                      "firefox-extension",
+                      "invidious",
+                      "libre",
+                      "nitter",
+                      "privacy",
+                      "quora",
+                      "twitter",
+                      "webextension",
+                      "youtube"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 }
@@ -1129,12 +1843,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.",
+                    "homepage": "http://einaregilsson.com/redirector/",
                     "id": 1620438,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2025-07-27T19:04:51Z",
+                    "open_issues": 177,
                     "owner": "einaregilsson",
                     "repo": "Redirector",
-                    "stars": 2081
+                    "stars": 2081,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 }
@@ -1152,12 +1871,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Privacy focused translator app built with MD3",
+                    "homepage": "https://you-apps.net",
                     "id": 535721285,
                     "language": "Kotlin",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-07-04T19:26:59Z",
+                    "open_issues": 24,
                     "owner": "you-apps",
                     "repo": "TranslateYou",
-                    "stars": 1527
+                    "stars": 1527,
+                    "topics": [
+                      "android",
+                      "kotlin",
+                      "translate"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
                 }
@@ -1173,15 +1901,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:22:23.236Z",
+    "last_updated": "2026-08-29T04:26:04.962Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🔐🌐 Privacy-respecting web frontends for popular services ",
+      "homepage": null,
       "id": 415553659,
       "language": null,
+      "license": "GPL-3.0",
       "last_commit": "2024-03-21T16:11:54Z",
+      "open_issues": 28,
       "owner": "digitalblossom",
       "repo": "alternative-frontends",
-      "stars": 2293
+      "stars": 2293,
+      "topics": [
+        "adblock",
+        "ads",
+        "anonymity",
+        "awesome",
+        "awesome-list",
+        "decentralization",
+        "decentralized",
+        "ethics",
+        "privacy",
+        "privacy-tools",
+        "reddit",
+        "security",
+        "security-tools",
+        "self-hosted",
+        "selfhosted",
+        "social-network",
+        "tor",
+        "tracking",
+        "twitter",
+        "youtube"
+      ]
     },
     "original_repository_sha": "9223e0e9c3a379314020ffd51e34eb5d7f6ad81e",
     "enhanced_repository": "enhansome/enhansome-alternative-frontends",
