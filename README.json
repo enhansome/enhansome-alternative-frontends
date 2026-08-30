@@ -26,7 +26,7 @@
                     "open_issues": 476,
                     "owner": "iv-org",
                     "repo": "invidious",
-                    "stars": 22967,
+                    "stars": 22992,
                     "topics": [
                       "agplv3",
                       "hacktoberfest",
@@ -84,7 +84,7 @@
                     "open_issues": 317,
                     "owner": "TeamPiped",
                     "repo": "Piped",
-                    "stars": 10209,
+                    "stars": 10212,
                     "topics": [
                       "activej",
                       "dearrow",
@@ -117,7 +117,7 @@
                     "open_issues": 28,
                     "owner": "digitalblossom",
                     "repo": "alternative-frontends",
-                    "stars": 2293,
+                    "stars": 2294,
                     "topics": [
                       "adblock",
                       "ads",
@@ -323,7 +323,7 @@
                     "open_issues": 196,
                     "owner": "libreddit",
                     "repo": "libreddit",
-                    "stars": 5202,
+                    "stars": 5201,
                     "topics": [
                       "docker",
                       "front-end",
@@ -352,7 +352,7 @@
                     "open_issues": 196,
                     "owner": "libreddit",
                     "repo": "libreddit",
-                    "stars": 5202,
+                    "stars": 5201,
                     "topics": [
                       "docker",
                       "front-end",
@@ -478,7 +478,7 @@
                     "open_issues": 156,
                     "owner": "zedeus",
                     "repo": "nitter",
-                    "stars": 14055,
+                    "stars": 14056,
                     "topics": [
                       "nim",
                       "privacy",
@@ -505,7 +505,7 @@
                     "open_issues": 156,
                     "owner": "zedeus",
                     "repo": "nitter",
-                    "stars": 14055,
+                    "stars": 14056,
                     "topics": [
                       "nim",
                       "privacy",
@@ -532,7 +532,7 @@
                     "open_issues": 156,
                     "owner": "zedeus",
                     "repo": "nitter",
-                    "stars": 14055,
+                    "stars": 14056,
                     "topics": [
                       "nim",
                       "privacy",
@@ -555,7 +555,7 @@
                 "open_issues": 156,
                 "owner": "zedeus",
                 "repo": "nitter",
-                "stars": 14055,
+                "stars": 14056,
                 "topics": [
                   "nim",
                   "privacy",
@@ -1354,7 +1354,7 @@
                     "open_issues": 1,
                     "owner": "benbusby",
                     "repo": "whoogle-search",
-                    "stars": 11586,
+                    "stars": 11583,
                     "topics": [
                       "adblock",
                       "docker",
@@ -1387,7 +1387,7 @@
                     "open_issues": 1,
                     "owner": "benbusby",
                     "repo": "whoogle-search",
-                    "stars": 11586,
+                    "stars": 11583,
                     "topics": [
                       "adblock",
                       "docker",
@@ -1420,7 +1420,7 @@
                     "open_issues": 1,
                     "owner": "benbusby",
                     "repo": "whoogle-search",
-                    "stars": 11586,
+                    "stars": 11583,
                     "topics": [
                       "adblock",
                       "docker",
@@ -1654,10 +1654,10 @@
                     "language": "Python",
                     "license": "AGPL-3.0",
                     "last_commit": "2026-08-29T08:19:34Z",
-                    "open_issues": 219,
+                    "open_issues": 221,
                     "owner": "searxng",
                     "repo": "searxng",
-                    "stars": 36243,
+                    "stars": 36290,
                     "topics": [
                       "bing",
                       "brave",
@@ -1812,7 +1812,7 @@
                     "open_issues": 47,
                     "owner": "libredirect",
                     "repo": "browser_extension",
-                    "stars": 4028,
+                    "stars": 4031,
                     "topics": [
                       "bibliogram",
                       "chrome-extension",
@@ -1852,7 +1852,7 @@
                     "open_issues": 177,
                     "owner": "einaregilsson",
                     "repo": "Redirector",
-                    "stars": 2081,
+                    "stars": 2082,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
@@ -1877,10 +1877,10 @@
                     "language": "Kotlin",
                     "license": "GPL-3.0",
                     "last_commit": "2026-07-04T19:26:59Z",
-                    "open_issues": 24,
+                    "open_issues": 25,
                     "owner": "you-apps",
                     "repo": "TranslateYou",
-                    "stars": 1528,
+                    "stars": 1530,
                     "topics": [
                       "android",
                       "kotlin",
@@ -1901,7 +1901,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T23:34:54.900Z",
+    "last_updated": "2026-08-30T23:49:09.179Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔐🌐 Privacy-respecting web frontends for popular services ",
@@ -1913,7 +1913,7 @@
       "open_issues": 28,
       "owner": "digitalblossom",
       "repo": "alternative-frontends",
-      "stars": 2293,
+      "stars": 2294,
       "topics": [
         "adblock",
         "ads",
