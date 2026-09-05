@@ -23,10 +23,10 @@
                     "language": "Crystal",
                     "license": "AGPL-3.0",
                     "last_commit": "2026-09-04T20:47:00Z",
-                    "open_issues": 475,
+                    "open_issues": 479,
                     "owner": "iv-org",
                     "repo": "invidious",
-                    "stars": 24231,
+                    "stars": 24261,
                     "topics": [
                       "agplv3",
                       "hacktoberfest",
@@ -56,7 +56,7 @@
                     "open_issues": 37,
                     "owner": "iv-org",
                     "repo": "documentation",
-                    "stars": 805,
+                    "stars": 807,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
@@ -84,7 +84,7 @@
                     "open_issues": 319,
                     "owner": "TeamPiped",
                     "repo": "Piped",
-                    "stars": 10219,
+                    "stars": 10221,
                     "topics": [
                       "activej",
                       "dearrow",
@@ -117,7 +117,7 @@
                     "open_issues": 28,
                     "owner": "digitalblossom",
                     "repo": "alternative-frontends",
-                    "stars": 2297,
+                    "stars": 2298,
                     "topics": [
                       "adblock",
                       "ads",
@@ -377,7 +377,7 @@
                     "id": 539787351,
                     "language": "Shell",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-03T02:52:27Z",
+                    "last_commit": "2026-09-05T02:54:03Z",
                     "open_issues": 40,
                     "owner": "libreddit",
                     "repo": "libreddit-instances",
@@ -478,7 +478,7 @@
                     "open_issues": 156,
                     "owner": "zedeus",
                     "repo": "nitter",
-                    "stars": 14101,
+                    "stars": 14100,
                     "topics": [
                       "nim",
                       "privacy",
@@ -505,7 +505,7 @@
                     "open_issues": 156,
                     "owner": "zedeus",
                     "repo": "nitter",
-                    "stars": 14101,
+                    "stars": 14100,
                     "topics": [
                       "nim",
                       "privacy",
@@ -532,7 +532,7 @@
                     "open_issues": 156,
                     "owner": "zedeus",
                     "repo": "nitter",
-                    "stars": 14101,
+                    "stars": 14100,
                     "topics": [
                       "nim",
                       "privacy",
@@ -555,7 +555,7 @@
                 "open_issues": 156,
                 "owner": "zedeus",
                 "repo": "nitter",
-                "stars": 14101,
+                "stars": 14100,
                 "topics": [
                   "nim",
                   "privacy",
@@ -594,7 +594,7 @@
                     "open_issues": 51,
                     "owner": "pablouser1",
                     "repo": "ProxiTok",
-                    "stars": 2137,
+                    "stars": 2138,
                     "topics": [
                       "alternative-frontends",
                       "php",
@@ -621,7 +621,7 @@
                     "open_issues": 51,
                     "owner": "pablouser1",
                     "repo": "ProxiTok",
-                    "stars": 2137,
+                    "stars": 2138,
                     "topics": [
                       "alternative-frontends",
                       "php",
@@ -648,7 +648,7 @@
                     "open_issues": 51,
                     "owner": "pablouser1",
                     "repo": "ProxiTok",
-                    "stars": 2137,
+                    "stars": 2138,
                     "topics": [
                       "alternative-frontends",
                       "php",
@@ -675,7 +675,7 @@
                     "open_issues": 51,
                     "owner": "pablouser1",
                     "repo": "ProxiTok",
-                    "stars": 2137,
+                    "stars": 2138,
                     "topics": [
                       "alternative-frontends",
                       "php",
@@ -1653,11 +1653,11 @@
                     "id": 357241735,
                     "language": "Python",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-09-04T13:19:24Z",
-                    "open_issues": 220,
+                    "last_commit": "2026-09-05T21:00:09Z",
+                    "open_issues": 211,
                     "owner": "searxng",
                     "repo": "searxng",
-                    "stars": 36528,
+                    "stars": 36567,
                     "topics": [
                       "bing",
                       "brave",
@@ -1812,7 +1812,7 @@
                     "open_issues": 47,
                     "owner": "libredirect",
                     "repo": "browser_extension",
-                    "stars": 4032,
+                    "stars": 4040,
                     "topics": [
                       "bibliogram",
                       "chrome-extension",
@@ -1852,7 +1852,7 @@
                     "open_issues": 177,
                     "owner": "einaregilsson",
                     "repo": "Redirector",
-                    "stars": 2084,
+                    "stars": 2086,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
@@ -1901,7 +1901,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T23:17:33.874Z",
+    "last_updated": "2026-09-05T23:15:14.443Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔐🌐 Privacy-respecting web frontends for popular services ",
@@ -1913,7 +1913,7 @@
       "open_issues": 28,
       "owner": "digitalblossom",
       "repo": "alternative-frontends",
-      "stars": 2297,
+      "stars": 2298,
       "topics": [
         "adblock",
         "ads",
