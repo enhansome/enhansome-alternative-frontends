@@ -23,10 +23,10 @@
                     "language": "Crystal",
                     "license": "AGPL-3.0",
                     "last_commit": "2026-09-04T20:47:00Z",
-                    "open_issues": 479,
+                    "open_issues": 478,
                     "owner": "iv-org",
                     "repo": "invidious",
-                    "stars": 24297,
+                    "stars": 24306,
                     "topics": [
                       "agplv3",
                       "hacktoberfest",
@@ -84,7 +84,7 @@
                     "open_issues": 319,
                     "owner": "TeamPiped",
                     "repo": "Piped",
-                    "stars": 10228,
+                    "stars": 10230,
                     "topics": [
                       "activej",
                       "dearrow",
@@ -162,11 +162,11 @@
                     "id": 197559490,
                     "language": "TypeScript",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-09-07T23:09:51Z",
+                    "last_commit": "2026-09-08T18:30:56Z",
                     "open_issues": 75,
                     "owner": "ViewTube",
                     "repo": "viewtube",
-                    "stars": 1476,
+                    "stars": 1475,
                     "topics": [
                       "docker",
                       "nuxt",
@@ -194,11 +194,11 @@
                     "id": 197559490,
                     "language": "TypeScript",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-09-07T23:09:51Z",
+                    "last_commit": "2026-09-08T18:30:56Z",
                     "open_issues": 75,
                     "owner": "ViewTube",
                     "repo": "viewtube",
-                    "stars": 1476,
+                    "stars": 1475,
                     "topics": [
                       "docker",
                       "nuxt",
@@ -295,7 +295,7 @@
                     "open_issues": 1,
                     "owner": "teddit-net",
                     "repo": "teddit",
-                    "stars": 282,
+                    "stars": 283,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
@@ -478,7 +478,7 @@
                     "open_issues": 156,
                     "owner": "zedeus",
                     "repo": "nitter",
-                    "stars": 14350,
+                    "stars": 14394,
                     "topics": [
                       "nim",
                       "privacy",
@@ -505,7 +505,7 @@
                     "open_issues": 156,
                     "owner": "zedeus",
                     "repo": "nitter",
-                    "stars": 14350,
+                    "stars": 14394,
                     "topics": [
                       "nim",
                       "privacy",
@@ -532,7 +532,7 @@
                     "open_issues": 156,
                     "owner": "zedeus",
                     "repo": "nitter",
-                    "stars": 14350,
+                    "stars": 14394,
                     "topics": [
                       "nim",
                       "privacy",
@@ -555,7 +555,7 @@
                 "open_issues": 156,
                 "owner": "zedeus",
                 "repo": "nitter",
-                "stars": 14350,
+                "stars": 14394,
                 "topics": [
                   "nim",
                   "privacy",
@@ -594,7 +594,7 @@
                     "open_issues": 51,
                     "owner": "pablouser1",
                     "repo": "ProxiTok",
-                    "stars": 2139,
+                    "stars": 2140,
                     "topics": [
                       "alternative-frontends",
                       "php",
@@ -621,7 +621,7 @@
                     "open_issues": 51,
                     "owner": "pablouser1",
                     "repo": "ProxiTok",
-                    "stars": 2139,
+                    "stars": 2140,
                     "topics": [
                       "alternative-frontends",
                       "php",
@@ -648,7 +648,7 @@
                     "open_issues": 51,
                     "owner": "pablouser1",
                     "repo": "ProxiTok",
-                    "stars": 2139,
+                    "stars": 2140,
                     "topics": [
                       "alternative-frontends",
                       "php",
@@ -675,7 +675,7 @@
                     "open_issues": 51,
                     "owner": "pablouser1",
                     "repo": "ProxiTok",
-                    "stars": 2139,
+                    "stars": 2140,
                     "topics": [
                       "alternative-frontends",
                       "php",
@@ -941,7 +941,7 @@
                     "open_issues": 15,
                     "owner": "httpjamesm",
                     "repo": "AnonymousOverflow",
-                    "stars": 380,
+                    "stars": 381,
                     "topics": [
                       "frontend",
                       "go",
@@ -966,7 +966,7 @@
                     "open_issues": 15,
                     "owner": "httpjamesm",
                     "repo": "AnonymousOverflow",
-                    "stars": 380,
+                    "stars": 381,
                     "topics": [
                       "frontend",
                       "go",
@@ -991,7 +991,7 @@
                     "open_issues": 15,
                     "owner": "httpjamesm",
                     "repo": "AnonymousOverflow",
-                    "stars": 380,
+                    "stars": 381,
                     "topics": [
                       "frontend",
                       "go",
@@ -1016,7 +1016,7 @@
                     "open_issues": 15,
                     "owner": "httpjamesm",
                     "repo": "AnonymousOverflow",
-                    "stars": 380,
+                    "stars": 381,
                     "topics": [
                       "frontend",
                       "go",
@@ -1354,7 +1354,7 @@
                     "open_issues": 1,
                     "owner": "benbusby",
                     "repo": "whoogle-search",
-                    "stars": 11581,
+                    "stars": 11579,
                     "topics": [
                       "adblock",
                       "docker",
@@ -1387,7 +1387,7 @@
                     "open_issues": 1,
                     "owner": "benbusby",
                     "repo": "whoogle-search",
-                    "stars": 11581,
+                    "stars": 11579,
                     "topics": [
                       "adblock",
                       "docker",
@@ -1420,7 +1420,7 @@
                     "open_issues": 1,
                     "owner": "benbusby",
                     "repo": "whoogle-search",
-                    "stars": 11581,
+                    "stars": 11579,
                     "topics": [
                       "adblock",
                       "docker",
@@ -1623,7 +1623,7 @@
                     "open_issues": 337,
                     "owner": "searx",
                     "repo": "searx",
-                    "stars": 13545,
+                    "stars": 13544,
                     "topics": [
                       "metasearch",
                       "metasearch-engine",
@@ -1653,11 +1653,11 @@
                     "id": 357241735,
                     "language": "Python",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-09-07T11:21:23Z",
-                    "open_issues": 214,
+                    "last_commit": "2026-09-08T07:32:39Z",
+                    "open_issues": 216,
                     "owner": "searxng",
                     "repo": "searxng",
-                    "stars": 36638,
+                    "stars": 36686,
                     "topics": [
                       "bing",
                       "brave",
@@ -1708,7 +1708,7 @@
                     "open_issues": 52,
                     "owner": "benbusby",
                     "repo": "farside",
-                    "stars": 948,
+                    "stars": 947,
                     "topics": [
                       "badgerdb",
                       "go",
@@ -1735,7 +1735,7 @@
                     "open_issues": 52,
                     "owner": "benbusby",
                     "repo": "farside",
-                    "stars": 948,
+                    "stars": 947,
                     "topics": [
                       "badgerdb",
                       "go",
@@ -1769,7 +1769,7 @@
                     "open_issues": 217,
                     "owner": "SimonBrazell",
                     "repo": "privacy-redirect",
-                    "stars": 2191,
+                    "stars": 2192,
                     "topics": [
                       "bibliogram",
                       "chromium",
@@ -1812,7 +1812,7 @@
                     "open_issues": 47,
                     "owner": "libredirect",
                     "repo": "browser_extension",
-                    "stars": 4045,
+                    "stars": 4046,
                     "topics": [
                       "bibliogram",
                       "chrome-extension",
@@ -1852,7 +1852,7 @@
                     "open_issues": 177,
                     "owner": "einaregilsson",
                     "repo": "Redirector",
-                    "stars": 2086,
+                    "stars": 2085,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
@@ -1880,7 +1880,7 @@
                     "open_issues": 25,
                     "owner": "you-apps",
                     "repo": "TranslateYou",
-                    "stars": 1535,
+                    "stars": 1534,
                     "topics": [
                       "android",
                       "kotlin",
@@ -1901,7 +1901,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T23:44:35.694Z",
+    "last_updated": "2026-09-08T23:38:59.146Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔐🌐 Privacy-respecting web frontends for popular services ",
