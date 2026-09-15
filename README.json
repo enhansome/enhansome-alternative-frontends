@@ -22,11 +22,11 @@
                     "id": 120542434,
                     "language": "Crystal",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-09-11T20:45:26Z",
-                    "open_issues": 489,
+                    "last_commit": "2026-09-15T21:05:10Z",
+                    "open_issues": 487,
                     "owner": "iv-org",
                     "repo": "invidious",
-                    "stars": 24432,
+                    "stars": 24442,
                     "topics": [
                       "agplv3",
                       "hacktoberfest",
@@ -56,7 +56,7 @@
                     "open_issues": 38,
                     "owner": "iv-org",
                     "repo": "documentation",
-                    "stars": 808,
+                    "stars": 809,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
@@ -80,11 +80,11 @@
                     "id": 311916226,
                     "language": "Vue",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-09-11T12:42:49Z",
+                    "last_commit": "2026-09-15T17:59:29Z",
                     "open_issues": 319,
                     "owner": "TeamPiped",
                     "repo": "Piped",
-                    "stars": 10242,
+                    "stars": 10245,
                     "topics": [
                       "activej",
                       "dearrow",
@@ -162,7 +162,7 @@
                     "id": 197559490,
                     "language": "TypeScript",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-09-14T19:13:47Z",
+                    "last_commit": "2026-09-15T17:49:22Z",
                     "open_issues": 76,
                     "owner": "ViewTube",
                     "repo": "viewtube",
@@ -194,7 +194,7 @@
                     "id": 197559490,
                     "language": "TypeScript",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-09-14T19:13:47Z",
+                    "last_commit": "2026-09-15T17:49:22Z",
                     "open_issues": 76,
                     "owner": "ViewTube",
                     "repo": "viewtube",
@@ -377,7 +377,7 @@
                     "id": 539787351,
                     "language": "Shell",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-13T03:03:39Z",
+                    "last_commit": "2026-09-15T03:20:05Z",
                     "open_issues": 37,
                     "owner": "libreddit",
                     "repo": "libreddit-instances",
@@ -478,7 +478,7 @@
                     "open_issues": 156,
                     "owner": "zedeus",
                     "repo": "nitter",
-                    "stars": 14469,
+                    "stars": 14471,
                     "topics": [
                       "nim",
                       "privacy",
@@ -505,7 +505,7 @@
                     "open_issues": 156,
                     "owner": "zedeus",
                     "repo": "nitter",
-                    "stars": 14469,
+                    "stars": 14471,
                     "topics": [
                       "nim",
                       "privacy",
@@ -532,7 +532,7 @@
                     "open_issues": 156,
                     "owner": "zedeus",
                     "repo": "nitter",
-                    "stars": 14469,
+                    "stars": 14471,
                     "topics": [
                       "nim",
                       "privacy",
@@ -555,7 +555,7 @@
                 "open_issues": 156,
                 "owner": "zedeus",
                 "repo": "nitter",
-                "stars": 14469,
+                "stars": 14471,
                 "topics": [
                   "nim",
                   "privacy",
@@ -594,7 +594,7 @@
                     "open_issues": 51,
                     "owner": "pablouser1",
                     "repo": "ProxiTok",
-                    "stars": 2141,
+                    "stars": 2142,
                     "topics": [
                       "alternative-frontends",
                       "php",
@@ -621,7 +621,7 @@
                     "open_issues": 51,
                     "owner": "pablouser1",
                     "repo": "ProxiTok",
-                    "stars": 2141,
+                    "stars": 2142,
                     "topics": [
                       "alternative-frontends",
                       "php",
@@ -648,7 +648,7 @@
                     "open_issues": 51,
                     "owner": "pablouser1",
                     "repo": "ProxiTok",
-                    "stars": 2141,
+                    "stars": 2142,
                     "topics": [
                       "alternative-frontends",
                       "php",
@@ -675,7 +675,7 @@
                     "open_issues": 51,
                     "owner": "pablouser1",
                     "repo": "ProxiTok",
-                    "stars": 2141,
+                    "stars": 2142,
                     "topics": [
                       "alternative-frontends",
                       "php",
@@ -1623,7 +1623,7 @@
                     "open_issues": 337,
                     "owner": "searx",
                     "repo": "searx",
-                    "stars": 13544,
+                    "stars": 13542,
                     "topics": [
                       "metasearch",
                       "metasearch-engine",
@@ -1653,11 +1653,11 @@
                     "id": 357241735,
                     "language": "Python",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-09-14T14:09:03Z",
-                    "open_issues": 224,
+                    "last_commit": "2026-09-15T09:40:15Z",
+                    "open_issues": 222,
                     "owner": "searxng",
                     "repo": "searxng",
-                    "stars": 37074,
+                    "stars": 37176,
                     "topics": [
                       "bing",
                       "brave",
@@ -1812,7 +1812,7 @@
                     "open_issues": 45,
                     "owner": "libredirect",
                     "repo": "browser_extension",
-                    "stars": 4056,
+                    "stars": 4059,
                     "topics": [
                       "bibliogram",
                       "chrome-extension",
@@ -1852,7 +1852,7 @@
                     "open_issues": 177,
                     "owner": "einaregilsson",
                     "repo": "Redirector",
-                    "stars": 2086,
+                    "stars": 2087,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
@@ -1901,7 +1901,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T23:58:32.232Z",
+    "last_updated": "2026-09-15T23:40:27.033Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔐🌐 Privacy-respecting web frontends for popular services ",
