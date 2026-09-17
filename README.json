@@ -23,10 +23,10 @@
                     "language": "Crystal",
                     "license": "AGPL-3.0",
                     "last_commit": "2026-09-16T03:28:31Z",
-                    "open_issues": 483,
+                    "open_issues": 484,
                     "owner": "iv-org",
                     "repo": "invidious",
-                    "stars": 24457,
+                    "stars": 24473,
                     "topics": [
                       "agplv3",
                       "hacktoberfest",
@@ -52,7 +52,7 @@
                     "id": 317291340,
                     "language": "Dockerfile",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-08-09T19:53:58Z",
+                    "last_commit": "2026-09-17T14:42:51Z",
                     "open_issues": 38,
                     "owner": "iv-org",
                     "repo": "documentation",
@@ -84,7 +84,7 @@
                     "open_issues": 319,
                     "owner": "TeamPiped",
                     "repo": "Piped",
-                    "stars": 10250,
+                    "stars": 10253,
                     "topics": [
                       "activej",
                       "dearrow",
@@ -166,7 +166,7 @@
                     "open_issues": 76,
                     "owner": "ViewTube",
                     "repo": "viewtube",
-                    "stars": 1475,
+                    "stars": 1474,
                     "topics": [
                       "docker",
                       "nuxt",
@@ -198,7 +198,7 @@
                     "open_issues": 76,
                     "owner": "ViewTube",
                     "repo": "viewtube",
-                    "stars": 1475,
+                    "stars": 1474,
                     "topics": [
                       "docker",
                       "nuxt",
@@ -295,7 +295,7 @@
                     "open_issues": 1,
                     "owner": "teddit-net",
                     "repo": "teddit",
-                    "stars": 283,
+                    "stars": 282,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
@@ -323,7 +323,7 @@
                     "open_issues": 196,
                     "owner": "libreddit",
                     "repo": "libreddit",
-                    "stars": 5202,
+                    "stars": 5200,
                     "topics": [
                       "docker",
                       "front-end",
@@ -352,7 +352,7 @@
                     "open_issues": 196,
                     "owner": "libreddit",
                     "repo": "libreddit",
-                    "stars": 5202,
+                    "stars": 5200,
                     "topics": [
                       "docker",
                       "front-end",
@@ -377,7 +377,7 @@
                     "id": 539787351,
                     "language": "Shell",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-15T03:20:05Z",
+                    "last_commit": "2026-09-17T03:18:48Z",
                     "open_issues": 37,
                     "owner": "libreddit",
                     "repo": "libreddit-instances",
@@ -478,7 +478,7 @@
                     "open_issues": 153,
                     "owner": "zedeus",
                     "repo": "nitter",
-                    "stars": 14474,
+                    "stars": 14473,
                     "topics": [
                       "nim",
                       "privacy",
@@ -505,7 +505,7 @@
                     "open_issues": 153,
                     "owner": "zedeus",
                     "repo": "nitter",
-                    "stars": 14474,
+                    "stars": 14473,
                     "topics": [
                       "nim",
                       "privacy",
@@ -532,7 +532,7 @@
                     "open_issues": 153,
                     "owner": "zedeus",
                     "repo": "nitter",
-                    "stars": 14474,
+                    "stars": 14473,
                     "topics": [
                       "nim",
                       "privacy",
@@ -555,7 +555,7 @@
                 "open_issues": 153,
                 "owner": "zedeus",
                 "repo": "nitter",
-                "stars": 14474,
+                "stars": 14473,
                 "topics": [
                   "nim",
                   "privacy",
@@ -834,7 +834,7 @@
                     "open_issues": 17,
                     "owner": "zyachel",
                     "repo": "quetre",
-                    "stars": 497,
+                    "stars": 498,
                     "topics": [
                       "alternative-frontends",
                       "foss",
@@ -865,7 +865,7 @@
                     "open_issues": 17,
                     "owner": "zyachel",
                     "repo": "quetre",
-                    "stars": 497,
+                    "stars": 498,
                     "topics": [
                       "alternative-frontends",
                       "foss",
@@ -896,7 +896,7 @@
                     "open_issues": 17,
                     "owner": "zyachel",
                     "repo": "quetre",
-                    "stars": 497,
+                    "stars": 498,
                     "topics": [
                       "alternative-frontends",
                       "foss",
@@ -1159,7 +1159,7 @@
                     "open_issues": 16,
                     "owner": "rramiachraf",
                     "repo": "dumb",
-                    "stars": 411,
+                    "stars": 412,
                     "topics": [
                       "alternative",
                       "alternative-frontends",
@@ -1185,7 +1185,7 @@
                     "open_issues": 16,
                     "owner": "rramiachraf",
                     "repo": "dumb",
-                    "stars": 411,
+                    "stars": 412,
                     "topics": [
                       "alternative",
                       "alternative-frontends",
@@ -1211,7 +1211,7 @@
                     "open_issues": 16,
                     "owner": "rramiachraf",
                     "repo": "dumb",
-                    "stars": 411,
+                    "stars": 412,
                     "topics": [
                       "alternative",
                       "alternative-frontends",
@@ -1237,7 +1237,7 @@
                     "open_issues": 16,
                     "owner": "rramiachraf",
                     "repo": "dumb",
-                    "stars": 411,
+                    "stars": 412,
                     "topics": [
                       "alternative",
                       "alternative-frontends",
@@ -1623,7 +1623,7 @@
                     "open_issues": 337,
                     "owner": "searx",
                     "repo": "searx",
-                    "stars": 13542,
+                    "stars": 13543,
                     "topics": [
                       "metasearch",
                       "metasearch-engine",
@@ -1653,11 +1653,11 @@
                     "id": 357241735,
                     "language": "Python",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-09-16T14:49:17Z",
+                    "last_commit": "2026-09-17T10:25:30Z",
                     "open_issues": 218,
                     "owner": "searxng",
                     "repo": "searxng",
-                    "stars": 37241,
+                    "stars": 37264,
                     "topics": [
                       "bing",
                       "brave",
@@ -1812,7 +1812,7 @@
                     "open_issues": 45,
                     "owner": "libredirect",
                     "repo": "browser_extension",
-                    "stars": 4059,
+                    "stars": 4061,
                     "topics": [
                       "bibliogram",
                       "chrome-extension",
@@ -1852,7 +1852,7 @@
                     "open_issues": 177,
                     "owner": "einaregilsson",
                     "repo": "Redirector",
-                    "stars": 2087,
+                    "stars": 2089,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
@@ -1880,7 +1880,7 @@
                     "open_issues": 26,
                     "owner": "you-apps",
                     "repo": "TranslateYou",
-                    "stars": 1543,
+                    "stars": 1544,
                     "topics": [
                       "android",
                       "kotlin",
@@ -1901,7 +1901,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T23:49:05.991Z",
+    "last_updated": "2026-09-17T23:39:23.093Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔐🌐 Privacy-respecting web frontends for popular services ",
