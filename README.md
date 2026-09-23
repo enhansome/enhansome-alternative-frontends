@@ -3,13 +3,13 @@
 ## Alternative Frontends
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/digitalblossom/alternative-frontends/graphs/commit-activity) ⭐ 2,312 | 🐛 29 | 📅 2024-03-21
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/digitalblossom/alternative-frontends/graphs/commit-activity) ⭐ 2,312 | 🐛 30 | 📅 2024-03-21
 
 **This is a list of privacy-respecting frontends to popular services like social media. All of them are cross-plattform webapps and should work on your device no matter the OS and hardware.**
 
 ***
 
-ⓘ You can suggest new frontends and modifications to the list **[here](https://github.com/digitalblossom/alternative-frontends/issues/new/choose) ⭐ 2,312 | 🐛 29 | 📅 2024-03-21**.
+ⓘ You can suggest new frontends and modifications to the list **[here](https://github.com/digitalblossom/alternative-frontends/issues/new/choose) ⭐ 2,312 | 🐛 30 | 📅 2024-03-21**.
 
 Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, **TimDaub**, **privacytime101**, **HexagonCDN**, **Odyssey346**, **gi-yt**, **Solomon1732** and **lolcatw** for their contributions!
 
@@ -26,7 +26,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ### YouTube
 
 * **Invidious**
-  * [Homepage](https://invidious.io) | [Repo](https://github.com/iv-org/invidious) ⭐ 24,733 | 🐛 492 | 🌐 Crystal | 📅 2026-09-18
+  * [Homepage](https://invidious.io) | [Repo](https://github.com/iv-org/invidious) ⭐ 24,744 | 🐛 492 | 🌐 Crystal | 📅 2026-09-18
   * [x] Decentralized Options | [I2P](http://tube.i2p) | [Onion](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md#tor-onion-services) ⭐ 809 | 🐛 38 | 🌐 Dockerfile | 📅 2026-09-17 | [Loki](http://invidious.loki)
   * Lightweight YouTube frontend - no tracking, no ads and Javascript is optional.
   * [Public Instances](https://docs.invidious.io/instances)
@@ -34,8 +34,8 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   * [x] Self-Hostable | [Guide](https://docs.invidious.io/Installation.md)
 
 * **Piped**
-  * [Main Instance](https://piped.video) | [Repo](https://github.com/TeamPiped/Piped) ⭐ 10,259 | 🐛 319 | 🌐 Vue | 📅 2026-09-19
-  * [x] Decentralized Options | [IPNS](https://github.com/digitalblossom/alternative-frontends/issues/25#issuecomment-1002261657) ⭐ 2,312 | 🐛 29 | 📅 2024-03-21 | [Onion](http://piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion)
+  * [Main Instance](https://piped.video) | [Repo](https://github.com/TeamPiped/Piped) ⭐ 10,258 | 🐛 319 | 🌐 Vue | 📅 2026-09-23
+  * [x] Decentralized Options | [IPNS](https://github.com/digitalblossom/alternative-frontends/issues/25#issuecomment-1002261657) ⭐ 2,312 | 🐛 30 | 📅 2024-03-21 | [Onion](http://piped2bbch4xslbl2ckr6k62q56kon56ffowxaqzy42ai22a4sash3ad.onion)
   * Alternative privacy-friendly YouTube frontend. Lightweight, no ads (Sponsorblock integrated), no tracking, 4K support and more.
   * [Public Instances](https://piped.kavin.rocks/preferences) (scroll down)
   * [x] Open-Source
@@ -49,8 +49,8 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   * [x] Self-Hostable | [Guide](https://git.sr.ht/~cadence/tube-docs/tree/main/item/docs/cloudtube/Installing%20CloudTube.md)
 
 * **Viewtube**
-  * [Main Instance](https://viewtube.io/) | [Repo](https://github.com/ViewTube/viewtube-vue) ⭐ 1,476 | 🐛 76 | 🌐 TypeScript | 📅 2026-09-19
-  * [x] Self-Hostable | [Guide](https://github.com/ViewTube/viewtube-vue#host-it-yourself) ⭐ 1,476 | 🐛 76 | 🌐 TypeScript | 📅 2026-09-19
+  * [Main Instance](https://viewtube.io/) | [Repo](https://github.com/ViewTube/viewtube-vue) ⭐ 1,476 | 🐛 76 | 🌐 TypeScript | 📅 2026-09-23
+  * [x] Self-Hostable | [Guide](https://github.com/ViewTube/viewtube-vue#host-it-yourself) ⭐ 1,476 | 🐛 76 | 🌐 TypeScript | 📅 2026-09-23
   * Privacy-respecting frontend with subscription, watch-progress and recommendation features.
   * Public Instances n/a
   * [x] Open-Source
@@ -85,7 +85,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 * **Libreddit**
   * Main Instance n/a | [Repo](https://github.com/spikecodes/libreddit) ⭐ 5,200 | 🐛 196 | 🌐 Rust | 📅 2025-02-15
   * [x] Self-Hostable | [Guide](https://github.com/spikecodes/libreddit#installation) ⭐ 5,200 | 🐛 196 | 🌐 Rust | 📅 2025-02-15
-  * [Public Instances](https://github.com/libreddit/libreddit-instances/blob/master/instances.md) ⭐ 109 | 🐛 37 | 🌐 Shell | 📅 2026-09-21
+  * [Public Instances](https://github.com/libreddit/libreddit-instances/blob/master/instances.md) ⭐ 109 | 🐛 37 | 🌐 Shell | 📅 2026-09-23
   * Privacy-focused fast Reddit frontend without ads, javascript and tracking. All requests are proxied through the server.
   * [x] Open-Source
 
@@ -214,10 +214,10 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ### Genius
 
 * **Dumb**
-  * Main Instance n/a | [Repo](https://github.com/rramiachraf/dumb) ⭐ 413 | 🐛 16 | 🌐 Go | 📅 2026-04-01
-  * [Public Instances](https://github.com/rramiachraf/dumb#public-instances) ⭐ 413 | 🐛 16 | 🌐 Go | 📅 2026-04-01
-  * [x] Self-Hostable | [Guide](https://github.com/rramiachraf/dumb#installation--usage) ⭐ 413 | 🐛 16 | 🌐 Go | 📅 2026-04-01
-  * [x] Decentralized Options | [I2P](https://github.com/rramiachraf/dumb#i2p) ⭐ 413 | 🐛 16 | 🌐 Go | 📅 2026-04-01 | [Onion](https://github.com/rramiachraf/dumb#tor) ⭐ 413 | 🐛 16 | 🌐 Go | 📅 2026-04-01
+  * Main Instance n/a | [Repo](https://github.com/rramiachraf/dumb) ⭐ 414 | 🐛 16 | 🌐 Go | 📅 2026-04-01
+  * [Public Instances](https://github.com/rramiachraf/dumb#public-instances) ⭐ 414 | 🐛 16 | 🌐 Go | 📅 2026-04-01
+  * [x] Self-Hostable | [Guide](https://github.com/rramiachraf/dumb#installation--usage) ⭐ 414 | 🐛 16 | 🌐 Go | 📅 2026-04-01
+  * [x] Decentralized Options | [I2P](https://github.com/rramiachraf/dumb#i2p) ⭐ 414 | 🐛 16 | 🌐 Go | 📅 2026-04-01 | [Onion](https://github.com/rramiachraf/dumb#tor) ⭐ 414 | 🐛 16 | 🌐 Go | 📅 2026-04-01
   * Dumb tries to make reading lyrics from Genius a pleasant experience and as lightweight as possible
   * [x] Open-Source
 
@@ -283,7 +283,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   * [x] Decentralized Options | [Onion](https://searx.space)
 
 * **SearxNG**
-  * [Homepage](https://searxng.org) | [Repo](https://github.com/searxng/searxng) ⭐ 37,511 | 🐛 209 | 🌐 Python | 📅 2026-09-22
+  * [Homepage](https://searxng.org) | [Repo](https://github.com/searxng/searxng) ⭐ 37,560 | 🐛 206 | 🌐 Python | 📅 2026-09-23
   * Fork of SearX with UI improvements (including to the settings page) and updates to the selfhosting procedure.
   * [Public Instances](https://searx.space)
   * [x] Open-Source
@@ -351,7 +351,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   ⓘ Developement of Privacy Redirect has ended/paused, consider using LibRedirect instead
 
 * **LibRedirect**
-  * [Homepage & Download](https://libredirect.github.io) | [Repo](https://github.com/libredirect/libredirect) ⭐ 4,059 | 🐛 51 | 🌐 JavaScript | 📅 2026-08-12
+  * [Homepage & Download](https://libredirect.github.io) | [Repo](https://github.com/libredirect/libredirect) ⭐ 4,059 | 🐛 50 | 🌐 JavaScript | 📅 2026-09-23
   * Maintained fork of Privacy Redirect with new services added and a refreshed UI.
   * [x] Open-Source
 
@@ -369,7 +369,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   ⓘ Not Open Source, but made by a trustworthy company and operates with a [good privacy policy](https://www.ssllabs.com/downloads/Qualys_SSL_Labs_Terms_of_Use.pdf).
 
 * **Translate You Libre**
-  * [Download](https://github.com/bnyro/translateyou/releases) ⭐ 1,541 | 🐛 26 | 🌐 Kotlin | 📅 2026-07-04 | [Repo](https://github.com/Bnyro/TranslateYou) ⭐ 1,541 | 🐛 26 | 🌐 Kotlin | 📅 2026-07-04
+  * [Download](https://github.com/bnyro/translateyou/releases) ⭐ 1,542 | 🐛 26 | 🌐 Kotlin | 📅 2026-07-04 | [Repo](https://github.com/Bnyro/TranslateYou) ⭐ 1,542 | 🐛 26 | 🌐 Kotlin | 📅 2026-07-04
   * FOSS Android frontend for LibreTranslate and Lingva. Uses Material You
   * [x] Open-Source
 
@@ -395,4 +395,4 @@ YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
