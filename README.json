@@ -23,10 +23,10 @@
                     "language": "Crystal",
                     "license": "AGPL-3.0",
                     "last_commit": "2026-09-25T20:44:37Z",
-                    "open_issues": 493,
+                    "open_issues": 495,
                     "owner": "iv-org",
                     "repo": "invidious",
-                    "stars": 24805,
+                    "stars": 24815,
                     "topics": [
                       "agplv3",
                       "hacktoberfest",
@@ -84,7 +84,7 @@
                     "open_issues": 319,
                     "owner": "TeamPiped",
                     "repo": "Piped",
-                    "stars": 10264,
+                    "stars": 10266,
                     "topics": [
                       "activej",
                       "dearrow",
@@ -244,7 +244,7 @@
                     "open_issues": 94,
                     "owner": "snuffyDev",
                     "repo": "Beatbump",
-                    "stars": 1131,
+                    "stars": 1130,
                     "topics": [
                       "alternative-frontends",
                       "cloudflare-workers",
@@ -323,7 +323,7 @@
                     "open_issues": 196,
                     "owner": "libreddit",
                     "repo": "libreddit",
-                    "stars": 5199,
+                    "stars": 5200,
                     "topics": [
                       "docker",
                       "front-end",
@@ -352,7 +352,7 @@
                     "open_issues": 196,
                     "owner": "libreddit",
                     "repo": "libreddit",
-                    "stars": 5199,
+                    "stars": 5200,
                     "topics": [
                       "docker",
                       "front-end",
@@ -478,7 +478,7 @@
                     "open_issues": 153,
                     "owner": "zedeus",
                     "repo": "nitter",
-                    "stars": 14485,
+                    "stars": 14486,
                     "topics": [
                       "nim",
                       "privacy",
@@ -505,7 +505,7 @@
                     "open_issues": 153,
                     "owner": "zedeus",
                     "repo": "nitter",
-                    "stars": 14485,
+                    "stars": 14486,
                     "topics": [
                       "nim",
                       "privacy",
@@ -532,7 +532,7 @@
                     "open_issues": 153,
                     "owner": "zedeus",
                     "repo": "nitter",
-                    "stars": 14485,
+                    "stars": 14486,
                     "topics": [
                       "nim",
                       "privacy",
@@ -555,7 +555,7 @@
                 "open_issues": 153,
                 "owner": "zedeus",
                 "repo": "nitter",
-                "stars": 14485,
+                "stars": 14486,
                 "topics": [
                   "nim",
                   "privacy",
@@ -1274,7 +1274,7 @@
                     "language": "TypeScript",
                     "license": "AGPL-3.0",
                     "last_commit": "2023-08-01T10:39:09Z",
-                    "open_issues": 47,
+                    "open_issues": 48,
                     "owner": "thedaviddelta",
                     "repo": "lingva-translate",
                     "stars": 1847,
@@ -1295,7 +1295,7 @@
                     "language": "TypeScript",
                     "license": "AGPL-3.0",
                     "last_commit": "2023-08-01T10:39:09Z",
-                    "open_issues": 47,
+                    "open_issues": 48,
                     "owner": "thedaviddelta",
                     "repo": "lingva-translate",
                     "stars": 1847,
@@ -1316,7 +1316,7 @@
                     "language": "TypeScript",
                     "license": "AGPL-3.0",
                     "last_commit": "2023-08-01T10:39:09Z",
-                    "open_issues": 47,
+                    "open_issues": 48,
                     "owner": "thedaviddelta",
                     "repo": "lingva-translate",
                     "stars": 1847,
@@ -1653,11 +1653,11 @@
                     "id": 357241735,
                     "language": "Python",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-09-25T16:53:26Z",
-                    "open_issues": 195,
+                    "last_commit": "2026-09-29T00:53:58Z",
+                    "open_issues": 200,
                     "owner": "searxng",
                     "repo": "searxng",
-                    "stars": 37686,
+                    "stars": 37736,
                     "topics": [
                       "bing",
                       "brave",
@@ -1901,7 +1901,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T23:56:35.172Z",
+    "last_updated": "2026-09-29T01:14:28.491Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔐🌐 Privacy-respecting web frontends for popular services ",
