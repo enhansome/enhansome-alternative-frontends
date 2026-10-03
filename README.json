@@ -13,7 +13,7 @@
                 {
                   "node_type": "item",
                   "title": "Homepage",
-                  "description": "Repo",
+                  "description": "iv-org/invidious",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -26,7 +26,7 @@
                     "open_issues": 494,
                     "owner": "iv-org",
                     "repo": "invidious",
-                    "stars": 24921,
+                    "stars": 24926,
                     "topics": [
                       "agplv3",
                       "hacktoberfest",
@@ -71,7 +71,7 @@
                 {
                   "node_type": "item",
                   "title": "Main Instance",
-                  "description": "Repo",
+                  "description": "TeamPiped/Piped",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -100,48 +100,6 @@
                     ]
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Decentralized Options | IPNS",
-                  "description": "Onion",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "🔐🌐 Privacy-respecting web frontends for popular services ",
-                    "homepage": null,
-                    "id": 415553659,
-                    "language": null,
-                    "license": "GPL-3.0",
-                    "last_commit": "2024-03-21T16:11:54Z",
-                    "open_issues": 30,
-                    "owner": "digitalblossom",
-                    "repo": "alternative-frontends",
-                    "stars": 2317,
-                    "topics": [
-                      "adblock",
-                      "ads",
-                      "anonymity",
-                      "awesome",
-                      "awesome-list",
-                      "decentralization",
-                      "decentralized",
-                      "ethics",
-                      "privacy",
-                      "privacy-tools",
-                      "reddit",
-                      "security",
-                      "security-tools",
-                      "self-hosted",
-                      "selfhosted",
-                      "social-network",
-                      "tor",
-                      "tracking",
-                      "twitter",
-                      "youtube"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T05:36:10.557Z"
                 }
               ]
             },
@@ -153,7 +111,7 @@
                 {
                   "node_type": "item",
                   "title": "Main Instance",
-                  "description": "Repo",
+                  "description": "ViewTube/viewtube",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -185,7 +143,7 @@
                 {
                   "node_type": "item",
                   "title": "Self-Hostable | Guide",
-                  "description": null,
+                  "description": "ViewTube/viewtube",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -231,7 +189,7 @@
                 {
                   "node_type": "item",
                   "title": "Main Instance",
-                  "description": "Repo",
+                  "description": "snuffyDev/Beatbump",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -282,7 +240,7 @@
                 {
                   "node_type": "item",
                   "title": "Public Instances",
-                  "description": null,
+                  "description": "teddit-net/teddit",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -310,7 +268,7 @@
                 {
                   "node_type": "item",
                   "title": "Main Instance n/a | Repo",
-                  "description": null,
+                  "description": "libreddit/libreddit",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -339,7 +297,7 @@
                 {
                   "node_type": "item",
                   "title": "Self-Hostable | Guide",
-                  "description": null,
+                  "description": "libreddit/libreddit",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -368,7 +326,7 @@
                 {
                   "node_type": "item",
                   "title": "Public Instances",
-                  "description": null,
+                  "description": "libreddit/libreddit-instances",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -377,7 +335,7 @@
                     "id": 539787351,
                     "language": "Shell",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-01T04:03:25Z",
+                    "last_commit": "2026-10-03T03:44:50Z",
                     "open_issues": 40,
                     "owner": "libreddit",
                     "repo": "libreddit-instances",
@@ -399,7 +357,7 @@
                 {
                   "node_type": "item",
                   "title": "Main Instance",
-                  "description": "Repo",
+                  "description": "burhan-syed/troddit",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -425,7 +383,7 @@
                 {
                   "node_type": "item",
                   "title": "Self-Hostable | Guide",
-                  "description": null,
+                  "description": "burhan-syed/troddit",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -460,12 +418,12 @@
             {
               "node_type": "item",
               "title": "Nitter",
-              "description": null,
+              "description": "zedeus/nitter",
               "children": [
                 {
                   "node_type": "item",
                   "title": "Main Instance",
-                  "description": "Repo",
+                  "description": "zedeus/nitter",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -492,7 +450,7 @@
                 {
                   "node_type": "item",
                   "title": "Public Instances",
-                  "description": null,
+                  "description": "zedeus/nitter",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -519,7 +477,7 @@
                 {
                   "node_type": "item",
                   "title": "Self-Hostable | Guide",
-                  "description": null,
+                  "description": "zedeus/nitter",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -581,7 +539,7 @@
                 {
                   "node_type": "item",
                   "title": "Main Instance",
-                  "description": "Repo",
+                  "description": "pablouser1/ProxiTok",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -608,7 +566,7 @@
                 {
                   "node_type": "item",
                   "title": "Public Instances",
-                  "description": null,
+                  "description": "pablouser1/ProxiTok",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -635,7 +593,7 @@
                 {
                   "node_type": "item",
                   "title": "Self-Hostable | Guide",
-                  "description": null,
+                  "description": "pablouser1/ProxiTok",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -662,7 +620,7 @@
                 {
                   "node_type": "item",
                   "title": "Decentralized Options | Onion",
-                  "description": null,
+                  "description": "pablouser1/ProxiTok",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -703,7 +661,7 @@
                 {
                   "node_type": "item",
                   "title": "Main Instance",
-                  "description": "Repo",
+                  "description": "realaravinth/libmedium",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -729,7 +687,7 @@
                 {
                   "node_type": "item",
                   "title": "Public Instances",
-                  "description": null,
+                  "description": "realaravinth/libmedium",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -755,7 +713,7 @@
                 {
                   "node_type": "item",
                   "title": "Self-Hostable | Guide",
-                  "description": null,
+                  "description": "realaravinth/libmedium",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -821,7 +779,7 @@
                 {
                   "node_type": "item",
                   "title": "Main Instance",
-                  "description": "Repo",
+                  "description": "zyachel/quetre",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -852,7 +810,7 @@
                 {
                   "node_type": "item",
                   "title": "Public Instances",
-                  "description": null,
+                  "description": "zyachel/quetre",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -928,7 +886,7 @@
                 {
                   "node_type": "item",
                   "title": "Main Instance",
-                  "description": "Repo",
+                  "description": "httpjamesm/AnonymousOverflow",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -953,7 +911,7 @@
                 {
                   "node_type": "item",
                   "title": "Public Instances",
-                  "description": null,
+                  "description": "httpjamesm/AnonymousOverflow",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -978,7 +936,7 @@
                 {
                   "node_type": "item",
                   "title": "Self-Hostable | Guide",
-                  "description": null,
+                  "description": "httpjamesm/AnonymousOverflow",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1042,7 +1000,7 @@
                 {
                   "node_type": "item",
                   "title": "Main Instance",
-                  "description": "Repo",
+                  "description": "zyachel/libremdb",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1072,7 +1030,7 @@
                 {
                   "node_type": "item",
                   "title": "Public Instances",
-                  "description": null,
+                  "description": "zyachel/libremdb",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1102,7 +1060,7 @@
                 {
                   "node_type": "item",
                   "title": "Self-Hostable | Guide",
-                  "description": null,
+                  "description": "zyachel/libremdb",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1146,7 +1104,7 @@
                 {
                   "node_type": "item",
                   "title": "Main Instance n/a | Repo",
-                  "description": null,
+                  "description": "rramiachraf/dumb",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1172,7 +1130,7 @@
                 {
                   "node_type": "item",
                   "title": "Public Instances",
-                  "description": null,
+                  "description": "rramiachraf/dumb",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1198,7 +1156,7 @@
                 {
                   "node_type": "item",
                   "title": "Self-Hostable | Guide",
-                  "description": null,
+                  "description": "rramiachraf/dumb",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1264,7 +1222,7 @@
                 {
                   "node_type": "item",
                   "title": "Main Instance",
-                  "description": "Repo",
+                  "description": "thedaviddelta/lingva-translate",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1285,7 +1243,7 @@
                 {
                   "node_type": "item",
                   "title": "Public Instances",
-                  "description": null,
+                  "description": "thedaviddelta/lingva-translate",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1306,7 +1264,7 @@
                 {
                   "node_type": "item",
                   "title": "Self-Hostable | Guide",
-                  "description": null,
+                  "description": "thedaviddelta/lingva-translate",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1341,7 +1299,7 @@
                 {
                   "node_type": "item",
                   "title": "Main Instance n/a | Repo",
-                  "description": null,
+                  "description": "benbusby/whoogle-search",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1374,7 +1332,7 @@
                 {
                   "node_type": "item",
                   "title": "Public Instances",
-                  "description": null,
+                  "description": "benbusby/whoogle-search",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1407,7 +1365,7 @@
                 {
                   "node_type": "item",
                   "title": "Self-Hostable | Guide",
-                  "description": null,
+                  "description": "benbusby/whoogle-search",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1447,7 +1405,7 @@
                 {
                   "node_type": "item",
                   "title": "Main Instance",
-                  "description": "Repo",
+                  "description": "hnhx/librex",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1486,7 +1444,7 @@
                 {
                   "node_type": "item",
                   "title": "Public Instances",
-                  "description": null,
+                  "description": "hnhx/librex",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1525,7 +1483,7 @@
                 {
                   "node_type": "item",
                   "title": "Self-Hostable | Guide",
-                  "description": null,
+                  "description": "hnhx/librex",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1610,7 +1568,7 @@
                 {
                   "node_type": "item",
                   "title": "Homepage",
-                  "description": "Repo",
+                  "description": "searx/searx",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1644,7 +1602,7 @@
                 {
                   "node_type": "item",
                   "title": "Homepage",
-                  "description": "Repo",
+                  "description": "searxng/searxng",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1657,7 +1615,7 @@
                     "open_issues": 189,
                     "owner": "searxng",
                     "repo": "searxng",
-                    "stars": 37890,
+                    "stars": 37893,
                     "topics": [
                       "bing",
                       "brave",
@@ -1695,7 +1653,7 @@
                 {
                   "node_type": "item",
                   "title": "Homepage",
-                  "description": "Repo",
+                  "description": "benbusby/farside",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1722,7 +1680,7 @@
                 {
                   "node_type": "item",
                   "title": "Self-Hostable | Guide",
-                  "description": null,
+                  "description": "benbusby/farside",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1756,7 +1714,7 @@
                 {
                   "node_type": "item",
                   "title": "Download & Repo",
-                  "description": null,
+                  "description": "SimonBrazell/privacy-redirect",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1799,7 +1757,7 @@
                 {
                   "node_type": "item",
                   "title": "Homepage & Download",
-                  "description": "Repo",
+                  "description": "libredirect/browser_extension",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1839,7 +1797,7 @@
                 {
                   "node_type": "item",
                   "title": "Homepage & Download",
-                  "description": "Repo",
+                  "description": "einaregilsson/Redirector",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1867,7 +1825,7 @@
                 {
                   "node_type": "item",
                   "title": "Download",
-                  "description": "Repo",
+                  "description": "you-apps/TranslateYou",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1901,7 +1859,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:43:03.503Z",
+    "last_updated": "2026-10-03T04:31:24.916Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔐🌐 Privacy-respecting web frontends for popular services ",
@@ -1913,7 +1871,7 @@
       "open_issues": 30,
       "owner": "digitalblossom",
       "repo": "alternative-frontends",
-      "stars": 2317,
+      "stars": 2318,
       "topics": [
         "adblock",
         "ads",
