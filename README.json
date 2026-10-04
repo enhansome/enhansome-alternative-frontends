@@ -26,7 +26,7 @@
                     "open_issues": 494,
                     "owner": "iv-org",
                     "repo": "invidious",
-                    "stars": 24926,
+                    "stars": 24973,
                     "topics": [
                       "agplv3",
                       "hacktoberfest",
@@ -84,7 +84,7 @@
                     "open_issues": 321,
                     "owner": "TeamPiped",
                     "repo": "Piped",
-                    "stars": 10268,
+                    "stars": 10269,
                     "topics": [
                       "activej",
                       "dearrow",
@@ -120,7 +120,7 @@
                     "id": 197559490,
                     "language": "TypeScript",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-02T00:40:59Z",
+                    "last_commit": "2026-10-03T04:40:27Z",
                     "open_issues": 78,
                     "owner": "ViewTube",
                     "repo": "viewtube",
@@ -152,7 +152,7 @@
                     "id": 197559490,
                     "language": "TypeScript",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-02T00:40:59Z",
+                    "last_commit": "2026-10-03T04:40:27Z",
                     "open_issues": 78,
                     "owner": "ViewTube",
                     "repo": "viewtube",
@@ -436,7 +436,7 @@
                     "open_issues": 153,
                     "owner": "zedeus",
                     "repo": "nitter",
-                    "stars": 14489,
+                    "stars": 14487,
                     "topics": [
                       "nim",
                       "privacy",
@@ -463,7 +463,7 @@
                     "open_issues": 153,
                     "owner": "zedeus",
                     "repo": "nitter",
-                    "stars": 14489,
+                    "stars": 14487,
                     "topics": [
                       "nim",
                       "privacy",
@@ -490,7 +490,7 @@
                     "open_issues": 153,
                     "owner": "zedeus",
                     "repo": "nitter",
-                    "stars": 14489,
+                    "stars": 14487,
                     "topics": [
                       "nim",
                       "privacy",
@@ -513,7 +513,7 @@
                 "open_issues": 153,
                 "owner": "zedeus",
                 "repo": "nitter",
-                "stars": 14489,
+                "stars": 14487,
                 "topics": [
                   "nim",
                   "privacy",
@@ -1612,10 +1612,10 @@
                     "language": "Python",
                     "license": "AGPL-3.0",
                     "last_commit": "2026-10-02T14:40:46Z",
-                    "open_issues": 189,
+                    "open_issues": 190,
                     "owner": "searxng",
                     "repo": "searxng",
-                    "stars": 37893,
+                    "stars": 37924,
                     "topics": [
                       "bing",
                       "brave",
@@ -1770,7 +1770,7 @@
                     "open_issues": 39,
                     "owner": "libredirect",
                     "repo": "browser_extension",
-                    "stars": 4069,
+                    "stars": 4071,
                     "topics": [
                       "bibliogram",
                       "chrome-extension",
@@ -1838,7 +1838,7 @@
                     "open_issues": 26,
                     "owner": "you-apps",
                     "repo": "TranslateYou",
-                    "stars": 1548,
+                    "stars": 1549,
                     "topics": [
                       "android",
                       "kotlin",
@@ -1859,7 +1859,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:31:24.916Z",
+    "last_updated": "2026-10-04T00:00:53.135Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔐🌐 Privacy-respecting web frontends for popular services ",
