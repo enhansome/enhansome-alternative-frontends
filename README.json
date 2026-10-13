@@ -23,10 +23,10 @@
                     "language": "Crystal",
                     "license": "AGPL-3.0",
                     "last_commit": "2026-10-11T16:51:18Z",
-                    "open_issues": 493,
+                    "open_issues": 495,
                     "owner": "iv-org",
                     "repo": "invidious",
-                    "stars": 25278,
+                    "stars": 25380,
                     "topics": [
                       "agplv3",
                       "hacktoberfest",
@@ -84,7 +84,7 @@
                     "open_issues": 324,
                     "owner": "TeamPiped",
                     "repo": "Piped",
-                    "stars": 10281,
+                    "stars": 10284,
                     "topics": [
                       "activej",
                       "dearrow",
@@ -120,11 +120,11 @@
                     "id": 197559490,
                     "language": "TypeScript",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-09T19:17:37Z",
+                    "last_commit": "2026-10-13T00:24:56Z",
                     "open_issues": 81,
                     "owner": "ViewTube",
                     "repo": "viewtube",
-                    "stars": 1473,
+                    "stars": 1472,
                     "topics": [
                       "docker",
                       "nuxt",
@@ -152,11 +152,11 @@
                     "id": 197559490,
                     "language": "TypeScript",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-09T19:17:37Z",
+                    "last_commit": "2026-10-13T00:24:56Z",
                     "open_issues": 81,
                     "owner": "ViewTube",
                     "repo": "viewtube",
-                    "stars": 1473,
+                    "stars": 1472,
                     "topics": [
                       "docker",
                       "nuxt",
@@ -281,7 +281,7 @@
                     "open_issues": 196,
                     "owner": "libreddit",
                     "repo": "libreddit",
-                    "stars": 5201,
+                    "stars": 5200,
                     "topics": [
                       "docker",
                       "front-end",
@@ -310,7 +310,7 @@
                     "open_issues": 196,
                     "owner": "libreddit",
                     "repo": "libreddit",
-                    "stars": 5201,
+                    "stars": 5200,
                     "topics": [
                       "docker",
                       "front-end",
@@ -339,7 +339,7 @@
                     "open_issues": 40,
                     "owner": "libreddit",
                     "repo": "libreddit-instances",
-                    "stars": 110,
+                    "stars": 111,
                     "topics": [
                       "csv",
                       "json"
@@ -436,7 +436,7 @@
                     "open_issues": 153,
                     "owner": "zedeus",
                     "repo": "nitter",
-                    "stars": 14480,
+                    "stars": 14478,
                     "topics": [
                       "nim",
                       "privacy",
@@ -463,7 +463,7 @@
                     "open_issues": 153,
                     "owner": "zedeus",
                     "repo": "nitter",
-                    "stars": 14480,
+                    "stars": 14478,
                     "topics": [
                       "nim",
                       "privacy",
@@ -490,7 +490,7 @@
                     "open_issues": 153,
                     "owner": "zedeus",
                     "repo": "nitter",
-                    "stars": 14480,
+                    "stars": 14478,
                     "topics": [
                       "nim",
                       "privacy",
@@ -513,7 +513,7 @@
                 "open_issues": 153,
                 "owner": "zedeus",
                 "repo": "nitter",
-                "stars": 14480,
+                "stars": 14478,
                 "topics": [
                   "nim",
                   "privacy",
@@ -899,7 +899,7 @@
                     "open_issues": 26,
                     "owner": "httpjamesm",
                     "repo": "AnonymousOverflow",
-                    "stars": 381,
+                    "stars": 380,
                     "topics": [
                       "frontend",
                       "go",
@@ -924,7 +924,7 @@
                     "open_issues": 26,
                     "owner": "httpjamesm",
                     "repo": "AnonymousOverflow",
-                    "stars": 381,
+                    "stars": 380,
                     "topics": [
                       "frontend",
                       "go",
@@ -949,7 +949,7 @@
                     "open_issues": 26,
                     "owner": "httpjamesm",
                     "repo": "AnonymousOverflow",
-                    "stars": 381,
+                    "stars": 380,
                     "topics": [
                       "frontend",
                       "go",
@@ -974,7 +974,7 @@
                     "open_issues": 26,
                     "owner": "httpjamesm",
                     "repo": "AnonymousOverflow",
-                    "stars": 381,
+                    "stars": 380,
                     "topics": [
                       "frontend",
                       "go",
@@ -1013,7 +1013,7 @@
                     "open_issues": 23,
                     "owner": "zyachel",
                     "repo": "libremdb",
-                    "stars": 441,
+                    "stars": 439,
                     "topics": [
                       "alternative-frontends",
                       "foss",
@@ -1043,7 +1043,7 @@
                     "open_issues": 23,
                     "owner": "zyachel",
                     "repo": "libremdb",
-                    "stars": 441,
+                    "stars": 439,
                     "topics": [
                       "alternative-frontends",
                       "foss",
@@ -1073,7 +1073,7 @@
                     "open_issues": 23,
                     "owner": "zyachel",
                     "repo": "libremdb",
-                    "stars": 441,
+                    "stars": 439,
                     "topics": [
                       "alternative-frontends",
                       "foss",
@@ -1235,7 +1235,7 @@
                     "open_issues": 47,
                     "owner": "thedaviddelta",
                     "repo": "lingva-translate",
-                    "stars": 1851,
+                    "stars": 1850,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
@@ -1256,7 +1256,7 @@
                     "open_issues": 47,
                     "owner": "thedaviddelta",
                     "repo": "lingva-translate",
-                    "stars": 1851,
+                    "stars": 1850,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
@@ -1277,7 +1277,7 @@
                     "open_issues": 47,
                     "owner": "thedaviddelta",
                     "repo": "lingva-translate",
-                    "stars": 1851,
+                    "stars": 1850,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
@@ -1312,7 +1312,7 @@
                     "open_issues": 1,
                     "owner": "benbusby",
                     "repo": "whoogle-search",
-                    "stars": 11566,
+                    "stars": 11567,
                     "topics": [
                       "adblock",
                       "docker",
@@ -1345,7 +1345,7 @@
                     "open_issues": 1,
                     "owner": "benbusby",
                     "repo": "whoogle-search",
-                    "stars": 11566,
+                    "stars": 11567,
                     "topics": [
                       "adblock",
                       "docker",
@@ -1378,7 +1378,7 @@
                     "open_issues": 1,
                     "owner": "benbusby",
                     "repo": "whoogle-search",
-                    "stars": 11566,
+                    "stars": 11567,
                     "topics": [
                       "adblock",
                       "docker",
@@ -1418,7 +1418,7 @@
                     "open_issues": 23,
                     "owner": "hnhx",
                     "repo": "librex",
-                    "stars": 847,
+                    "stars": 845,
                     "topics": [
                       "1337x-api",
                       "ahmia-api",
@@ -1457,7 +1457,7 @@
                     "open_issues": 23,
                     "owner": "hnhx",
                     "repo": "librex",
-                    "stars": 847,
+                    "stars": 845,
                     "topics": [
                       "1337x-api",
                       "ahmia-api",
@@ -1496,7 +1496,7 @@
                     "open_issues": 23,
                     "owner": "hnhx",
                     "repo": "librex",
-                    "stars": 847,
+                    "stars": 845,
                     "topics": [
                       "1337x-api",
                       "ahmia-api",
@@ -1535,7 +1535,7 @@
                     "open_issues": 23,
                     "owner": "hnhx",
                     "repo": "librex",
-                    "stars": 847,
+                    "stars": 845,
                     "topics": [
                       "1337x-api",
                       "ahmia-api",
@@ -1615,7 +1615,7 @@
                     "open_issues": 192,
                     "owner": "searxng",
                     "repo": "searxng",
-                    "stars": 38237,
+                    "stars": 38293,
                     "topics": [
                       "bing",
                       "brave",
@@ -1666,7 +1666,7 @@
                     "open_issues": 52,
                     "owner": "benbusby",
                     "repo": "farside",
-                    "stars": 946,
+                    "stars": 945,
                     "topics": [
                       "badgerdb",
                       "go",
@@ -1693,7 +1693,7 @@
                     "open_issues": 52,
                     "owner": "benbusby",
                     "repo": "farside",
-                    "stars": 946,
+                    "stars": 945,
                     "topics": [
                       "badgerdb",
                       "go",
@@ -1727,7 +1727,7 @@
                     "open_issues": 217,
                     "owner": "SimonBrazell",
                     "repo": "privacy-redirect",
-                    "stars": 2190,
+                    "stars": 2188,
                     "topics": [
                       "bibliogram",
                       "chromium",
@@ -1766,11 +1766,11 @@
                     "id": 434591591,
                     "language": "JSON",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-11T08:42:37Z",
-                    "open_issues": 41,
+                    "last_commit": "2026-10-12T20:49:01Z",
+                    "open_issues": 42,
                     "owner": "libredirect",
                     "repo": "browser_extension",
-                    "stars": 4079,
+                    "stars": 4080,
                     "topics": [
                       "bibliogram",
                       "chrome-extension",
@@ -1859,7 +1859,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T00:43:07.613Z",
+    "last_updated": "2026-10-13T02:42:23.176Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔐🌐 Privacy-respecting web frontends for popular services ",
@@ -1871,7 +1871,7 @@
       "open_issues": 30,
       "owner": "digitalblossom",
       "repo": "alternative-frontends",
-      "stars": 2323,
+      "stars": 2324,
       "topics": [
         "adblock",
         "ads",
