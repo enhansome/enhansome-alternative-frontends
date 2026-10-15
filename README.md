@@ -26,15 +26,15 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ### YouTube
 
 * **Invidious**
-  * [Homepage](https://invidious.io) | [Repo](https://github.com/iv-org/invidious) ⭐ 25,434 | 🐛 494 | 🌐 Crystal | 📅 2026-10-13
-  * [x] Decentralized Options | [I2P](http://tube.i2p) | [Onion](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md#tor-onion-services) ⭐ 816 | 🐛 37 | 🌐 Dockerfile | 📅 2026-09-30 | [Loki](http://invidious.loki)
+  * [Homepage](https://invidious.io) | [Repo](https://github.com/iv-org/invidious) ⭐ 25,460 | 🐛 494 | 🌐 Crystal | 📅 2026-10-13
+  * [x] Decentralized Options | [I2P](http://tube.i2p) | [Onion](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md#tor-onion-services) ⭐ 817 | 🐛 37 | 🌐 Dockerfile | 📅 2026-09-30 | [Loki](http://invidious.loki)
   * Lightweight YouTube frontend - no tracking, no ads and Javascript is optional.
   * [Public Instances](https://docs.invidious.io/instances)
   * [x] Open-Source
   * [x] Self-Hostable | [Guide](https://docs.invidious.io/Installation.md)
 
 * **Piped**
-  * [Main Instance](https://piped.video) | [Repo](https://github.com/TeamPiped/Piped) ⭐ 10,282 | 🐛 324 | 🌐 Vue | 📅 2026-10-10
+  * [Main Instance](https://piped.video) | [Repo](https://github.com/TeamPiped/Piped) ⭐ 10,282 | 🐛 323 | 🌐 Vue | 📅 2026-10-14
   * Alternative privacy-friendly YouTube frontend. Lightweight, no ads (Sponsorblock integrated), no tracking, 4K support and more.
   * [Public Instances](https://piped.kavin.rocks/preferences) (scroll down)
   * [x] Open-Source
@@ -214,10 +214,10 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ### Genius
 
 * **Dumb**
-  * Main Instance n/a | [Repo](https://github.com/rramiachraf/dumb) ⭐ 415 | 🐛 14 | 🌐 Go | 📅 2026-09-26
-  * [Public Instances](https://github.com/rramiachraf/dumb#public-instances) ⭐ 415 | 🐛 14 | 🌐 Go | 📅 2026-09-26
-  * [x] Self-Hostable | [Guide](https://github.com/rramiachraf/dumb#installation--usage) ⭐ 415 | 🐛 14 | 🌐 Go | 📅 2026-09-26
-  * [x] Decentralized Options | [I2P](https://github.com/rramiachraf/dumb#i2p) ⭐ 415 | 🐛 14 | 🌐 Go | 📅 2026-09-26 | [Onion](https://github.com/rramiachraf/dumb#tor) ⭐ 415 | 🐛 14 | 🌐 Go | 📅 2026-09-26
+  * Main Instance n/a | [Repo](https://github.com/rramiachraf/dumb) ⭐ 416 | 🐛 14 | 🌐 Go | 📅 2026-09-26
+  * [Public Instances](https://github.com/rramiachraf/dumb#public-instances) ⭐ 416 | 🐛 14 | 🌐 Go | 📅 2026-09-26
+  * [x] Self-Hostable | [Guide](https://github.com/rramiachraf/dumb#installation--usage) ⭐ 416 | 🐛 14 | 🌐 Go | 📅 2026-09-26
+  * [x] Decentralized Options | [I2P](https://github.com/rramiachraf/dumb#i2p) ⭐ 416 | 🐛 14 | 🌐 Go | 📅 2026-09-26 | [Onion](https://github.com/rramiachraf/dumb#tor) ⭐ 416 | 🐛 14 | 🌐 Go | 📅 2026-09-26
   * Dumb tries to make reading lyrics from Genius a pleasant experience and as lightweight as possible
   * [x] Open-Source
 
@@ -283,7 +283,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   * [x] Decentralized Options | [Onion](https://searx.space)
 
 * **SearxNG**
-  * [Homepage](https://searxng.org) | [Repo](https://github.com/searxng/searxng) ⭐ 38,354 | 🐛 191 | 🌐 Python | 📅 2026-10-13
+  * [Homepage](https://searxng.org) | [Repo](https://github.com/searxng/searxng) ⭐ 38,405 | 🐛 192 | 🌐 Python | 📅 2026-10-14
   * Fork of SearX with UI improvements (including to the settings page) and updates to the selfhosting procedure.
   * [Public Instances](https://searx.space)
   * [x] Open-Source
@@ -395,4 +395,4 @@ YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
