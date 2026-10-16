@@ -26,15 +26,15 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ### YouTube
 
 * **Invidious**
-  * [Homepage](https://invidious.io) | [Repo](https://github.com/iv-org/invidious) ⭐ 25,487 | 🐛 493 | 🌐 Crystal | 📅 2026-10-13
-  * [x] Decentralized Options | [I2P](http://tube.i2p) | [Onion](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md#tor-onion-services) ⭐ 817 | 🐛 37 | 🌐 Dockerfile | 📅 2026-09-30 | [Loki](http://invidious.loki)
+  * [Homepage](https://invidious.io) | [Repo](https://github.com/iv-org/invidious) ⭐ 25,496 | 🐛 495 | 🌐 Crystal | 📅 2026-10-16
+  * [x] Decentralized Options | [I2P](http://tube.i2p) | [Onion](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md#tor-onion-services) ⭐ 816 | 🐛 37 | 🌐 Dockerfile | 📅 2026-09-30 | [Loki](http://invidious.loki)
   * Lightweight YouTube frontend - no tracking, no ads and Javascript is optional.
   * [Public Instances](https://docs.invidious.io/instances)
   * [x] Open-Source
   * [x] Self-Hostable | [Guide](https://docs.invidious.io/Installation.md)
 
 * **Piped**
-  * [Main Instance](https://piped.video) | [Repo](https://github.com/TeamPiped/Piped) ⭐ 10,282 | 🐛 323 | 🌐 Vue | 📅 2026-10-15
+  * [Main Instance](https://piped.video) | [Repo](https://github.com/TeamPiped/Piped) ⭐ 10,285 | 🐛 323 | 🌐 Vue | 📅 2026-10-16
   * Alternative privacy-friendly YouTube frontend. Lightweight, no ads (Sponsorblock integrated), no tracking, 4K support and more.
   * [Public Instances](https://piped.kavin.rocks/preferences) (scroll down)
   * [x] Open-Source
@@ -142,10 +142,10 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ### Tiktok
 
 * **ProxiTok**
-  * [Main Instance](https://proxitok.pabloferreiro.es) | [Repo](https://github.com/pablouser1/ProxiTok) ⭐ 2,146 | 🐛 51 | 🌐 PHP | 📅 2025-05-31
-  * [Public Instances](https://github.com/pablouser1/ProxiTok/wiki/Public-instances#clearnet) ⭐ 2,146 | 🐛 51 | 🌐 PHP | 📅 2025-05-31
-  * [x] Self-Hostable | [Guide](https://github.com/pablouser1/ProxiTok#installation) ⭐ 2,146 | 🐛 51 | 🌐 PHP | 📅 2025-05-31
-  * [x] Decentralized Options | [Onion](https://github.com/pablouser1/ProxiTok/wiki/Public-instances#tor) ⭐ 2,146 | 🐛 51 | 🌐 PHP | 📅 2025-05-31
+  * [Main Instance](https://proxitok.pabloferreiro.es) | [Repo](https://github.com/pablouser1/ProxiTok) ⭐ 2,147 | 🐛 51 | 🌐 PHP | 📅 2025-05-31
+  * [Public Instances](https://github.com/pablouser1/ProxiTok/wiki/Public-instances#clearnet) ⭐ 2,147 | 🐛 51 | 🌐 PHP | 📅 2025-05-31
+  * [x] Self-Hostable | [Guide](https://github.com/pablouser1/ProxiTok#installation) ⭐ 2,147 | 🐛 51 | 🌐 PHP | 📅 2025-05-31
+  * [x] Decentralized Options | [Onion](https://github.com/pablouser1/ProxiTok/wiki/Public-instances#tor) ⭐ 2,147 | 🐛 51 | 🌐 PHP | 📅 2025-05-31
   * Open-Source frontend for Tiktok that proxies users requests.
   * [x] Open-Source
 
@@ -172,9 +172,9 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ### Quora
 
 * **Quetre**
-  * [Main Instance](https://quetre.herokuapp.com/) | [Repo](https://github.com/zyachel/quetre#instances) ⭐ 499 | 🐛 17 | 🌐 JavaScript | 📅 2025-11-06
-  * [Public Instances](https://github.com/zyachel/quetre#instances) ⭐ 499 | 🐛 17 | 🌐 JavaScript | 📅 2025-11-06
-  * [x] Self-Hostable | [Guide](https://github.com/zyachel/quetre#instances) ⭐ 499 | 🐛 17 | 🌐 JavaScript | 📅 2025-11-06 | [Heroku Deploy](https://heroku.com/deploy?template=https://github.com/zyachel/quetre)
+  * [Main Instance](https://quetre.herokuapp.com/) | [Repo](https://github.com/zyachel/quetre#instances) ⭐ 500 | 🐛 17 | 🌐 JavaScript | 📅 2025-11-06
+  * [Public Instances](https://github.com/zyachel/quetre#instances) ⭐ 500 | 🐛 17 | 🌐 JavaScript | 📅 2025-11-06
+  * [x] Self-Hostable | [Guide](https://github.com/zyachel/quetre#instances) ⭐ 500 | 🐛 17 | 🌐 JavaScript | 📅 2025-11-06 | [Heroku Deploy](https://heroku.com/deploy?template=https://github.com/zyachel/quetre)
   * Alternative front-end to Quora. It enables you to see answers without ads, trackers, and popups. Has an unofficial API.
   * Pattern for Redirector: `*quora.com/*` to `https://quetre.herokuapp.com/$2`
   * [x] Open-Source
@@ -194,10 +194,10 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ### StackOverflow
 
 * **AnonymousOverflow**
-  * [Main Instance](https://code.whatever.social) | [Repo](https://github.com/httpjamesm/AnonymousOverflow) ⭐ 380 | 🐛 26 | 🌐 Go | 📅 2026-08-25
-  * [Public Instances](https://github.com/httpjamesm/AnonymousOverflow#clearnet-instances) ⭐ 380 | 🐛 26 | 🌐 Go | 📅 2026-08-25
-  * [x] Self-Hostable | [Guide](https://github.com/httpjamesm/AnonymousOverflow/wiki/Deployment) ⭐ 380 | 🐛 26 | 🌐 Go | 📅 2026-08-25
-  * [x] Decentralized Options | [I2P](https://github.com/httpjamesm/AnonymousOverflow#other-instances) ⭐ 380 | 🐛 26 | 🌐 Go | 📅 2026-08-25 | [Onion](https://github.com/httpjamesm/AnonymousOverflow#other-instances) ⭐ 380 | 🐛 26 | 🌐 Go | 📅 2026-08-25
+  * [Main Instance](https://code.whatever.social) | [Repo](https://github.com/httpjamesm/AnonymousOverflow) ⭐ 381 | 🐛 26 | 🌐 Go | 📅 2026-08-25
+  * [Public Instances](https://github.com/httpjamesm/AnonymousOverflow#clearnet-instances) ⭐ 381 | 🐛 26 | 🌐 Go | 📅 2026-08-25
+  * [x] Self-Hostable | [Guide](https://github.com/httpjamesm/AnonymousOverflow/wiki/Deployment) ⭐ 381 | 🐛 26 | 🌐 Go | 📅 2026-08-25
+  * [x] Decentralized Options | [I2P](https://github.com/httpjamesm/AnonymousOverflow#other-instances) ⭐ 381 | 🐛 26 | 🌐 Go | 📅 2026-08-25 | [Onion](https://github.com/httpjamesm/AnonymousOverflow#other-instances) ⭐ 381 | 🐛 26 | 🌐 Go | 📅 2026-08-25
   * View StackOverflow in privacy and without the clutter
   * [x] Open-Source
 
@@ -267,10 +267,10 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   * [x] Open-Source
 
 * **LibreX**
-  * [Main Instance](https://search.femboy.hu) | [Repo](https://github.com/hnhx/librex) ⭐ 845 | 🐛 23 | 🌐 PHP | 📅 2024-08-01
-  * [Public Instances](https://github.com/hnhx/librex#instances) ⭐ 845 | 🐛 23 | 🌐 PHP | 📅 2024-08-01
-  * [x] Self-Hostable | [Guide](https://github.com/hnhx/librex/wiki/How-to-host-LibreX) ⭐ 845 | 🐛 23 | 🌐 PHP | 📅 2024-08-01
-  * [x] Decentralized Options | [I2P](https://github.com/hnhx/librex#instances) ⭐ 845 | 🐛 23 | 🌐 PHP | 📅 2024-08-01 | [Onion](https://github.com/hnhx/librex#instances) ⭐ 845 | 🐛 23 | 🌐 PHP | 📅 2024-08-01
+  * [Main Instance](https://search.femboy.hu) | [Repo](https://github.com/hnhx/librex) ⭐ 846 | 🐛 23 | 🌐 PHP | 📅 2024-08-01
+  * [Public Instances](https://github.com/hnhx/librex#instances) ⭐ 846 | 🐛 23 | 🌐 PHP | 📅 2024-08-01
+  * [x] Self-Hostable | [Guide](https://github.com/hnhx/librex/wiki/How-to-host-LibreX) ⭐ 846 | 🐛 23 | 🌐 PHP | 📅 2024-08-01
+  * [x] Decentralized Options | [I2P](https://github.com/hnhx/librex#instances) ⭐ 846 | 🐛 23 | 🌐 PHP | 📅 2024-08-01 | [Onion](https://github.com/hnhx/librex#instances) ⭐ 846 | 🐛 23 | 🌐 PHP | 📅 2024-08-01
   * A privacy respecting meta search engine for Google and popular torrent sites which can redirect to privacy-respecting frontends
   * [x] Open-Source
 
@@ -283,7 +283,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   * [x] Decentralized Options | [Onion](https://searx.space)
 
 * **SearxNG**
-  * [Homepage](https://searxng.org) | [Repo](https://github.com/searxng/searxng) ⭐ 38,445 | 🐛 196 | 🌐 Python | 📅 2026-10-15
+  * [Homepage](https://searxng.org) | [Repo](https://github.com/searxng/searxng) ⭐ 38,481 | 🐛 199 | 🌐 Python | 📅 2026-10-16
   * Fork of SearX with UI improvements (including to the settings page) and updates to the selfhosting procedure.
   * [Public Instances](https://searx.space)
   * [x] Open-Source
@@ -351,7 +351,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   ⓘ Developement of Privacy Redirect has ended/paused, consider using LibRedirect instead
 
 * **LibRedirect**
-  * [Homepage & Download](https://libredirect.github.io) | [Repo](https://github.com/libredirect/libredirect) ⭐ 4,079 | 🐛 42 | 🌐 JSON | 📅 2026-10-12
+  * [Homepage & Download](https://libredirect.github.io) | [Repo](https://github.com/libredirect/libredirect) ⭐ 4,081 | 🐛 42 | 🌐 JSON | 📅 2026-10-12
   * Maintained fork of Privacy Redirect with new services added and a refreshed UI.
   * [x] Open-Source
 
@@ -395,4 +395,4 @@ YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
