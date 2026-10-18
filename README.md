@@ -26,7 +26,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ### YouTube
 
 * **Invidious**
-  * [Homepage](https://invidious.io) | [Repo](https://github.com/iv-org/invidious) ⭐ 25,509 | 🐛 495 | 🌐 Crystal | 📅 2026-10-16
+  * [Homepage](https://invidious.io) | [Repo](https://github.com/iv-org/invidious) ⭐ 25,520 | 🐛 496 | 🌐 Crystal | 📅 2026-10-16
   * [x] Decentralized Options | [I2P](http://tube.i2p) | [Onion](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md#tor-onion-services) ⭐ 816 | 🐛 37 | 🌐 Dockerfile | 📅 2026-09-30 | [Loki](http://invidious.loki)
   * Lightweight YouTube frontend - no tracking, no ads and Javascript is optional.
   * [Public Instances](https://docs.invidious.io/instances)
@@ -34,7 +34,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   * [x] Self-Hostable | [Guide](https://docs.invidious.io/Installation.md)
 
 * **Piped**
-  * [Main Instance](https://piped.video) | [Repo](https://github.com/TeamPiped/Piped) ⭐ 10,285 | 🐛 323 | 🌐 Vue | 📅 2026-10-17
+  * [Main Instance](https://piped.video) | [Repo](https://github.com/TeamPiped/Piped) ⭐ 10,282 | 🐛 323 | 🌐 Vue | 📅 2026-10-18
   * Alternative privacy-friendly YouTube frontend. Lightweight, no ads (Sponsorblock integrated), no tracking, 4K support and more.
   * [Public Instances](https://piped.kavin.rocks/preferences) (scroll down)
   * [x] Open-Source
@@ -49,8 +49,8 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   * [x] Self-Hostable | [Guide](https://git.sr.ht/~cadence/tube-docs/tree/main/item/docs/cloudtube/Installing%20CloudTube.md)
 
 * **Viewtube**
-  * [Main Instance](https://viewtube.io/) | [Repo](https://github.com/ViewTube/viewtube-vue) ⭐ 1,474 | 🐛 81 | 🌐 TypeScript | 📅 2026-10-15
-  * [x] Self-Hostable | [Guide](https://github.com/ViewTube/viewtube-vue#host-it-yourself) ⭐ 1,474 | 🐛 81 | 🌐 TypeScript | 📅 2026-10-15
+  * [Main Instance](https://viewtube.io/) | [Repo](https://github.com/ViewTube/viewtube-vue) ⭐ 1,474 | 🐛 81 | 🌐 TypeScript | 📅 2026-10-18
+  * [x] Self-Hostable | [Guide](https://github.com/ViewTube/viewtube-vue#host-it-yourself) ⭐ 1,474 | 🐛 81 | 🌐 TypeScript | 📅 2026-10-18
   * Privacy-respecting frontend with subscription, watch-progress and recommendation features.
   * Public Instances n/a
   * [x] Open-Source
@@ -172,9 +172,9 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ### Quora
 
 * **Quetre**
-  * [Main Instance](https://quetre.herokuapp.com/) | [Repo](https://github.com/zyachel/quetre#instances) ⭐ 500 | 🐛 17 | 🌐 JavaScript | 📅 2025-11-06
-  * [Public Instances](https://github.com/zyachel/quetre#instances) ⭐ 500 | 🐛 17 | 🌐 JavaScript | 📅 2025-11-06
-  * [x] Self-Hostable | [Guide](https://github.com/zyachel/quetre#instances) ⭐ 500 | 🐛 17 | 🌐 JavaScript | 📅 2025-11-06 | [Heroku Deploy](https://heroku.com/deploy?template=https://github.com/zyachel/quetre)
+  * [Main Instance](https://quetre.herokuapp.com/) | [Repo](https://github.com/zyachel/quetre#instances) ⭐ 499 | 🐛 17 | 🌐 JavaScript | 📅 2025-11-06
+  * [Public Instances](https://github.com/zyachel/quetre#instances) ⭐ 499 | 🐛 17 | 🌐 JavaScript | 📅 2025-11-06
+  * [x] Self-Hostable | [Guide](https://github.com/zyachel/quetre#instances) ⭐ 499 | 🐛 17 | 🌐 JavaScript | 📅 2025-11-06 | [Heroku Deploy](https://heroku.com/deploy?template=https://github.com/zyachel/quetre)
   * Alternative front-end to Quora. It enables you to see answers without ads, trackers, and popups. Has an unofficial API.
   * Pattern for Redirector: `*quora.com/*` to `https://quetre.herokuapp.com/$2`
   * [x] Open-Source
@@ -244,9 +244,9 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ### Translate
 
 * **Lingva**
-  * [Main Instance](https://lingva.ml/) | [Repo](https://github.com/TheDavidDelta/lingva-translate) ⭐ 1,849 | 🐛 47 | 🌐 TypeScript | 📅 2023-08-01
-  * [Public Instances](https://github.com/TheDavidDelta/lingva-translate#instances) ⭐ 1,849 | 🐛 47 | 🌐 TypeScript | 📅 2023-08-01
-  * [x] Self-Hostable | [Guide](https://github.com/TheDavidDelta/lingva-translate#deployment) ⭐ 1,849 | 🐛 47 | 🌐 TypeScript | 📅 2023-08-01
+  * [Main Instance](https://lingva.ml/) | [Repo](https://github.com/TheDavidDelta/lingva-translate) ⭐ 1,850 | 🐛 47 | 🌐 TypeScript | 📅 2023-08-01
+  * [Public Instances](https://github.com/TheDavidDelta/lingva-translate#instances) ⭐ 1,850 | 🐛 47 | 🌐 TypeScript | 📅 2023-08-01
+  * [x] Self-Hostable | [Guide](https://github.com/TheDavidDelta/lingva-translate#deployment) ⭐ 1,850 | 🐛 47 | 🌐 TypeScript | 📅 2023-08-01
   * Tracking-free Google Translate frontend
   * [x] Open-Source
 
@@ -275,7 +275,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   * [x] Open-Source
 
 * **SearX**
-  * [Homepage](https://searx.github.io/searx) | [Repo](https://github.com/searx/searx) ⭐ 13,558 | 🐛 337 | 🌐 Python | 📅 2026-05-14
+  * [Homepage](https://searx.github.io/searx) | [Repo](https://github.com/searx/searx) ⭐ 13,557 | 🐛 337 | 🌐 Python | 📅 2026-05-14
   * Privacy-respecting, self-hostable metasearch engine. Acts as frontend for more than 70 search services.
   * [Public Instances](https://searx.space)
   * [x] Open-Source
@@ -283,7 +283,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   * [x] Decentralized Options | [Onion](https://searx.space)
 
 * **SearxNG**
-  * [Homepage](https://searxng.org) | [Repo](https://github.com/searxng/searxng) ⭐ 38,519 | 🐛 200 | 🌐 Python | 📅 2026-10-17
+  * [Homepage](https://searxng.org) | [Repo](https://github.com/searxng/searxng) ⭐ 38,561 | 🐛 203 | 🌐 Python | 📅 2026-10-18
   * Fork of SearX with UI improvements (including to the settings page) and updates to the selfhosting procedure.
   * [Public Instances](https://searx.space)
   * [x] Open-Source
@@ -351,7 +351,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   ⓘ Developement of Privacy Redirect has ended/paused, consider using LibRedirect instead
 
 * **LibRedirect**
-  * [Homepage & Download](https://libredirect.github.io) | [Repo](https://github.com/libredirect/libredirect) ⭐ 4,081 | 🐛 42 | 🌐 JSON | 📅 2026-10-12
+  * [Homepage & Download](https://libredirect.github.io) | [Repo](https://github.com/libredirect/libredirect) ⭐ 4,080 | 🐛 46 | 🌐 JSON | 📅 2026-10-12
   * Maintained fork of Privacy Redirect with new services added and a refreshed UI.
   * [x] Open-Source
 
@@ -369,7 +369,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   ⓘ Not Open Source, but made by a trustworthy company and operates with a [good privacy policy](https://www.ssllabs.com/downloads/Qualys_SSL_Labs_Terms_of_Use.pdf).
 
 * **Translate You Libre**
-  * [Download](https://github.com/bnyro/translateyou/releases) ⭐ 1,557 | 🐛 28 | 🌐 Kotlin | 📅 2026-07-04 | [Repo](https://github.com/Bnyro/TranslateYou) ⭐ 1,557 | 🐛 28 | 🌐 Kotlin | 📅 2026-07-04
+  * [Download](https://github.com/bnyro/translateyou/releases) ⭐ 1,558 | 🐛 28 | 🌐 Kotlin | 📅 2026-07-04 | [Repo](https://github.com/Bnyro/TranslateYou) ⭐ 1,558 | 🐛 28 | 🌐 Kotlin | 📅 2026-07-04
   * FOSS Android frontend for LibreTranslate and Lingva. Uses Material You
   * [x] Open-Source
 
@@ -395,4 +395,4 @@ YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
