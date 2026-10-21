@@ -26,7 +26,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ### YouTube
 
 * **Invidious**
-  * [Homepage](https://invidious.io) | [Repo](https://github.com/iv-org/invidious) ⭐ 25,544 | 🐛 498 | 🌐 Crystal | 📅 2026-10-19
+  * [Homepage](https://invidious.io) | [Repo](https://github.com/iv-org/invidious) ⭐ 25,568 | 🐛 500 | 🌐 Crystal | 📅 2026-10-19
   * [x] Decentralized Options | [I2P](http://tube.i2p) | [Onion](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md#tor-onion-services) ⭐ 817 | 🐛 37 | 🌐 Dockerfile | 📅 2026-09-30 | [Loki](http://invidious.loki)
   * Lightweight YouTube frontend - no tracking, no ads and Javascript is optional.
   * [Public Instances](https://docs.invidious.io/instances)
@@ -34,7 +34,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   * [x] Self-Hostable | [Guide](https://docs.invidious.io/Installation.md)
 
 * **Piped**
-  * [Main Instance](https://piped.video) | [Repo](https://github.com/TeamPiped/Piped) ⭐ 10,285 | 🐛 323 | 🌐 Vue | 📅 2026-10-18
+  * [Main Instance](https://piped.video) | [Repo](https://github.com/TeamPiped/Piped) ⭐ 10,286 | 🐛 323 | 🌐 Vue | 📅 2026-10-20
   * Alternative privacy-friendly YouTube frontend. Lightweight, no ads (Sponsorblock integrated), no tracking, 4K support and more.
   * [Public Instances](https://piped.kavin.rocks/preferences) (scroll down)
   * [x] Open-Source
@@ -49,8 +49,8 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   * [x] Self-Hostable | [Guide](https://git.sr.ht/~cadence/tube-docs/tree/main/item/docs/cloudtube/Installing%20CloudTube.md)
 
 * **Viewtube**
-  * [Main Instance](https://viewtube.io/) | [Repo](https://github.com/ViewTube/viewtube-vue) ⭐ 1,474 | 🐛 81 | 🌐 TypeScript | 📅 2026-10-18
-  * [x] Self-Hostable | [Guide](https://github.com/ViewTube/viewtube-vue#host-it-yourself) ⭐ 1,474 | 🐛 81 | 🌐 TypeScript | 📅 2026-10-18
+  * [Main Instance](https://viewtube.io/) | [Repo](https://github.com/ViewTube/viewtube-vue) ⭐ 1,474 | 🐛 81 | 🌐 TypeScript | 📅 2026-10-20
+  * [x] Self-Hostable | [Guide](https://github.com/ViewTube/viewtube-vue#host-it-yourself) ⭐ 1,474 | 🐛 81 | 🌐 TypeScript | 📅 2026-10-20
   * Privacy-respecting frontend with subscription, watch-progress and recommendation features.
   * Public Instances n/a
   * [x] Open-Source
@@ -172,9 +172,9 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ### Quora
 
 * **Quetre**
-  * [Main Instance](https://quetre.herokuapp.com/) | [Repo](https://github.com/zyachel/quetre#instances) ⭐ 499 | 🐛 17 | 🌐 JavaScript | 📅 2025-11-06
-  * [Public Instances](https://github.com/zyachel/quetre#instances) ⭐ 499 | 🐛 17 | 🌐 JavaScript | 📅 2025-11-06
-  * [x] Self-Hostable | [Guide](https://github.com/zyachel/quetre#instances) ⭐ 499 | 🐛 17 | 🌐 JavaScript | 📅 2025-11-06 | [Heroku Deploy](https://heroku.com/deploy?template=https://github.com/zyachel/quetre)
+  * [Main Instance](https://quetre.herokuapp.com/) | [Repo](https://github.com/zyachel/quetre#instances) ⭐ 500 | 🐛 17 | 🌐 JavaScript | 📅 2025-11-06
+  * [Public Instances](https://github.com/zyachel/quetre#instances) ⭐ 500 | 🐛 17 | 🌐 JavaScript | 📅 2025-11-06
+  * [x] Self-Hostable | [Guide](https://github.com/zyachel/quetre#instances) ⭐ 500 | 🐛 17 | 🌐 JavaScript | 📅 2025-11-06 | [Heroku Deploy](https://heroku.com/deploy?template=https://github.com/zyachel/quetre)
   * Alternative front-end to Quora. It enables you to see answers without ads, trackers, and popups. Has an unofficial API.
   * Pattern for Redirector: `*quora.com/*` to `https://quetre.herokuapp.com/$2`
   * [x] Open-Source
@@ -204,9 +204,9 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ### IMDb
 
 * **Libremdb**
-  * [Main Instance](https://libremdb.iket.me) | [Repo](https://github.com/zyachel/libremdb) ⭐ 438 | 🐛 23 | 🌐 TypeScript | 📅 2026-04-19
-  * [Public Instances](https://github.com/zyachel/libremdb#instances) ⭐ 438 | 🐛 23 | 🌐 TypeScript | 📅 2026-04-19
-  * [x] Self-Hostable | [Guide](https://github.com/zyachel/libremdb#installation) ⭐ 438 | 🐛 23 | 🌐 TypeScript | 📅 2026-04-19
+  * [Main Instance](https://libremdb.iket.me) | [Repo](https://github.com/zyachel/libremdb) ⭐ 439 | 🐛 23 | 🌐 TypeScript | 📅 2026-04-19
+  * [Public Instances](https://github.com/zyachel/libremdb#instances) ⭐ 439 | 🐛 23 | 🌐 TypeScript | 📅 2026-04-19
+  * [x] Self-Hostable | [Guide](https://github.com/zyachel/libremdb#installation) ⭐ 439 | 🐛 23 | 🌐 TypeScript | 📅 2026-04-19
   * A lightweight, ad-free and js-free alternative front-end to IMDb
   * Pattern for Redirector: `https://www.imdb.com/*` to `https://libremd.herokuapp.com/$1`
   * [x] Open-Source
@@ -283,7 +283,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   * [x] Decentralized Options | [Onion](https://searx.space)
 
 * **SearxNG**
-  * [Homepage](https://searxng.org) | [Repo](https://github.com/searxng/searxng) ⭐ 38,612 | 🐛 202 | 🌐 Python | 📅 2026-10-19
+  * [Homepage](https://searxng.org) | [Repo](https://github.com/searxng/searxng) ⭐ 38,658 | 🐛 202 | 🌐 Python | 📅 2026-10-19
   * Fork of SearX with UI improvements (including to the settings page) and updates to the selfhosting procedure.
   * [Public Instances](https://searx.space)
   * [x] Open-Source
@@ -351,12 +351,12 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   ⓘ Developement of Privacy Redirect has ended/paused, consider using LibRedirect instead
 
 * **LibRedirect**
-  * [Homepage & Download](https://libredirect.github.io) | [Repo](https://github.com/libredirect/libredirect) ⭐ 4,081 | 🐛 51 | 🌐 JSON | 📅 2026-10-12
+  * [Homepage & Download](https://libredirect.github.io) | [Repo](https://github.com/libredirect/libredirect) ⭐ 4,087 | 🐛 55 | 🌐 JSON | 📅 2026-10-12
   * Maintained fork of Privacy Redirect with new services added and a refreshed UI.
   * [x] Open-Source
 
 * **Redirector**
-  * [Homepage & Download](https://einaregilsson.com/redirector) | [Repo](https://github.com/einaregilsson/Redirector) ⭐ 2,094 | 🐛 178 | 🌐 JavaScript | 📅 2025-07-27
+  * [Homepage & Download](https://einaregilsson.com/redirector) | [Repo](https://github.com/einaregilsson/Redirector) ⭐ 2,094 | 🐛 177 | 🌐 JavaScript | 📅 2025-07-27
   * If a service you want to redirect to is not supported by LibRedirect, this extension lets you manually define redirects.
   * [x] Open-Source
 
@@ -369,7 +369,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   ⓘ Not Open Source, but made by a trustworthy company and operates with a [good privacy policy](https://www.ssllabs.com/downloads/Qualys_SSL_Labs_Terms_of_Use.pdf).
 
 * **Translate You Libre**
-  * [Download](https://github.com/bnyro/translateyou/releases) ⭐ 1,561 | 🐛 28 | 🌐 Kotlin | 📅 2026-07-04 | [Repo](https://github.com/Bnyro/TranslateYou) ⭐ 1,561 | 🐛 28 | 🌐 Kotlin | 📅 2026-07-04
+  * [Download](https://github.com/bnyro/translateyou/releases) ⭐ 1,562 | 🐛 28 | 🌐 Kotlin | 📅 2026-07-04 | [Repo](https://github.com/Bnyro/TranslateYou) ⭐ 1,562 | 🐛 28 | 🌐 Kotlin | 📅 2026-07-04
   * FOSS Android frontend for LibreTranslate and Lingva. Uses Material You
   * [x] Open-Source
 
@@ -395,4 +395,4 @@ YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
