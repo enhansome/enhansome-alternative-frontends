@@ -26,15 +26,15 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ### YouTube
 
 * **Invidious**
-  * [Homepage](https://invidious.io) | [Repo](https://github.com/iv-org/invidious) ⭐ 25,581 | 🐛 500 | 🌐 Crystal | 📅 2026-10-19
-  * [x] Decentralized Options | [I2P](http://tube.i2p) | [Onion](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md#tor-onion-services) ⭐ 818 | 🐛 38 | 🌐 Dockerfile | 📅 2026-09-30 | [Loki](http://invidious.loki)
+  * [Homepage](https://invidious.io) | [Repo](https://github.com/iv-org/invidious) ⭐ 25,606 | 🐛 499 | 🌐 Crystal | 📅 2026-10-22
+  * [x] Decentralized Options | [I2P](http://tube.i2p) | [Onion](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md#tor-onion-services) ⭐ 819 | 🐛 37 | 🌐 Dockerfile | 📅 2026-10-22 | [Loki](http://invidious.loki)
   * Lightweight YouTube frontend - no tracking, no ads and Javascript is optional.
   * [Public Instances](https://docs.invidious.io/instances)
   * [x] Open-Source
   * [x] Self-Hostable | [Guide](https://docs.invidious.io/Installation.md)
 
 * **Piped**
-  * [Main Instance](https://piped.video) | [Repo](https://github.com/TeamPiped/Piped) ⭐ 10,289 | 🐛 323 | 🌐 Vue | 📅 2026-10-21
+  * [Main Instance](https://piped.video) | [Repo](https://github.com/TeamPiped/Piped) ⭐ 10,287 | 🐛 323 | 🌐 Vue | 📅 2026-10-21
   * Alternative privacy-friendly YouTube frontend. Lightweight, no ads (Sponsorblock integrated), no tracking, 4K support and more.
   * [Public Instances](https://piped.kavin.rocks/preferences) (scroll down)
   * [x] Open-Source
@@ -49,8 +49,8 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   * [x] Self-Hostable | [Guide](https://git.sr.ht/~cadence/tube-docs/tree/main/item/docs/cloudtube/Installing%20CloudTube.md)
 
 * **Viewtube**
-  * [Main Instance](https://viewtube.io/) | [Repo](https://github.com/ViewTube/viewtube-vue) ⭐ 1,475 | 🐛 83 | 🌐 TypeScript | 📅 2026-10-21
-  * [x] Self-Hostable | [Guide](https://github.com/ViewTube/viewtube-vue#host-it-yourself) ⭐ 1,475 | 🐛 83 | 🌐 TypeScript | 📅 2026-10-21
+  * [Main Instance](https://viewtube.io/) | [Repo](https://github.com/ViewTube/viewtube-vue) ⭐ 1,475 | 🐛 83 | 🌐 TypeScript | 📅 2026-10-22
+  * [x] Self-Hostable | [Guide](https://github.com/ViewTube/viewtube-vue#host-it-yourself) ⭐ 1,475 | 🐛 83 | 🌐 TypeScript | 📅 2026-10-22
   * Privacy-respecting frontend with subscription, watch-progress and recommendation features.
   * Public Instances n/a
   * [x] Open-Source
@@ -142,10 +142,10 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ### Tiktok
 
 * **ProxiTok**
-  * [Main Instance](https://proxitok.pabloferreiro.es) | [Repo](https://github.com/pablouser1/ProxiTok) ⭐ 2,149 | 🐛 51 | 🌐 PHP | 📅 2025-05-31
-  * [Public Instances](https://github.com/pablouser1/ProxiTok/wiki/Public-instances#clearnet) ⭐ 2,149 | 🐛 51 | 🌐 PHP | 📅 2025-05-31
-  * [x] Self-Hostable | [Guide](https://github.com/pablouser1/ProxiTok#installation) ⭐ 2,149 | 🐛 51 | 🌐 PHP | 📅 2025-05-31
-  * [x] Decentralized Options | [Onion](https://github.com/pablouser1/ProxiTok/wiki/Public-instances#tor) ⭐ 2,149 | 🐛 51 | 🌐 PHP | 📅 2025-05-31
+  * [Main Instance](https://proxitok.pabloferreiro.es) | [Repo](https://github.com/pablouser1/ProxiTok) ⭐ 2,151 | 🐛 51 | 🌐 PHP | 📅 2025-05-31
+  * [Public Instances](https://github.com/pablouser1/ProxiTok/wiki/Public-instances#clearnet) ⭐ 2,151 | 🐛 51 | 🌐 PHP | 📅 2025-05-31
+  * [x] Self-Hostable | [Guide](https://github.com/pablouser1/ProxiTok#installation) ⭐ 2,151 | 🐛 51 | 🌐 PHP | 📅 2025-05-31
+  * [x] Decentralized Options | [Onion](https://github.com/pablouser1/ProxiTok/wiki/Public-instances#tor) ⭐ 2,151 | 🐛 51 | 🌐 PHP | 📅 2025-05-31
   * Open-Source frontend for Tiktok that proxies users requests.
   * [x] Open-Source
 
@@ -275,7 +275,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   * [x] Open-Source
 
 * **SearX**
-  * [Homepage](https://searx.github.io/searx) | [Repo](https://github.com/searx/searx) ⭐ 13,556 | 🐛 337 | 🌐 Python | 📅 2026-05-14
+  * [Homepage](https://searx.github.io/searx) | [Repo](https://github.com/searx/searx) ⭐ 13,558 | 🐛 337 | 🌐 Python | 📅 2026-05-14
   * Privacy-respecting, self-hostable metasearch engine. Acts as frontend for more than 70 search services.
   * [Public Instances](https://searx.space)
   * [x] Open-Source
@@ -283,7 +283,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   * [x] Decentralized Options | [Onion](https://searx.space)
 
 * **SearxNG**
-  * [Homepage](https://searxng.org) | [Repo](https://github.com/searxng/searxng) ⭐ 38,709 | 🐛 202 | 🌐 Python | 📅 2026-10-19
+  * [Homepage](https://searxng.org) | [Repo](https://github.com/searxng/searxng) ⭐ 38,744 | 🐛 205 | 🌐 Python | 📅 2026-10-19
   * Fork of SearX with UI improvements (including to the settings page) and updates to the selfhosting procedure.
   * [Public Instances](https://searx.space)
   * [x] Open-Source
@@ -351,7 +351,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   ⓘ Developement of Privacy Redirect has ended/paused, consider using LibRedirect instead
 
 * **LibRedirect**
-  * [Homepage & Download](https://libredirect.github.io) | [Repo](https://github.com/libredirect/libredirect) ⭐ 4,089 | 🐛 55 | 🌐 JSON | 📅 2026-10-12
+  * [Homepage & Download](https://libredirect.github.io) | [Repo](https://github.com/libredirect/libredirect) ⭐ 4,091 | 🐛 57 | 🌐 JSON | 📅 2026-10-12
   * Maintained fork of Privacy Redirect with new services added and a refreshed UI.
   * [x] Open-Source
 
@@ -395,4 +395,4 @@ YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
