@@ -26,15 +26,15 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ### YouTube
 
 * **Invidious**
-  * [Homepage](https://invidious.io) | [Repo](https://github.com/iv-org/invidious) ⭐ 25,820 | 🐛 490 | 🌐 Crystal | 📅 2026-11-01
-  * [x] Decentralized Options | [I2P](http://tube.i2p) | [Onion](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md#tor-onion-services) ⭐ 821 | 🐛 38 | 🌐 Dockerfile | 📅 2026-10-24 | [Loki](http://invidious.loki)
+  * [Homepage](https://invidious.io) | [Repo](https://github.com/iv-org/invidious) ⭐ 25,838 | 🐛 488 | 🌐 Crystal | 📅 2026-11-03
+  * [x] Decentralized Options | [I2P](http://tube.i2p) | [Onion](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md#tor-onion-services) ⭐ 819 | 🐛 38 | 🌐 Dockerfile | 📅 2026-10-24 | [Loki](http://invidious.loki)
   * Lightweight YouTube frontend - no tracking, no ads and Javascript is optional.
   * [Public Instances](https://docs.invidious.io/instances)
   * [x] Open-Source
   * [x] Self-Hostable | [Guide](https://docs.invidious.io/Installation.md)
 
 * **Piped**
-  * [Main Instance](https://piped.video) | [Repo](https://github.com/TeamPiped/Piped) ⭐ 10,300 | 🐛 324 | 🌐 Vue | 📅 2026-10-30
+  * [Main Instance](https://piped.video) | [Repo](https://github.com/TeamPiped/Piped) ⭐ 10,301 | 🐛 324 | 🌐 Vue | 📅 2026-10-30
   * Alternative privacy-friendly YouTube frontend. Lightweight, no ads (Sponsorblock integrated), no tracking, 4K support and more.
   * [Public Instances](https://piped.kavin.rocks/preferences) (scroll down)
   * [x] Open-Source
@@ -49,8 +49,8 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   * [x] Self-Hostable | [Guide](https://git.sr.ht/~cadence/tube-docs/tree/main/item/docs/cloudtube/Installing%20CloudTube.md)
 
 * **Viewtube**
-  * [Main Instance](https://viewtube.io/) | [Repo](https://github.com/ViewTube/viewtube-vue) ⭐ 1,476 | 🐛 84 | 🌐 TypeScript | 📅 2026-10-31
-  * [x] Self-Hostable | [Guide](https://github.com/ViewTube/viewtube-vue#host-it-yourself) ⭐ 1,476 | 🐛 84 | 🌐 TypeScript | 📅 2026-10-31
+  * [Main Instance](https://viewtube.io/) | [Repo](https://github.com/ViewTube/viewtube-vue) ⭐ 1,476 | 🐛 84 | 🌐 TypeScript | 📅 2026-11-02
+  * [x] Self-Hostable | [Guide](https://github.com/ViewTube/viewtube-vue#host-it-yourself) ⭐ 1,476 | 🐛 84 | 🌐 TypeScript | 📅 2026-11-02
   * Privacy-respecting frontend with subscription, watch-progress and recommendation features.
   * Public Instances n/a
   * [x] Open-Source
@@ -160,10 +160,10 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 
 * **LibMedium**
 
-  * [Main Instance](https://libmedium.batsense.net) | [Repo](https://github.com/realaravinth/libmedium) ⭐ 95 | 🐛 12 | 🌐 HTML | 📅 2024-06-07
-  * [Public Instances](https://github.com/realaravinth/libmedium#instances) ⭐ 95 | 🐛 12 | 🌐 HTML | 📅 2024-06-07
-  * [x] Self-Hostable | [Guide](https://github.com/realaravinth/libmedium#deploy) ⭐ 95 | 🐛 12 | 🌐 HTML | 📅 2024-06-07
-  * [x] Decentralized Options | [Onion](https://github.com/realaravinth/libmedium#instances) ⭐ 95 | 🐛 12 | 🌐 HTML | 📅 2024-06-07 | [I2P](https://github.com/realaravinth/libmedium#instances) ⭐ 95 | 🐛 12 | 🌐 HTML | 📅 2024-06-07
+  * [Main Instance](https://libmedium.batsense.net) | [Repo](https://github.com/realaravinth/libmedium) ⭐ 96 | 🐛 12 | 🌐 HTML | 📅 2024-06-07
+  * [Public Instances](https://github.com/realaravinth/libmedium#instances) ⭐ 96 | 🐛 12 | 🌐 HTML | 📅 2024-06-07
+  * [x] Self-Hostable | [Guide](https://github.com/realaravinth/libmedium#deploy) ⭐ 96 | 🐛 12 | 🌐 HTML | 📅 2024-06-07
+  * [x] Decentralized Options | [Onion](https://github.com/realaravinth/libmedium#instances) ⭐ 96 | 🐛 12 | 🌐 HTML | 📅 2024-06-07 | [I2P](https://github.com/realaravinth/libmedium#instances) ⭐ 96 | 🐛 12 | 🌐 HTML | 📅 2024-06-07
   * Minimalist proxy for Medium written in Rust
   * [x] Open-Source
 
@@ -244,9 +244,9 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ### Translate
 
 * **Lingva**
-  * [Main Instance](https://lingva.ml/) | [Repo](https://github.com/TheDavidDelta/lingva-translate) ⭐ 1,851 | 🐛 47 | 🌐 TypeScript | 📅 2023-08-01
-  * [Public Instances](https://github.com/TheDavidDelta/lingva-translate#instances) ⭐ 1,851 | 🐛 47 | 🌐 TypeScript | 📅 2023-08-01
-  * [x] Self-Hostable | [Guide](https://github.com/TheDavidDelta/lingva-translate#deployment) ⭐ 1,851 | 🐛 47 | 🌐 TypeScript | 📅 2023-08-01
+  * [Main Instance](https://lingva.ml/) | [Repo](https://github.com/TheDavidDelta/lingva-translate) ⭐ 1,852 | 🐛 47 | 🌐 TypeScript | 📅 2023-08-01
+  * [Public Instances](https://github.com/TheDavidDelta/lingva-translate#instances) ⭐ 1,852 | 🐛 47 | 🌐 TypeScript | 📅 2023-08-01
+  * [x] Self-Hostable | [Guide](https://github.com/TheDavidDelta/lingva-translate#deployment) ⭐ 1,852 | 🐛 47 | 🌐 TypeScript | 📅 2023-08-01
   * Tracking-free Google Translate frontend
   * [x] Open-Source
 
@@ -267,15 +267,15 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   * [x] Open-Source
 
 * **LibreX**
-  * [Main Instance](https://search.femboy.hu) | [Repo](https://github.com/hnhx/librex) ⭐ 843 | 🐛 23 | 🌐 PHP | 📅 2024-08-01
-  * [Public Instances](https://github.com/hnhx/librex#instances) ⭐ 843 | 🐛 23 | 🌐 PHP | 📅 2024-08-01
-  * [x] Self-Hostable | [Guide](https://github.com/hnhx/librex/wiki/How-to-host-LibreX) ⭐ 843 | 🐛 23 | 🌐 PHP | 📅 2024-08-01
-  * [x] Decentralized Options | [I2P](https://github.com/hnhx/librex#instances) ⭐ 843 | 🐛 23 | 🌐 PHP | 📅 2024-08-01 | [Onion](https://github.com/hnhx/librex#instances) ⭐ 843 | 🐛 23 | 🌐 PHP | 📅 2024-08-01
+  * [Main Instance](https://search.femboy.hu) | [Repo](https://github.com/hnhx/librex) ⭐ 844 | 🐛 23 | 🌐 PHP | 📅 2024-08-01
+  * [Public Instances](https://github.com/hnhx/librex#instances) ⭐ 844 | 🐛 23 | 🌐 PHP | 📅 2024-08-01
+  * [x] Self-Hostable | [Guide](https://github.com/hnhx/librex/wiki/How-to-host-LibreX) ⭐ 844 | 🐛 23 | 🌐 PHP | 📅 2024-08-01
+  * [x] Decentralized Options | [I2P](https://github.com/hnhx/librex#instances) ⭐ 844 | 🐛 23 | 🌐 PHP | 📅 2024-08-01 | [Onion](https://github.com/hnhx/librex#instances) ⭐ 844 | 🐛 23 | 🌐 PHP | 📅 2024-08-01
   * A privacy respecting meta search engine for Google and popular torrent sites which can redirect to privacy-respecting frontends
   * [x] Open-Source
 
 * **SearX**
-  * [Homepage](https://searx.github.io/searx) | [Repo](https://github.com/searx/searx) ⭐ 13,562 | 🐛 337 | 🌐 Python | 📅 2026-05-14
+  * [Homepage](https://searx.github.io/searx) | [Repo](https://github.com/searx/searx) ⭐ 13,563 | 🐛 337 | 🌐 Python | 📅 2026-05-14
   * Privacy-respecting, self-hostable metasearch engine. Acts as frontend for more than 70 search services.
   * [Public Instances](https://searx.space)
   * [x] Open-Source
@@ -283,7 +283,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   * [x] Decentralized Options | [Onion](https://searx.space)
 
 * **SearxNG**
-  * [Homepage](https://searxng.org) | [Repo](https://github.com/searxng/searxng) ⭐ 39,097 | 🐛 210 | 🌐 Python | 📅 2026-11-01
+  * [Homepage](https://searxng.org) | [Repo](https://github.com/searxng/searxng) ⭐ 39,146 | 🐛 207 | 🌐 Python | 📅 2026-11-02
   * Fork of SearX with UI improvements (including to the settings page) and updates to the selfhosting procedure.
   * [Public Instances](https://searx.space)
   * [x] Open-Source
@@ -351,12 +351,12 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   ⓘ Developement of Privacy Redirect has ended/paused, consider using LibRedirect instead
 
 * **LibRedirect**
-  * [Homepage & Download](https://libredirect.github.io) | [Repo](https://github.com/libredirect/libredirect) ⭐ 4,105 | 🐛 62 | 🌐 JSON | 📅 2026-10-31
+  * [Homepage & Download](https://libredirect.github.io) | [Repo](https://github.com/libredirect/libredirect) ⭐ 4,106 | 🐛 62 | 🌐 JSON | 📅 2026-10-31
   * Maintained fork of Privacy Redirect with new services added and a refreshed UI.
   * [x] Open-Source
 
 * **Redirector**
-  * [Homepage & Download](https://einaregilsson.com/redirector) | [Repo](https://github.com/einaregilsson/Redirector) ⭐ 2,099 | 🐛 177 | 🌐 JavaScript | 📅 2025-07-27
+  * [Homepage & Download](https://einaregilsson.com/redirector) | [Repo](https://github.com/einaregilsson/Redirector) ⭐ 2,098 | 🐛 177 | 🌐 JavaScript | 📅 2025-07-27
   * If a service you want to redirect to is not supported by LibRedirect, this extension lets you manually define redirects.
   * [x] Open-Source
 
@@ -369,7 +369,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   ⓘ Not Open Source, but made by a trustworthy company and operates with a [good privacy policy](https://www.ssllabs.com/downloads/Qualys_SSL_Labs_Terms_of_Use.pdf).
 
 * **Translate You Libre**
-  * [Download](https://github.com/bnyro/translateyou/releases) ⭐ 1,566 | 🐛 22 | 🌐 Kotlin | 📅 2026-11-01 | [Repo](https://github.com/Bnyro/TranslateYou) ⭐ 1,566 | 🐛 22 | 🌐 Kotlin | 📅 2026-11-01
+  * [Download](https://github.com/bnyro/translateyou/releases) ⭐ 1,569 | 🐛 22 | 🌐 Kotlin | 📅 2026-11-02 | [Repo](https://github.com/Bnyro/TranslateYou) ⭐ 1,569 | 🐛 22 | 🌐 Kotlin | 📅 2026-11-02
   * FOSS Android frontend for LibreTranslate and Lingva. Uses Material You
   * [x] Open-Source
 
@@ -395,4 +395,4 @@ YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
