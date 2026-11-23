@@ -23,10 +23,10 @@
                     "language": "Crystal",
                     "license": "AGPL-3.0",
                     "last_commit": "2026-11-20T20:44:30Z",
-                    "open_issues": 481,
+                    "open_issues": 479,
                     "owner": "iv-org",
                     "repo": "invidious",
-                    "stars": 26111,
+                    "stars": 26141,
                     "topics": [
                       "agplv3",
                       "hacktoberfest",
@@ -56,7 +56,7 @@
                     "open_issues": 38,
                     "owner": "iv-org",
                     "repo": "documentation",
-                    "stars": 827,
+                    "stars": 828,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:36:10.557Z"
@@ -84,7 +84,7 @@
                     "open_issues": 326,
                     "owner": "TeamPiped",
                     "repo": "Piped",
-                    "stars": 10331,
+                    "stars": 10332,
                     "topics": [
                       "activej",
                       "dearrow",
@@ -120,11 +120,11 @@
                     "id": 197559490,
                     "language": "TypeScript",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-11-21T00:01:17Z",
+                    "last_commit": "2026-11-22T21:22:24Z",
                     "open_issues": 86,
                     "owner": "ViewTube",
                     "repo": "viewtube",
-                    "stars": 1480,
+                    "stars": 1479,
                     "topics": [
                       "docker",
                       "nuxt",
@@ -152,11 +152,11 @@
                     "id": 197559490,
                     "language": "TypeScript",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-11-21T00:01:17Z",
+                    "last_commit": "2026-11-22T21:22:24Z",
                     "open_issues": 86,
                     "owner": "ViewTube",
                     "repo": "viewtube",
-                    "stars": 1480,
+                    "stars": 1479,
                     "topics": [
                       "docker",
                       "nuxt",
@@ -281,7 +281,7 @@
                     "open_issues": 195,
                     "owner": "libreddit",
                     "repo": "libreddit",
-                    "stars": 5198,
+                    "stars": 5199,
                     "topics": [
                       "docker",
                       "front-end",
@@ -310,7 +310,7 @@
                     "open_issues": 195,
                     "owner": "libreddit",
                     "repo": "libreddit",
-                    "stars": 5198,
+                    "stars": 5199,
                     "topics": [
                       "docker",
                       "front-end",
@@ -1612,10 +1612,10 @@
                     "language": "Python",
                     "license": "AGPL-3.0",
                     "last_commit": "2026-11-21T10:13:40Z",
-                    "open_issues": 209,
+                    "open_issues": 210,
                     "owner": "searxng",
                     "repo": "searxng",
-                    "stars": 39770,
+                    "stars": 39793,
                     "topics": [
                       "bing",
                       "brave",
@@ -1770,7 +1770,7 @@
                     "open_issues": 53,
                     "owner": "libredirect",
                     "repo": "browser_extension",
-                    "stars": 4119,
+                    "stars": 4118,
                     "topics": [
                       "bibliogram",
                       "chrome-extension",
@@ -1835,7 +1835,7 @@
                     "language": "Kotlin",
                     "license": "GPL-3.0",
                     "last_commit": "2026-11-09T19:29:56Z",
-                    "open_issues": 26,
+                    "open_issues": 27,
                     "owner": "you-apps",
                     "repo": "TranslateYou",
                     "stars": 1591,
@@ -1859,7 +1859,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T01:33:05.938Z",
+    "last_updated": "2026-11-23T01:57:25.357Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔐🌐 Privacy-respecting web frontends for popular services ",
