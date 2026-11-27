@@ -26,7 +26,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ### YouTube
 
 * **Invidious**
-  * [Homepage](https://invidious.io) | [Repo](https://github.com/iv-org/invidious) ⭐ 26,160 | 🐛 478 | 🌐 Crystal | 📅 2026-11-25
+  * [Homepage](https://invidious.io) | [Repo](https://github.com/iv-org/invidious) ⭐ 26,169 | 🐛 477 | 🌐 Crystal | 📅 2026-11-27
   * [x] Decentralized Options | [I2P](http://tube.i2p) | [Onion](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md#tor-onion-services) ⭐ 828 | 🐛 39 | 🌐 Dockerfile | 📅 2026-10-24 | [Loki](http://invidious.loki)
   * Lightweight YouTube frontend - no tracking, no ads and Javascript is optional.
   * [Public Instances](https://docs.invidious.io/instances)
@@ -34,7 +34,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   * [x] Self-Hostable | [Guide](https://docs.invidious.io/Installation.md)
 
 * **Piped**
-  * [Main Instance](https://piped.video) | [Repo](https://github.com/TeamPiped/Piped) ⭐ 10,336 | 🐛 326 | 🌐 Vue | 📅 2026-11-25
+  * [Main Instance](https://piped.video) | [Repo](https://github.com/TeamPiped/Piped) ⭐ 10,339 | 🐛 327 | 🌐 Vue | 📅 2026-11-27
   * Alternative privacy-friendly YouTube frontend. Lightweight, no ads (Sponsorblock integrated), no tracking, 4K support and more.
   * [Public Instances](https://piped.kavin.rocks/preferences) (scroll down)
   * [x] Open-Source
@@ -49,8 +49,8 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   * [x] Self-Hostable | [Guide](https://git.sr.ht/~cadence/tube-docs/tree/main/item/docs/cloudtube/Installing%20CloudTube.md)
 
 * **Viewtube**
-  * [Main Instance](https://viewtube.io/) | [Repo](https://github.com/ViewTube/viewtube-vue) ⭐ 1,478 | 🐛 86 | 🌐 TypeScript | 📅 2026-11-25
-  * [x] Self-Hostable | [Guide](https://github.com/ViewTube/viewtube-vue#host-it-yourself) ⭐ 1,478 | 🐛 86 | 🌐 TypeScript | 📅 2026-11-25
+  * [Main Instance](https://viewtube.io/) | [Repo](https://github.com/ViewTube/viewtube-vue) ⭐ 1,479 | 🐛 86 | 🌐 TypeScript | 📅 2026-11-26
+  * [x] Self-Hostable | [Guide](https://github.com/ViewTube/viewtube-vue#host-it-yourself) ⭐ 1,479 | 🐛 86 | 🌐 TypeScript | 📅 2026-11-26
   * Privacy-respecting frontend with subscription, watch-progress and recommendation features.
   * Public Instances n/a
   * [x] Open-Source
@@ -214,10 +214,10 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
 ### Genius
 
 * **Dumb**
-  * Main Instance n/a | [Repo](https://github.com/rramiachraf/dumb) ⭐ 427 | 🐛 12 | 🌐 Go | 📅 2026-10-21
-  * [Public Instances](https://github.com/rramiachraf/dumb#public-instances) ⭐ 427 | 🐛 12 | 🌐 Go | 📅 2026-10-21
-  * [x] Self-Hostable | [Guide](https://github.com/rramiachraf/dumb#installation--usage) ⭐ 427 | 🐛 12 | 🌐 Go | 📅 2026-10-21
-  * [x] Decentralized Options | [I2P](https://github.com/rramiachraf/dumb#i2p) ⭐ 427 | 🐛 12 | 🌐 Go | 📅 2026-10-21 | [Onion](https://github.com/rramiachraf/dumb#tor) ⭐ 427 | 🐛 12 | 🌐 Go | 📅 2026-10-21
+  * Main Instance n/a | [Repo](https://github.com/rramiachraf/dumb) ⭐ 426 | 🐛 13 | 🌐 Go | 📅 2026-10-21
+  * [Public Instances](https://github.com/rramiachraf/dumb#public-instances) ⭐ 426 | 🐛 13 | 🌐 Go | 📅 2026-10-21
+  * [x] Self-Hostable | [Guide](https://github.com/rramiachraf/dumb#installation--usage) ⭐ 426 | 🐛 13 | 🌐 Go | 📅 2026-10-21
+  * [x] Decentralized Options | [I2P](https://github.com/rramiachraf/dumb#i2p) ⭐ 426 | 🐛 13 | 🌐 Go | 📅 2026-10-21 | [Onion](https://github.com/rramiachraf/dumb#tor) ⭐ 426 | 🐛 13 | 🌐 Go | 📅 2026-10-21
   * Dumb tries to make reading lyrics from Genius a pleasant experience and as lightweight as possible
   * [x] Open-Source
 
@@ -275,7 +275,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   * [x] Open-Source
 
 * **SearX**
-  * [Homepage](https://searx.github.io/searx) | [Repo](https://github.com/searx/searx) ⭐ 13,572 | 🐛 336 | 🌐 Python | 📅 2026-05-14
+  * [Homepage](https://searx.github.io/searx) | [Repo](https://github.com/searx/searx) ⭐ 13,569 | 🐛 336 | 🌐 Python | 📅 2026-05-14
   * Privacy-respecting, self-hostable metasearch engine. Acts as frontend for more than 70 search services.
   * [Public Instances](https://searx.space)
   * [x] Open-Source
@@ -283,7 +283,7 @@ Thanks to **3nprob**, **aaferrari**, **heartlog**, **NxOne14**, **ZekXtreme**, *
   * [x] Decentralized Options | [Onion](https://searx.space)
 
 * **SearxNG**
-  * [Homepage](https://searxng.org) | [Repo](https://github.com/searxng/searxng) ⭐ 39,882 | 🐛 212 | 🌐 Python | 📅 2026-11-23
+  * [Homepage](https://searxng.org) | [Repo](https://github.com/searxng/searxng) ⭐ 39,914 | 🐛 211 | 🌐 Python | 📅 2026-11-26
   * Fork of SearX with UI improvements (including to the settings page) and updates to the selfhosting procedure.
   * [Public Instances](https://searx.space)
   * [x] Open-Source
@@ -395,4 +395,4 @@ YouTube is a trademark of Google LLC. YouTube Music is a trademark of Google LLC
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
